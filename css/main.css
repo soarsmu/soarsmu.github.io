@@ -391,6 +391,7 @@ Publications Style
 #publications h2 {
   color: #fff;
   text-align: center;
+  text-transform: uppercase;
 }
 #publications h3 {
   text-transform: uppercase;
