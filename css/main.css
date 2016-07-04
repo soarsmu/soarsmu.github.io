@@ -382,6 +382,7 @@ Publications Style
 #publications h2 {
   text-transform: uppercase;
   color: #fff;
+  text-align: center;
 }
 #publications h3 {
   text-transform: uppercase;
