@@ -385,6 +385,7 @@ Publications Style
 ========================================================================== */
 #publications {\
   padding: 60px 0;
+  padding-top: 50px;
   text-align: center;
 }
 #publications h2 {
