@@ -383,13 +383,11 @@ Welcome Style
     /* ==========================================================================
 Publications Style
 ========================================================================== */
-#publications {
-  background: #24242a;
+#publications {\
   padding: 60px 0;
   text-align: center;
 }
 #publications h2 {
-  color: #fff;
   text-align: center;
   text-transform: uppercase;
 }
@@ -398,16 +396,14 @@ Publications Style
   text-align: left;
   margin-left: 0;
   padding-left: 0;
-  color: white;
 }
 #publications p {
-  color: #fff;
   text-align: justify;
   margin-left: 2em;
   padding-left: 30;
 }
 #publications a {
-  color: #EC7063;
+
 }
 #publications ul {
   text-align: left;
@@ -418,7 +414,6 @@ Publications Style
   text-align: left;
   margin-left: 0;
   padding-left: 0;
-  color: white;
 }
 #publications .services-box {
   margin-top: 40px;
@@ -441,14 +436,12 @@ Publications Style
 #publications .services-box .col-md-4 .media-right h3,
 #publications .services-box .col-md-4 .media-body h3 {
   text-transform: uppercase;
-  color: #fff;
   text-align: left;
 }
 #publications .services-box .col-md-4 .media-left span,
 #publications .services-box .col-md-4 .media-right span,
 #publications .services-box .col-md-4 .media-body span {
   font-size: 36px;
-  color: #fff;
 }
 
     /* ==========================================================================
@@ -457,13 +450,21 @@ Portfolio Style
 #portfolio {
   padding: 60px 0;
   text-align: center;
+  background: #24242a;
 }
 #portfolio h2 {
   text-transform: uppercase;
+  color: white
 }
 #portfolio p {
   margin-bottom: 40px;
+  color: white
 }
+
+#portfolio hr{
+  border-color: white
+}
+
 #portfolio .container-fluid {
   padding-left: 0;
   padding-right: 0;
