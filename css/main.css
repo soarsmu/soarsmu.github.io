@@ -265,7 +265,7 @@ Sliders Style
 }
 #owl-hero .item .caption {
   position: absolute;
-  top: 60%;
+  top: 85%;
   margin-top: -104px;
   left: 0;
   right: 0;
@@ -348,10 +348,10 @@ Sliders Style
   border: 1px solid #fff;
   z-index: 20;
   text-align: center;
-  -moz-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.7s ease-in-out;
+  -o-transition: all 0.7s ease-in-out;
+  -webkit-transition: all 0.7s ease-in-out;
+  transition: all 0.7s ease-in-out;
 }
 
 #owl-hero:hover .owl-prev {
