@@ -33,7 +33,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-	<script src="js/jquery-3.0.0.min.js"></script> 
+	<!--<script src="js/jquery-3.0.0.min.js"></script> 
     <script> 
     $(function(){
       $("#includedContent").load("publications.html"); 
@@ -63,7 +63,7 @@
                     <div class="col-md-8 col-xs-12 nav-wrap">
                         <ul class="nav navbar-nav">
                             <li><a href="#owl-hero" class="page-scroll">Home</a></li>
-                            <li><a href="#publications" class="page-scroll">Publications</a></li>
+                            <li><a href="publications.html#publications" class="page-scroll">Publications</a></li>
                             <li><a href="#team" class="page-scroll">People</a></li>
                             <li><a href="#contact" class="page-scroll">Contact</a></li>
                         </ul>
@@ -81,17 +81,22 @@
             </div>
         </nav>
         <div id="owl-hero" class="owl-carousel owl-theme">
+            <div class="item" style="background-image: url(img/sliders/sky.jpg)">
+                <div class="caption">
+					<img src="img/logo/logo.png"></img>
+                    <h1><span>SOAR</span></h1>
+                    <h2><b>SO</b>ftware <b>A</b>nalytics <b>R</b>esearch Group</h2>
+                    <h3>"Soar high to the endless sky"</h3>
+                </div>
+            </div>
             <div class="item" style="background-image: url(img/team/GroupSIS.jpg)">
                 <div class="caption">
                     <!--<h6>Branding / Design / Creativty</h6>-->
-                    <h1>We Are <span>SOAR</span> Group</h1>
+                    <h1></h1>
                     <!--<<a class="btn btn-transparent" href="#">Learn More</a><a class="btn btn-light" href="#">Buy Now</a>-->
                 </div>
             </div>
             <div class="item" style="background-image: url(img/team/GroupMeeting.jpg)">
-                <div class="captionGroup">
-				    <!--<h1>Software <span>Analytics</span></h1>-->
-                </div>
             </div>
             <div class="item" style="background-image: url(img/team/GroupDinner.jpg)">
                 <div class="caption">
@@ -118,97 +123,85 @@
 	
 	   <!-- Portfolio
 	============================================= -->
+		
     <section id="portfolio">
         <div class="container-fluid">
             <h2>Our Work</h2>
-            <!--<hr class="sep">--> <br>
-            <p>Showcase Your Amazing Work With Us</p>
+            <!--<hr class="sep">--> 
+            <p></p>
             <div class="row">
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a class="portfolio-box" href="img/portfolio/1.jpg" data-lightbox="image-1" data-title="Your caption">
+					<a class="btn btn-info btn-lg portfolio-box" data-toggle="modal" data-target="#defect-management">
+                    <!--<a class="portfolio-box" href="img/portfolio/1.jpg" data-lightbox="image-1" data-title="Your caption">-->
                         <img src="img/portfolio/1.jpg" class="img-responsive" alt="1">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Defect Management
                                 </div>
-                                <div class="project-name">
+                                <!--<div class="project-name">
                                     Project Name
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="img/portfolio/2.jpg" class="portfolio-box" data-lightbox="image-2" data-title="Your caption">
+					<a class="btn btn-info btn-lg portfolio-box" data-toggle="modal" data-target="#code-search">
                         <img src="img/portfolio/2.jpg" class="img-responsive" alt="2">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Specification Mining
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="img/portfolio/3.jpg" class="portfolio-box" data-lightbox="image-3" data-title="Your caption">
-                        <img src="img/portfolio/3.jpg" class="img-responsive" alt="3">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Code Search
                                 </div>
-                                <div class="project-name">
-                                    Project Name
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
+					<a class="btn btn-info btn-lg portfolio-box" data-toggle="modal" data-target="#specification-mining">
+                        <img src="img/portfolio/3.jpg" class="img-responsive" alt="3">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Specification Mining
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="img/portfolio/4.jpg" class="portfolio-box" data-lightbox="image-4" data-title="Your caption">
+					<a class="btn btn-info btn-lg portfolio-box" data-toggle="modal" data-target="#empirical-study">
                         <img src="img/portfolio/4.jpg" class="img-responsive" alt="4">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Empirical Study
                                 </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="img/portfolio/5.jpg" class="portfolio-box" data-lightbox="image-5" data-title="Your caption">
+					<a class="btn btn-info btn-lg portfolio-box" data-toggle="modal" data-target="#social-coding">
                         <img src="img/portfolio/5.jpg" class="img-responsive" alt="5">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Social Coding
                                 </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="img/portfolio/6.jpg" class="portfolio-box" data-lightbox="image-6" data-title="Your caption">
+					<a class="btn btn-info btn-lg portfolio-box" data-toggle="modal" data-target="#misc">
+                    <!--<a href="img/portfolio/6.jpg" class="portfolio-box" data-lightbox="image-6" data-title="Your caption">-->
                         <img src="img/portfolio/6.jpg" class="img-responsive" alt="6">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Misc
-                                </div>
-                                <div class="project-name">
-                                    Project Name
                                 </div>
                             </div>
                         </div>
@@ -217,17 +210,144 @@
             </div>
         </div>
     </section>
-  
+	
+<div id="defect-management" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Defect Management</h4>
+      </div>
+      <div class="modal-body">
+	  <p>Tian Yuan, Julia Lawall, and David Lo. Identifying Linux
+Bug Fixing Patches, in Proceedings of the 34th ACM/IEEE International
+Conference on Software Engineering (ICSE 2012), Zurich, Switzerland.
+June 2-9, 2012. [<a href="https://soarsmu.github.io/papers/icse12-patch.pdf" target="_blank">pdf</a>]</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
 
+  </div>
+</div>
+
+  </div>
+</div>
+  
+ <div id="code-search" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Code Search</h4>
+      </div>
+      <div class="modal-body">
+	  <p>Tian Yuan, Julia Lawall, and David Lo. Identifying Linux
+Bug Fixing Patches, in Proceedings of the 34th ACM/IEEE International
+Conference on Software Engineering (ICSE 2012), Zurich, Switzerland.
+June 2-9, 2012. [<a href="https://soarsmu.github.io/papers/icse12-patch.pdf" target="_blank">pdf</a>]</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<div id="specification-mining" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Specification Mining</h4>
+      </div>
+      <div class="modal-body">
+	  <p>Tian Yuan, Julia Lawall, and David Lo. Identifying Linux
+Bug Fixing Patches, in Proceedings of the 34th ACM/IEEE International
+Conference on Software Engineering (ICSE 2012), Zurich, Switzerland.
+June 2-9, 2012. [<a href="https://soarsmu.github.io/papers/icse12-patch.pdf" target="_blank">pdf</a>]</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+	</div>
+</div>
+
+<div id="empirical-study" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Empirical Study</h4>
+      </div>
+      <div class="modal-body">
+	  <p>Tian Yuan, Julia Lawall, and David Lo. Identifying Linux
+Bug Fixing Patches, in Proceedings of the 34th ACM/IEEE International
+Conference on Software Engineering (ICSE 2012), Zurich, Switzerland.
+June 2-9, 2012. [<a href="https://soarsmu.github.io/papers/icse12-patch.pdf" target="_blank">pdf</a>]</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div id="social-coding" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Social Coding</h4>
+      </div>
+      <div class="modal-body">
+	  <p>Tian Yuan, Julia Lawall, and David Lo. Identifying Linux
+Bug Fixing Patches, in Proceedings of the 34th ACM/IEEE International
+Conference on Software Engineering (ICSE 2012), Zurich, Switzerland.
+June 2-9, 2012. [<a href="https://soarsmu.github.io/papers/icse12-patch.pdf" target="_blank">pdf</a>]</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div id="misc" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Misc</h4>
+      </div>
+      <div class="modal-body">
+	  <p>Tian Yuan, Julia Lawall, and David Lo. Identifying Linux
+Bug Fixing Patches, in Proceedings of the 34th ACM/IEEE International
+Conference on Software Engineering (ICSE 2012), Zurich, Switzerland.
+June 2-9, 2012. [<a href="https://soarsmu.github.io/papers/icse12-patch.pdf" target="_blank">pdf</a>]</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
     <!-- Publications
-	============================================= -->
+	============================================= 
     <section id="publications">
         <div class="container">
             <h2>Publications</h2> 
 			
             <hr class="sep">
 			
-			<!--Check out publications.html-->
+			<!--Check out publications.html
             <div id="includedContent"></div>			
         </div>
     </section>
@@ -326,9 +446,9 @@ work only with <span>Rise</span>.<i class="fa fa-quote-right right fa-2x"></i></
         <div class="container">
             <h2>Contact Us</h2>
             <hr class="sep">
-			<p>Email us at: <b>soarsmu@gmail.com</b> or fill the form below.</p>
-			<p> Feel free to get in touch with any of the members directly.</p>
-            <!--<p>Get In Touch</p>-->
+			<p>Email us at: <b>soarsmu@gmail.com</b>.</p>
+			<!--<p> Feel free to get in touch with any of the members directly.</p>
+            <p>Get In Touch</p>
             <div class="col-md-6 col-md-offset-3 wow fadeInUp" data-wow-delay=".3s">
                 <form action="MAILTO:soarsmu@gmail.com" method="post" enctype="text/plain">
                     <div class="form-group">
@@ -342,11 +462,11 @@ work only with <span>Rise</span>.<i class="fa fa-quote-right right fa-2x"></i></
                     </div>
                     <input type="submit" value="Send">
                 </form>
-            </div>
+            </div>-->
         </div>
     </section>
     <!-- Google Map
-	============================================= -->
+	============================================= 
     <div id="map"></div>
     <!-- Footer
 	============================================= -->

@@ -265,7 +265,7 @@ Sliders Style
 }
 #owl-hero .item .caption {
   position: absolute;
-  top: 85%;
+  top: 50%;
   margin-top: -104px;
   left: 0;
   right: 0;
@@ -288,10 +288,25 @@ Sliders Style
 }
 
 #owl-hero .item .caption h1 {
-  margin-top: 40px;
-  margin-bottom: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   text-transform: uppercase;
 }
+
+#owl-hero .item .caption h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color:white;
+}
+
+
+#owl-hero .item .caption h3 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  color:white;
+  font-style:italic;
+}
+
 #owl-hero .item .caption h1 span {
   font-weight: 700;
   color:white;
@@ -319,10 +334,10 @@ Sliders Style
   border-radius: 50%;
   background: transparent;
   opacity: 1;
-  -moz-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5 ease-in-out;
 }
 #owl-hero .owl-buttons div {
   background: #fff;
@@ -385,7 +400,7 @@ Publications Style
 ========================================================================== */
 #publications {\
   padding: 60px 0;
-  padding-top: 50px;
+  padding-top: 80px;
   text-align: center;
 }
 #publications h2 {
@@ -517,7 +532,14 @@ Portfolio Style
 #portfolio .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
-
+.btn {
+   background: none;
+   border: none;
+   padding: 0 0 0 0;
+}
+.modal-dialog{
+	width:70%;
+}
     /* ==========================================================================
 Work Process Style
 ========================================================================== */
