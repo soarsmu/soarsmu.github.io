@@ -623,7 +623,6 @@ Our Team Style
 #team .team a {
   color: #0d0d0d;
   font-size: 22px;
-  padding-right: 10px;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -638,6 +637,7 @@ Our Team Style
 .profpic{
   height: 200px;
 }
+
 .img-circle {
     border-radius: 50%;
 }
