@@ -466,7 +466,7 @@ Portfolio Style
 #portfolio {
   padding: 60px 0;
   text-align: center;
-  background: #24242a;
+  background: darkslategray ; //#24242a;
 }
 #portfolio h2 {
   text-transform: uppercase;
@@ -540,6 +540,16 @@ Portfolio Style
 .modal-dialog{
 	width:70%;
 }
+
+.workdesc{
+	padding:0px 200px 0px 200px;
+}
+
+.workdesc p{
+	text-align:left;
+}
+
+
     /* ==========================================================================
 Work Process Style
 ========================================================================== */
