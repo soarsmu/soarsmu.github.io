@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Our SOftware Analytics Research (SOAR) group primarily works at the intersection of **software engineering** and **data science**, encompassing socio-technical aspects, and analysis of different kinds of software artefacts (e.g., code, execution traces, bug reports, Q&A posts, and developer networks) and the interplay among them. We are particularly interested in transforming passive software engineering data into automated tools that can improve system reliability, security, and performance, increase developer productivity, and generate new insights for decision makers. We are also interested in connecting with practitioners to distil insights and discover pain points that can help direct future research effort.
+We are SOftware Analytics Research (SOAR) group at [School of Information System](https://sis.smu.edu.sg/), [Singapore Management University](https://smu.edu.sg/). We primarily work at the intersection of **software engineering** and **data science**, encompassing socio-technical aspects, and analysis of different kinds of software artefacts (e.g., code, execution traces, bug reports, Q&A posts, and developer networks) and the interplay among them. We are particularly interested in transforming passive software engineering data into automated tools that can improve system reliability, security, and performance, increase developer productivity, and generate new insights for decision makers. We are also interested in connecting with practitioners to distil insights and discover pain points that can help direct future research effort.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
