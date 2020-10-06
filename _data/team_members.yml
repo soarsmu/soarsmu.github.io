@@ -1,4 +1,4 @@
-- name: David Lo
+- name: <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a>
   photo: PhotoDLo-small.JPG
   info: Associate Professor and Lee Kuan Yew Fellow
   email: davidlo@smu.edu.sg
@@ -6,81 +6,73 @@
   education1: PhD at NUS
   education2: B.S. at NTU
 
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+- name: Ferdian THUNG
+  photo: ferdian.jpg
+  info: Research Scientist, Sep 2018
+  email: ferdianthung@smu.edu.sg
+  number_educ: 2
+  education1: PhD at SMU, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a> 
+  education2: B.Eng. at Bandung Institute of Technology
 
-- name: Zhou Yang
+
+- name: Muhammad Hilmi ASYROFI
+  photo: Muhammad_Hilmi.jpg
+  info: Research Engineer, started Nov 2019
+  email: mhilmia@smu.edu.sg
+  number_educ: 1
+  education1: B.S. at Institut Teknologi Bandung
+
+- name: <a href="https://www.notion.so/Zhou-Yang-s-Homepage-15e6a48dfe2e449aa41e2e8313f251bd">Zhou YANG</a>
   photo: yangzhou.png
   info: Research Engineer, started Sep 2020
   email: zyang@smu.edu.sg
   number_educ: 2
   education1: MSc at UCL, with <a href="http://earlbarr.com">Earl Barr</a> and <a href="http://www.monperrus.net/martin/">Martin Monperrus</a> (external supervisor).
-  education2: B.S. at Yangzhou University
+  education2: B.Eng. at Yangzhou University
 
-- name: Chengran Yang
+- name: Chengran YANG
   photo: chengran.jpeg
   info: Research Engineer, started Sep 2020
   email: cryang@smu.edu.sg
   number_educ: 1
   education1: B.S. at UESTC
 
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
+- name: Ting ZHANG
+  photo: tingzhang.jpg
+  info: PhD Student, started Jan 2020
+  email: tingzhang.2019@phdcs.smu.edu.sg
   number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+  education1: MSc in Information Systems from NTU.
+  education2: B.Eng. in Computer Science and Technology from SYSU.
 
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
+- name: Xin ZHOU
+  photo: xinzhou.jpg
+  info: PhD Student, started Sept 2020
+  email: xinzhou.2020@phdcs.smu.edu.sg
   number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
+  education1: B.Eng. in Automation from Beijing Institute of Technology
 
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
 
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
 
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
+- name: <a href="http://www.bowenxu.me">Bowen XU</a>
+  photo: bowen.jpg
+  info: PhD Student, started Aug 2017
+  email: bowenxu.2017@phdcs.smu.edu.sg
   number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-  education3:
-  education4:
+  education1: M.Eng from the Colloge of Computer Science and Technology of ZJU, supervised by <a href="http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498">Prof. Shanping Li</a> and <a href="https://research.monash.edu/en/persons/xin-xia">Prof. Xin Xia</a>.
+
+- name: Gede Artha Azriadi PRANA
+  photo: Gede_Artha.jpg
+  info: PhD student, Jan 2017
+  email: arthaprana.2016@phdcs.smu.edu.sg
+  number_educ: 2
+  education1: M.Tech. at National University of Singapore 
+  education2: B.Eng.(Hons) at Nanyang Technological University
 
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  email: you@smu.edu.sg
   number_educ: 0
   education1:
   education2:
