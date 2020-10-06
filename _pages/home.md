@@ -1,7 +1,7 @@
 ---
-title: "SOftware Analytics Research Group"
+title: "SOAR"
 layout: homelay
-excerpt: "Software Analytics Research Group at Singapore Management University."
+excerpt: "SOAR @ SMU"
 sitemap: false
 permalink: /
 ---

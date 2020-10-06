@@ -1,17 +1,17 @@
 ---
-title: "Allan Lab - Publications"
+title: "SOAR - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "SOAR -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 
 # Publications
-
+<!-- 
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lo_0001:David), [Google Scholar](http://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,8 +51,11 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
 ## Full List
+ -->
+
+(For a full list, please go to [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lo_0001:David) or [Google Scholar](http://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en))
+
 
 {% for publi in site.data.publist %}
 
