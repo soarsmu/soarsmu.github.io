@@ -6,13 +6,8 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
-## Leiden
-
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
@@ -25,8 +20,9 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 <div class="row">
 {% endif %}
 
-<div class="col-sm-3 clearfix">
+<div class="col-sm-6 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<!-- <a>{{pic.title}}</a> -->
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -53,26 +49,24 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 
 <p> &nbsp; </p>
 
-First advertisement.
+
+
+<!-- ## SMU Campus
+
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/SMU_SIS2.jpeg" width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/SMU_SIS.jpeg" width="60%">
 </figure>
 
 
-## ETHZ
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
+## Animals in the Campus
 
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/cat.jpeg" width="60%">
 </figure>
-
-## St Andrews
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/cat2.jpeg" width="60%">
+</figure> -->
