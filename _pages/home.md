@@ -44,17 +44,15 @@ We are SOftware Analytics Research (SOAR) group at [School of Information System
   </a>
 </div>
 
+Our group **loves to collaborate**. Aside from colleagues in SMU, our group has collaborated with Microsoft Research (Redmond and India), Adobe (USA), SAP (Germany), University of Illinois at Urbana Champaign (USA), CMU (USA), NUS, NTU, Zhejiang University (China), Peking University (China), Chinese University of Hong Kong (China), IIITD (India), Weizmann Institute of Science (Israel), Tel Aviv University (Israel), University of Milano-Biccoca (Italy), DIKU (Denmark), Inria (France), Monash University (Australia), Australian National University (Australia), Stellenbosch University (South Africa), and many more.
 
+Our work has been published in **top/major conferences and journals** in the areas of software engineering (ICSE, FSE, ASE, ISSTA, ICSME, PLDI, TSE, TOSEM), artificial intelligence and data science (IJCAI, AAAI, KDD, VLDB, ICDE, ACL), and cybersecurity (ESORICS, TIFS).
 
+ **We are  looking for passionate new PhD students, Postdocs, and Research Engineers to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)**!** We are grateful for funding from [NRF](https://www.nrf.gov.sg/), [MoE](https://www.moe.gov.sg/), [AI Singapore](https://www.aisingapore.org/), and from [SDSC](https://sdsc.sg/).
 
-Our group loves to collaborate. Aside from colleagues in SMU, our group has collaborated with Microsoft Research (Redmond and India), Adobe (USA), SAP (Germany), University of Illinois at Urbana Champaign (USA), CMU (USA), NUS, NTU, Zhejiang University (China), Peking University (China), Chinese University of Hong Kong (China), IIITD (India), Weizmann Institute of Science (Israel), Tel Aviv University (Israel), University of Milano-Biccoca (Italy), DIKU (Denmark), Inria (France), Monash University (Australia), Australian National University (Australia), Stellenbosch University (South Africa), and many more.
-
-Our work has been published in top/major conferences and journals in the areas of software engineering (ICSE, FSE, ASE, ISSTA, ICSME, PLDI, TSE, TOSEM), artificial intelligence and data science (IJCAI, AAAI, KDD, VLDB, ICDE, ACL), and cybersecurity (ESORICS, TIFS).
-
- **We are  looking for passionate new PhD students, Postdocs, and Research Engineers to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)**!** We are grateful for funding from Singapore Management University, [NRF](https://www.nrf.gov.sg/), [MoE](https://www.moe.gov.sg/), and from [AI Singapore](https://www.aisingapore.org/).
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nrf_square.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_moe.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_aisgv.png" style="width: 90px">  
-</figure>
+<div class="w-100">
+  <a href="https://www.nrf.gov.sg/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nrf_square.png" style="width: 110px" ></a>
+  <a href="https://www.moe.gov.sg/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_moe.png" style="width: 110px"></a>
+  <a href="https://www.aisingapore.org/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_aisgv.png" style="width: 90px"></a>
+  <a href="https://sdsc.sg/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_sdsc.png" style="width: 140px"></a> 
+</div>
