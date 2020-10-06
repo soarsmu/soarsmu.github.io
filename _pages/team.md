@@ -134,6 +134,34 @@ Jump to [Staff and PhD Students](#staff), [Master and Bachelor Students](#master
 
 ## Alumni
 
+### Graduated PhD Students
+
+
+
+* Lingfeng Bao (Jun 2017 – Sep 2018)
+Employment: Distinguished Researcher, Zhejiang University City College, China
+* Zhiyuan Wan (July – Dec 2018)
+Employment: Postdoc, University of British Columbia, Canada
+* Tien-Duy B. Le
+Employment: Hudson River Trading, Singapore
+
+###  Long-Term (1 year or longer) Visiting PhD Students (incomplete list):
+* Xiaoyin Wang, from Peking University, China (2008 –2009)
+Employment: Associate Professor, University of Texas at San Antonio, USA
+* Xin Xia, from Zhejiang University, China (2012 –2014)
+Employment: Lecturer (equiv. to Assistant Professor), Monash University, Australia
+* Zhang Yun, from Zhejiang University, China
+Employment: Associate Professor, Zhejiang University City College, China
+* Weiqin Zou, from Nanjing University, China
+
+### Short-Term Visiting PhD Students (incomplete list):
+* Tegawende Bissyande, from University of Bordeaux, France (2012)
+* Le An, from University of Montreal, Canada (2017)
+* Xuan Huo, from Nanjing University, China (2018)
+* Marcos Cesar de Oliveira, from University of Brasilia, Brazil (2018)
+
+
+### Postdocs
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
@@ -146,7 +174,7 @@ Jump to [Staff and PhD Students](#staff), [Master and Bachelor Students](#master
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.duration }} <br> Thesis: {{ member.Thesis }} <br> Employment: {{member.employment}}</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -192,5 +220,5 @@ Jump to [Staff and PhD Students](#staff), [Master and Bachelor Students](#master
 </div>
 
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<!-- ## Administrative Support
+<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->
