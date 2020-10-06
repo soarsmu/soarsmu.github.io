@@ -37,6 +37,23 @@
   number_educ: 1
   education1: B.S. at UESTC
 
+
+- name: <a href="http://www.bowenxu.me">Bowen XU</a>
+  photo: bowen.jpg
+  info: PhD Student, started Aug 2017
+  email: bowenxu.2017@phdcs.smu.edu.sg
+  number_educ: 1
+  education1: M.Eng from the Colloge of Computer Science and Technology of ZJU, supervised by <a href="http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498">Prof. Shanping Li</a> and <a href="https://research.monash.edu/en/persons/xin-xia">Prof. Xin Xia</a>.
+
+- name: <a href="https://kanghj.github.io">Hong Jin Kang</a>
+  photo: kongjin.jpg
+  info: PhD Student, started Jan 2019
+  email: hjkang.2018@phdcs.smu.edu.sg
+  number_educ: 1
+  education1: B.S at National University of Singapore
+
+
+
 - name: Ting ZHANG
   photo: tingzhang.jpg
   info: PhD Student, started Jan 2020
@@ -54,14 +71,9 @@
 
 
 
-- name: <a href="http://www.bowenxu.me">Bowen XU</a>
-  photo: bowen.jpg
-  info: PhD Student, started Aug 2017
-  email: bowenxu.2017@phdcs.smu.edu.sg
-  number_educ: 1
-  education1: M.Eng from the Colloge of Computer Science and Technology of ZJU, supervised by <a href="http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498">Prof. Shanping Li</a> and <a href="https://research.monash.edu/en/persons/xin-xia">Prof. Xin Xia</a>.
 
-- name: Gede Artha Azriadi PRANA
+
+- name: <a href="https://sites.google.com/view/gprana/">Gede Artha Azriadi PRANA</a>
   photo: Gede_Artha.jpg
   info: PhD student, Jan 2017
   email: arthaprana.2016@phdcs.smu.edu.sg
