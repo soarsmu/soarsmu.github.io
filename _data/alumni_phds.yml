@@ -13,21 +13,21 @@
   duration: In SOAR 2015 - 2018
   employment: Schroder Investment Management, Luxembourg
 
-- name: Shaowei Wang
-  photo: irene.jpg
+- name: <a href="https://sites.google.com/site/wswshaoweiwang/">Shaowei Wang</a>
+  photo: shaowei.jpg
   Thesis: Multimodal Code Search
   duration: In SOAR 2015 - 2018
   employment: Assistant Professor, Mississippi State University, USA
 
-- name: Yuan Tian
-  photo: irene.jpg
+- name: <a href="http://sophiaytian.com/">Yuan Tian</a>
+  photo: yuantian.jpg
   Thesis: Mining Bug Repositories for Automatic Software Bug Management From Bug Triaging to Patch Backporting
   duration: In SOAR 2015 - 2018
   employment: Assistant Professor, Queen’s University, Canada
 
 
-- name: Pavneet S. Kochhar
-  photo: irene.jpg
+- name: <a href="https://kochharps.wixsite.com/pavneet">Pavneet S. Kochhar</a>
+  photo: Kochhar.jpg
   Thesis: Testing and Debugging A Reality Check
   duration: In SOAR 2015 - 2018
   employment: Microsoft, Canada
@@ -40,20 +40,20 @@
   employment: Hudson River Trading, Singapore
 
 
-- name: Xuan-Bach B. Le
-  photo: irene.jpg
+- name: <a href="https://xuanbachle.github.io">Xuan-Bach B. Le</a>
+  photo: Xuan-Bach.jpg
   Thesis: Overfitting in Automated Program Repair Challenges and Resolutions
   duration: In SOAR 2015 - 2018
   employment: Lecturer (equiv. to Assistant Professor), University of Melbourne, Australia
 
-- name: Siqi Ma
+- name: <a href="https://siqima.me">Siqi Ma</a>
   photo: irene.jpg
   Thesis: Automatic Vulnerability Detection and Repair
   duration: In SOAR 2015 - 2018
-  employment: Data 61, CSIRO, Australia
+  employment: Machine Learning Engineer at <a href="https://www.veracode.com">Veracode</a>.
 
-- name: Abhishek Sharma
-  photo: irene.jpg
+- name: <a href="https://abhishek9sharma.github.io">Abhishek Sharma</a>
+  photo: Abhishek_Sharma.jpg
   Thesis: Social Software Development Insights and Solutions
   duration: In SOAR 2015 - 2018
   employment: Research Fellow, Living Analytics Research Center, Singapore
