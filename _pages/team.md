@@ -78,7 +78,7 @@ Jump to [Staff and PhD Students](#staff), [Master and Bachelor Students](#master
 
 
 
-## Master and Bachelor Students
+## Current Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -135,21 +135,6 @@ Jump to [Staff and PhD Students](#staff), [Master and Bachelor Students](#master
 ## Alumni
 
 
-
-###  Long-Term (1 year or longer) Visiting PhD Students (incomplete list):
-* Xiaoyin Wang, from Peking University, China (2008 –2009)
-Employment: Associate Professor, University of Texas at San Antonio, USA
-* Xin Xia, from Zhejiang University, China (2012 –2014)
-Employment: Lecturer (equiv. to Assistant Professor), Monash University, Australia
-* Zhang Yun, from Zhejiang University, China
-Employment: Associate Professor, Zhejiang University City College, China
-* Weiqin Zou, from Nanjing University, China
-
-### Short-Term Visiting PhD Students (incomplete list):
-* Tegawende Bissyande, from University of Bordeaux, France (2012)
-* Le An, from University of Montreal, Canada (2017)
-* Xuan Huo, from Nanjing University, China (2018)
-* Marcos Cesar de Oliveira, from University of Brasilia, Brazil (2018)
 
 ### Graduated PhD Students
 {% assign number_printed = 0 %}
@@ -217,7 +202,23 @@ Employment: Associate Professor, Zhejiang University City College, China
 {% endif %}
 
 
+###  Long-Term (1 year or longer) Visiting PhD Students (incomplete list):
+* <a href="http://www.cs.utsa.edu/~xwang/">Xiaoyin Wang</a>, from Peking University, China (2008 –2009)
+Employment: Associate Professor, University of Texas at San Antonio, USA
+* <a href="https://xin-xia.github.io">Xin Xia</a>, from Zhejiang University, China (2012 –2014)
+Employment: Lecturer (equiv. to Assistant Professor), Monash University, Australia
+* Zhang Yun, from Zhejiang University, China
+Employment: Associate Professor, Zhejiang University City College, China
+* Weiqin Zou, from Nanjing University, China
 
+### Short-Term Visiting PhD Students (incomplete list):
+* <a href="https://bissyande.github.io">Tegawende Bissyande</a>, from University of Bordeaux, France (2012)
+* <a href="https://le-an.gitlab.io">Le An</a>, from University of Montreal, Canada (2017)
+* Xuan Huo, from Nanjing University, China (2018)
+* Marcos Cesar de Oliveira, from University of Brasilia, Brazil (2018)
+
+
+<!-- 
 ## Former visitors
 <div class="row">
 
@@ -242,7 +243,7 @@ Employment: Associate Professor, Zhejiang University City College, China
 {% endfor %}
 </div>
 
-</div>
+</div> -->
 
 
 ## Administrative Support
