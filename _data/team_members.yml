@@ -37,6 +37,14 @@
   number_educ: 1
   education1: B.S. at UESTC
 
+- name: Stefanus Agus Haryono
+  photo: Stefanus.jpg
+  info: Research Engineer, started Oct 2019
+  email: stefanusah@smu.edu.sg
+  number_educ: 2
+  education1: M.Sc. at Bandung Institute of Technology
+  education2: B.Sc. at Bandung Institute of Technology
+
 
 - name: <a href="http://www.bowenxu.me">Bowen XU</a>
   photo: bowen.jpg
@@ -70,8 +78,13 @@
   education1: B.Eng. in Automation from Beijing Institute of Technology
 
 
-
-
+- name: Ratnadira Widyasari
+  photo: Ratnadira.jpg
+  info: PhD Student, started Aug 2020
+  email: ratnadiraw.2020@phdcs.smu.edu.sg
+  number_educ: 2
+  education1: M.Sc. at Bandung Institute of Technology
+  education2: B.Sc. at Bandung Institute of Technology
 
 - name: <a href="https://sites.google.com/view/gprana/">Gede Artha Azriadi PRANA</a>
   photo: Gede_Artha.jpg
