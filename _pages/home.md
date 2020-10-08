@@ -15,8 +15,8 @@ We are SOftware Analytics Research (SOAR) group at [School of Information System
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
+        <!-- <li data-target="#carousel" data-slide-to="3"></li> -->
+        <!-- <li data-target="#carousel" data-slide-to="4"></li> -->
     </ol>
 
     <!-- Items -->
@@ -30,9 +30,9 @@ We are SOftware Analytics Research (SOAR) group at [School of Information System
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/group-meeting.jpg" alt="Slide 3" />
         </div>
-        <div class="item">
+        <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/group-dinner.jpg" alt="Slide 4" />
-        </div>
+        </div> -->
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
