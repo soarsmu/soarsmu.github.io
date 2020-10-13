@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - AOA"
+title: "SOftware Analytics Research Group"
 layout: textlay
-excerpt: "AOA"
+excerpt: "SOftware Analytics Research Group"
 sitemap: false
 permalink: /aoa.html
 ---

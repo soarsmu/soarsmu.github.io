@@ -1,7 +1,7 @@
 ---
-title: "SOAR at SMU"
+title: "SOAR - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "SOftware Analytics Research Group -- Team Members"
 sitemap: false
 permalink: /team/
 ---

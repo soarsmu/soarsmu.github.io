@@ -1,0 +1,153 @@
+- title: "Categorizing the Content of GitHub README Files"
+  image: 
+  description:  
+  authors: Gede Artha Azriadi Prana, Christoph Treude, Ferdian Thung, Thushari Atapattu, David Lo
+  publisher: "Empir. Softw. Eng. 24(3): 1296-1327 (2019)"
+  pdf: Prana2019CategorizingGithubReadme.pdf
+  bib: 
+  code: https://github.com/gprana/READMEClassifier
+  highlight: 0
+  news2:
+
+- title: "Saffron: Adaptive Grammar-based Fuzzing for Worst-Case Analysis"
+  image: 
+  description:  
+  authors: Xuan-Bach D. Le, Corina S. Pasareanu, Rohan Padhye, David Lo, Willem Visser, Koushik Sen 
+  publisher: "ASE 2019"
+  pdf: XBD2019SAFFRON.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Network-Clustered Multi-Modal Bug Localization"
+  image: 
+  description:  
+  authors: Thong Hoang, Richard Jayadi Oentaryo, Tien-Duy B. Le, David Lo
+  publisher: "IEEE Trans. Software Eng. 45(10): 1002-1023 (2019)"
+  pdf: Hoang2019BugLocalization.pdf
+  bib: 
+  code: https://github.com/hvdthong/NetML
+  highlight: 0
+  news2:
+
+- title: "Semantic Patches for Java Program Transformation"
+  image: 
+  description:  
+  authors: Hong Jin Kang, Ferdian Thung, Julia Lawall, Gilles Muller, Lingxiao Jiang, David Lo
+  publisher: "ECOOP 2019: 22:1-22:27"
+  pdf: Kang2019SemanticPatches.pdf
+  bib: 
+  code: https://github.com/kanghj/coccinelle
+  highlight: 0
+  news2:
+
+- title: "Practitioners' views on good software testing practices"
+  image: 
+  description:  
+  authors: Pavneet Singh Kochhar, Xin Xia, David Lo
+  publisher: "ICSE (SEIP) 2019: 61-70"
+  pdf: Kochhar2019SoftwareTestingPractices.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "PatchNet: a tool for deep patch classification"
+  image: 
+  description:  
+  authors: 	Thong Hoang, Julia Lawall, Richard Jayadi Oentaryo, Yuan Tian, David Lo
+  publisher: "ICSE (Companion Volume) 2019: 83-86"
+  pdf: Hoang2019PatchNet.pdf
+  bib: 
+  code: https://github.com/soarsmu/PatchNet
+  highlight: 0
+  news2:
+
+- title: "On reliability of patch correctness assessment"
+  image: 
+  description:  
+  authors: Xuan-Bach D. Le, Lingfeng Bao, David Lo, Xin Xia, Shanping Li, Corina S. Pasareanu 
+  publisher: "ICSE 2019: 524-535"
+  pdf: XBD2019PatchCorrectness.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Towards Generating Transformation Rules without Examples for Android API Replacement"
+  image: 
+  description:  
+  authors: 	Ferdian Thung, Hong Jin Kang, Lingxiao Jiang, David Lo
+  publisher: "ICSME 2019: 213-217"
+  pdf: Thung2019TransformationRule.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Assessing the Generalizability of Code2vec Token Embeddings"
+  image: 
+  description:  
+  authors: Hong Jin Kang, Tegawendé F. Bissyandé, David Lo
+  publisher: "ASE 2019: 1-12"
+  pdf: Kang2019Code2Vec.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Statistical Log Differencing"
+  image: 
+  description:  
+  authors: Lingfeng Bao, Nimrod Busany, David Lo, Shahar Maoz
+  publisher: "ASE 2019: 851-862"
+  pdf: Bao2019StatisticalLogDifferencing.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "DeepJIT: an end-to-end deep learning framework for just-in-time defect prediction"
+  image: 
+  description:  
+  authors: Thong Hoang, Hoa Khanh Dam, Yasutaka Kamei, David Lo, Naoyasu Ubayashi
+  publisher: "MSR 2019: 34-45"
+  pdf: Hoang2019DeepJIT.pdf
+  bib: 
+  code: https://github.com/soarsmu/DeepJIT
+  highlight: 0
+  news2:
+
+- title: "DeepReview: Automatic Code Review Using Deep Multi-instance Learning"
+  image: 
+  description:  
+  authors: 	Heng-Yi Li, Shu-Ting Shi, Ferdian Thung, Xuan Huo, Bowen Xu, Ming Li, David Lo
+  publisher: "PAKDD (2) 2019: 318-330"
+  pdf: Li2019DeepReview.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "TreeCaps: Tree-Structured Capsule Networks for Program Source Code Processing"
+  image: 
+  description:  
+  authors: Vinoj Jayasundara, Nghi Duy Quoc Bui, Lingxiao Jiang, David Lo
+  publisher: "NeurIPS Workshop on ML for Systems 2019"
+  pdf: Jayasundara2019TreeCaps.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Analyzing Offline Social Engagements: An Empirical Study of Meetup Events Related to Software Development"
+  image: 
+  description:  
+  authors: Abhishek Sharma, Gede Artha Azriadi Prana, Anamika Sawhney, Nachiappan Nagappan, David Lo
+  publisher: "CoRR abs/1912.07352 (2019)"
+  pdf: Sharma2019SocialEngagement.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:

@@ -1,7 +1,7 @@
 ---
 title: "SOAR - Vacancies"
 layout: textlay
-excerpt: "Openings"
+excerpt: "SOftware Analytics Research Group -- Openin Positions"
 sitemap: false
 permalink: /vacancies
 ---

@@ -1,7 +1,7 @@
 ---
-title: "SOAR"
+title: "SOAR - Home"
 layout: homelay
-excerpt: "SOAR @ SMU"
+excerpt: "Welcome to SOftware Analytics Research Group"
 sitemap: false
 permalink: /
 ---

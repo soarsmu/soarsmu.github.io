@@ -1,0 +1,110 @@
+- title: "Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?"
+  image: 
+  description: 
+  authors: Ting Zhang, Bowen Xu , Ferdian Thung, Stefanus Agus Haryono, David Lo, Lingxiao Jiang
+  publisher: ICSME 2020
+  pdf: Zhang2020SA4SE.pdf
+  bib:  
+  code:  https://github.com/soarsmu/SA4SE
+  highlight: 0
+  news2:
+
+- title: "CrossASR: Efficient Differential Testing of Automatic Speech Recognition via Text-To-Speech"
+  image: 
+  description: 
+  authors: Muhammad Hilmi Asyrofi, Ferdian Thung, David Lo and Lingxiao Jiang
+  publisher: ICSME 2020
+  pdf: Asyrofi2020CrossASR.pdf
+  bib: 
+  code: https://github.com/soarsmu/CrossASR
+  highlight: 0
+  news2:
+
+
+- title: Why reinventing the wheels? An empirical study on library reuse and re-implementation
+  image: 
+  description: 
+  authors: Bowen Xu, Le An, Ferdian Thung, Foutse Khomh, David Lo
+  publisher: "Empir. Softw. Eng. 25(1): 755-789 (2020)"
+  pdf: Xu2020WhyReinventing.pdf
+  bib: 
+  code: https://github.com/XBWer/reuse_reimpl
+  highlight: 1
+  news2:
+
+- title: "SIEVE: Helping developers sift wheat from chaff via cross-platform analysis"
+  image: 
+  description: 
+  authors: Agus Sulistya, Gede Artha Azriadi Prana, Abhishek Sharma, David Lo, Christoph Treude
+  publisher: "Empir. Softw. Eng. 25(1): 996-1030 (2020)"
+  pdf: Sulistya2020SIEVE.pdf
+  bib: 
+  code: 
+  highlight: 1
+  news2:
+
+- title: "CC2Vec: Distributed Representations of Code Changes"
+  image: 
+  description:  
+  authors: Thong Hoang, Hong Jin Kang, Julia Lawall, David Lo
+  publisher: "ICSE 2020: 518–529"
+  pdf: Hoang2020CC2Vec.pdf
+  bib: 
+  code: https://github.com/soarsmu/CC2Vec/
+  highlight: 0
+  news2:
+
+- title: "psc2code: Denoising Code Extraction from Programming Screencasts"
+  image: 
+  description:  
+  authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Minghui Wu, Xiaohu Yang
+  publisher: "ACM Trans. Softw. Eng. Methodol. 29(3): 21:1-21:38 (2020)"
+  pdf: Bao2020psc2code.pdf
+  bib: 
+  code: https://github.com/baolingfeng/psc2code 
+  highlight: 0
+  news2:
+
+- title: "Automatic Android Deprecated-API Usage Update by Learning from Single Updated Example"
+  image: 
+  description: 
+  authors: Stefanus A. Haryono, Ferdian Thung, Hong Jin Kang, Lucas Serrano, Gilles Muller, Julia Lawall, David Lo, Lingxiao Jiang
+  publisher: "ICPC 2020: 401-405"
+  pdf: Haryono2020AndroidAPIUpdate.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "SPINFER: Inferring Semantic Patches for the Linux Kernel"
+  image: 
+  description: 
+  authors: Lucas Serrano, Van-Anh Nguyen, Ferdian Thung, Lingxiao Jiang, David Lo, Julia Lawall, Gilles Muller
+  publisher: "USENIX Annual Technical Conference 2020: 235-248"
+  pdf: Serrano2020Spinfer.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Automated Deprecated-API Usage Update for Android Apps: How Far are We?"
+  image: 
+  description:  
+  authors: Ferdian Thung, Stefanus A. Haryono, Lucas Serrano, Gilles Muller, Julia Lawall, David Lo, Lingxiao Jiang
+  publisher: "SANER 2020: 602-611"
+  pdf: Thung2020APIUpdate.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "AUSearch: Accurate API Usage Search in GitHub Repositories with Type Resolution"
+  image: 
+  description:  
+  authors: Muhammad Hilmi Asyrofi, Ferdian Thung, David Lo, Lingxiao Jiang
+  publisher: "SANER 2020: 637-641"
+  pdf: Asyrofi2020AUSearch.pdf
+  bib: 
+  code: https://github.com/mhilmiasyrofi/ausearch
+  highlight: 0
+  news2:

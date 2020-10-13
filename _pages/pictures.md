@@ -1,7 +1,7 @@
 ---
 title: "SOAR - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "SOftware Analytics Research Group -- Pictures"
 permalink: /pictures/
 ---
 
@@ -12,7 +12,7 @@ permalink: /pictures/
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
+{% for pic in site.data.pictures %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
