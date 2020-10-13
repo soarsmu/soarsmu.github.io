@@ -1,10 +1,34 @@
+- title: "Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?"
+  image: 
+  description: 
+  authors: Ting Zhang, Bowen Xu , Ferdian Thung, Stefanus Agus Haryono, David Lo, Lingxiao Jiang
+  publisher: ICSME 2020
+  pdf: Zhang2020SA4SE.pdf
+  bib:  
+  code:  https://github.com/soarsmu/SA4SE
+  highlight: 0
+  news2:
+
+- title: "CrossASR: Efficient Differential Testing of Automatic Speech Recognition via Text-To-Speech"
+  image: 
+  description: 
+  authors: Muhammad Hilmi Asyrofi, Ferdian Thung, David Lo and Lingxiao Jiang
+  publisher: ICSME 2020
+  pdf: Asyrofi2020CrossASR.pdf
+  bib: 
+  code: https://github.com/soarsmu/CrossASR
+  highlight: 0
+  news2:
+
+
 - title: Why reinventing the wheels? An empirical study on library reuse and re-implementation
   image: 
   description: 
   authors: Bowen Xu, Le An, Ferdian Thung, Foutse Khomh, David Lo
-  link:
-    url: https://dblp.uni-trier.de/db/journals/ese/ese25.html#XuATKL20
-    display: "Empir. Softw. Eng. 25(1): 755-789 (2020)"
+  publisher: "Empir. Softw. Eng. 25(1): 755-789 (2020)"
+  pdf: Xu2020WhyReinventing.pdf
+  bib: 
+  code: https://github.com/XBWer/reuse_reimpl
   highlight: 1
   news2:
 
@@ -12,9 +36,10 @@
   image: 
   description: 
   authors: Agus Sulistya, Gede Artha Azriadi Prana, Abhishek Sharma, David Lo, Christoph Treude
-  link:
-    url: https://dblp.uni-trier.de/db/journals/ese/ese25.html#SulistyaPSLT20
-    display: "Empir. Softw. Eng. 25(1): 996-1030 (2020)"
+  publisher: "Empir. Softw. Eng. 25(1): 996-1030 (2020)"
+  pdf: Sulistya2020SIEVE.pdf
+  bib: 
+  code: 
   highlight: 1
   news2:
 
@@ -22,9 +47,10 @@
   image: 
   description:  
   authors: Thong Hoang, Hong Jin Kang, Julia Lawall, David Lo
-  link:
-    url: https://dl.acm.org/doi/abs/10.1145/3377811.3380361
-    display: "ICSE 2020: 518–529"
+  publisher: "ICSE 2020: 518–529"
+  pdf: /papers/Hoang2020CC2Vec.pdf
+  bib: 
+  code: https://github.com/soarsmu/CC2Vec/
   highlight: 0
   news2:
 
@@ -32,9 +58,10 @@
   image: 
   description:  
   authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Minghui Wu, Xiaohu Yang
-  link:
-    url: https://dl.acm.org/doi/abs/10.1145/3392093
-    display: "ACM Trans. Softw. Eng. Methodol. 29(3): 21:1-21:38 (2020)"
+  publisher: "ACM Trans. Softw. Eng. Methodol. 29(3): 21:1-21:38 (2020)"
+  pdf: /papers/Bao2020psc2code.pdf
+  bib: 
+  code: https://github.com/baolingfeng/psc2code 
   highlight: 0
   news2:
 
@@ -42,9 +69,10 @@
   image: 
   description: 
   authors: Stefanus A. Haryono, Ferdian Thung, Hong Jin Kang, Lucas Serrano, Gilles Muller, Julia Lawall, David Lo, Lingxiao Jiang
-  link:
-    url: https://arxiv.org/abs/2005.13220
-    display: "ICPC 2020: 401-405"
+  publisher: "ICPC 2020: 401-405"
+  pdf: /papers/Haryono2020AndroidAPIUpdate.pdf
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -52,9 +80,10 @@
   image: 
   description: 
   authors: Lucas Serrano, Van-Anh Nguyen, Ferdian Thung, Lingxiao Jiang, David Lo, Julia Lawall, Gilles Muller
-  link:
-    url: https://www.usenix.org/conference/atc20/presentation/serrano
-    display: "USENIX Annual Technical Conference 2020: 235-248"
+  publisher: "USENIX Annual Technical Conference 2020: 235-248"
+  pdf: /papers/Serrano2020Spinfer.pdf
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -62,9 +91,10 @@
   image: 
   description:  
   authors: Ferdian Thung, Stefanus A. Haryono, Lucas Serrano, Gilles Muller, Julia Lawall, David Lo, Lingxiao Jiang
-  link:
-    url: https://ieeexplore.ieee.org/document/9054860
-    display: "SANER 2020: 602-611"
+  publisher: "SANER 2020: 602-611"
+  pdf: 
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -72,9 +102,10 @@
   image: 
   description:  
   authors: Muhammad Hilmi Asyrofi, Ferdian Thung, David Lo, Lingxiao Jiang
-  link:
-    url: https://ieeexplore.ieee.org/document/9054809 
-    display: "SANER 2020: 637-641"
+  publisher: "SANER 2020: 637-641"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -82,9 +113,10 @@
   image: 
   description:  
   authors: Gede Artha Azriadi Prana, Christoph Treude, Ferdian Thung, Thushari Atapattu, David Lo
-  link:
-    url: https://dblp.uni-trier.de/db/journals/ese/ese24.html#PranaTTAL19
-    display: "Empir. Softw. Eng. 24(3): 1296-1327 (2019)"
+  publisher: "Empir. Softw. Eng. 24(3): 1296-1327 (2019)"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -92,9 +124,10 @@
   image: 
   description:  
   authors: Xuan-Bach D. Le, Corina S. Pasareanu, Rohan Padhye, David Lo, Willem Visser, Koushik Sen 
-  link:
-    url: https://dl.acm.org/doi/10.1145/3364452.3364455
-    display: "ACM SIGSOFT Softw. Eng. Notes 44(4): 14 (2019)"
+  publisher: "ACM SIGSOFT Softw. Eng. Notes 44(4): 14 (2019)"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -102,9 +135,10 @@
   image: 
   description: 
   authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo 
-  link:
-    url: http://ieeexplore.ieee.org/document/8283605/
-    display: "IEEE Trans. Software Eng. 45(8): 823-838 (2019)"
+  publisher: "IEEE Trans. Software Eng. 45(8): 823-838 (2019)"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -112,9 +146,10 @@
   image: 
   description:  
   authors: 	Thong Hoang, Richard Jayadi Oentaryo, Tien-Duy B. Le, David Lo
-  link:
-    url: https://dl.acm.org/doi/abs/10.1109/TSE.2018.2810892
-    display: "IEEE Trans. Software Eng. 45(10): 1002-1023 (2019)"
+  publisher: "IEEE Trans. Software Eng. 45(10): 1002-1023 (2019)"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -122,9 +157,10 @@
   image: 
   description:  
   authors: Hong Jin Kang, Ferdian Thung, Julia Lawall, Gilles Muller, Lingxiao Jiang, David Lo
-  link:
-    url: https://2019.ecoop.org/details/ecoop-2019-papers/19/Semantic-Patches-for-Java-Program-Transformation 
-    display: "ECOOP 2019: 22:1-22:27"
+  publisher: "ECOOP 2019: 22:1-22:27"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -132,9 +168,10 @@
   image: 
   description:  
   authors: 	Pavneet Singh Kochhar, Xin Xia, David Lo
-  link:
-    url: https://dl.acm.org/doi/10.1109/ICSE-SEIP.2019.00015
-    display: "ICSE (SEIP) 2019: 61-70"
+  publisher: "ICSE (SEIP) 2019: 61-70"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -142,9 +179,10 @@
   image: 
   description:  
   authors: 	Thong Hoang, Julia Lawall, Richard Jayadi Oentaryo, Yuan Tian, David Lo
-  link:
-    url: https://dl.acm.org/doi/10.1109/ICSE-Companion.2019.00044#:~:text=PatchNet%3A%20a%20tool%20for%20deep%20patch%20classification,-Share%20on&text=PatchNet%20contains%20a%20deep%20hierarchical,learning%20models%20on%20source%20code.
-    display: "ICSE (Companion Volume) 2019: 83-86"
+  publisher: "ICSE (Companion Volume) 2019: 83-86"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -152,9 +190,10 @@
   image: 
   description:  
   authors: 	Xuan-Bach D. Le, Lingfeng Bao, David Lo, Xin Xia, Shanping Li, Corina S. Pasareanu 
-  link:
-    url: https://dl.acm.org/citation.cfm?id=3339573
-    display: "ICSE 2019: 524-535"
+  publisher: "ICSE 2019: 524-535"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -162,9 +201,10 @@
   image: 
   description:  
   authors: 	Ferdian Thung, Hong Jin Kang, Lingxiao Jiang, David Lo
-  link:
-    url: https://ieeexplore.ieee.org/document/8918984/
-    display: "ICSME 2019: 213-217"
+  publisher: "ICSME 2019: 213-217"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -172,9 +212,10 @@
   image: 
   description:  
   authors: Hong Jin Kang, Tegawendé F. Bissyandé, David Lo
-  link:
-    url: https://ieeexplore.ieee.org/document/8952475
-    display: "ASE 2019: 1-12"
+  publisher: "ASE 2019: 1-12"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -182,9 +223,10 @@
   image: 
   description:  
   authors: Lingfeng Bao, Nimrod Busany, David Lo, Shahar Maoz
-  link:
-    url: https://ieeexplore.ieee.org/document/8952205
-    display: "ASE 2019: 851-862"
+  publisher: "ASE 2019: 851-862"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -192,9 +234,10 @@
   image: 
   description:  
   authors: Thong Hoang, Hoa Khanh Dam, Yasutaka Kamei, David Lo, Naoyasu Ubayashi
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/8816772/ 
-    display: "MSR 2019: 34-45"
+  publisher: "MSR 2019: 34-45"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -202,9 +245,10 @@
   image: 
   description:  
   authors: 	Heng-Yi Li, Shu-Ting Shi, Ferdian Thung, Xuan Huo, Bowen Xu, Ming Li, David Lo
-  link:
-    url: https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5349&context=sis_research
-    display: "PAKDD (2) 2019: 318-330"
+  publisher: "PAKDD (2) 2019: 318-330"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -212,9 +256,10 @@
   image: 
   description:  
   authors: Vinoj Jayasundara, Nghi Duy Quoc Bui, Lingxiao Jiang, David Lo
-  link:
-    url: https://arxiv.org/abs/1910.12306
-    display: "NeurIPS Workshop on ML for Systems 2019"
+  publisher: "NeurIPS Workshop on ML for Systems 2019"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -222,9 +267,10 @@
   image: 
   description:  
   authors: Abhishek Sharma, Gede Artha Azriadi Prana, Anamika Sawhney, Nachiappan Nagappan, David Lo
-  link:
-    url: https://arxiv.org/abs/1912.07352
-    display: "CoRR abs/1912.07352 (2019)"
+  publisher: "CoRR abs/1912.07352 (2019)"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -232,9 +278,10 @@
   image: 
   description:  
   authors: 	Shaowei Wang, David Lo, Bogdan Vasilescu, Alexander Serebrenik
-  link:
-    url: https://dl.acm.org/citation.cfm?id=3211174
-    display: "Empir. Softw. Eng. 23(2): 800-832 (2018)"
+  publisher: "Empir. Softw. Eng. 23(2): 800-832 (2018)"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -242,9 +289,10 @@
   image: 
   description:  
   authors: Bowen Xu, Zhenchang Xing, Xin Xia, David Lo, Shanping Li 
-  link:
-    url: https://ieeexplore.ieee.org/document/7832920
-    display: "Empir. Softw. Eng. 23(2): 1084-1122 (2018)"
+  publisher: "Empir. Softw. Eng. 23(2): 1084-1122 (2018)"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -252,9 +300,10 @@
   image: 
   description:  
   authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Ahmed E. Hassan
-  link:
-    url: https://dl.acm.org/doi/10.1007/s10664-017-9547-8
-    display: "Empir. Softw. Eng. 23(3): 1313-1351 (2018)"
+  publisher: "Empir. Softw. Eng. 23(3): 1313-1351 (2018)"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -262,9 +311,10 @@
   image: 
   description:  
   authors: 	Xuan-Bach D. Le, Ferdian Thung, David Lo, Claire Le Goues
-  link:
-    url: https://dblp.uni-trier.de/db/journals/ese/ese23.html#LeTLG18
-    display: "Empir. Softw. Eng. 23(5): 3007-3033 (2018)"
+  publisher: "Empir. Softw. Eng. 23(5): 3007-3033 (2018)"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -272,9 +322,10 @@
   image: 
   description:  
   authors: Abhishek Sharma, Yuan Tian, Agus Sulistya, Dinusha Wijedasa, David Lo 
-  link:
-    url: https://dl.acm.org/doi/abs/10.1145/3266426
-    display: "ACM Trans. Softw. Eng. Methodol. 27(4): 16:1-16:33 (2018)"
+  publisher: "ACM Trans. Softw. Eng. Methodol. 27(4): 16:1-16:33 (2018)"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -282,9 +333,10 @@
   image: 
   description:  
   authors: Xin Xia, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li
-  link:
-    url: http://ieeexplore.ieee.org/document/7997917
-    display: "IEEE Trans. Software Eng. 44(10): 951-976 (2018)"
+  publisher: "IEEE Trans. Software Eng. 44(10): 951-976 (2018)"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -292,9 +344,10 @@
   image: 
   description:  
   authors: Bowen Xu, Amirreza Shirani, David Lo, Mohammad Amin Alipour
-  link:
-    url: https://dl.acm.org/doi/10.1145/3239235.3240503
-    display: "ESEM 2018: 21:1-21:10"
+  publisher: "ESEM 2018: 21:1-21:10"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -302,9 +355,10 @@
   image: 
   description:  
   authors: Tien-Duy B. Le, Lingfeng Bao, David Lo, Debin Gao, Li Li
-  link:
-    url: https://ieeexplore.ieee.org/document/8595059
-    display: "ICECCS 2018: 51-60"
+  publisher: "ICECCS 2018: 51-60"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -312,9 +366,10 @@
   image: 
   description:  
   authors: Xin Xia, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li
-  link:
-    url: https://dl.acm.org/doi/10.1145/3180155.3182538
-    display: "ICSE 2018: 584"
+  publisher: "ICSE 2018: 584"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -322,9 +377,10 @@
   image: 
   description:  
   authors: 	Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Ahmed E. Hassan
-  link:
-    url: https://dl.acm.org/doi/10.1007/s10664-017-9547-8
-    display: "ICSE 2018: 897"
+  publisher: "ICSE 2018: 897"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -332,9 +388,10 @@
   image: 
   description:  
   authors: 	Xuan-Bach D. Le, Ferdian Thung, David Lo, Claire Le Goues
-  link:
-    url: https://dl.acm.org/doi/10.1145/3180155.3182536
-    display: "ICSE 2018: 163"
+  publisher: "ICSE 2018: 163"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -342,9 +399,10 @@
   image: 
   description:  
   authors: 	Tien-Duy B. Le, David Lo 
-  link:
-    url: https://dl.acm.org/citation.cfm?id=3213846.3213876
-    display: "ISSTA 2018: 106-117"
+  publisher: "ISSTA 2018: 106-117"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -352,9 +410,10 @@
   image: 
   description:  
   authors: Tien-Duy B. Le, Lingfeng Bao, David Lo
-  link:
-    url: https://dl.acm.org/citation.cfm?id=3264597 
-    display: "ESEC/SIGSOFT FSE 2018: 896-899"
+  publisher: "ESEC/SIGSOFT FSE 2018: 896-899"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -362,9 +421,10 @@
   image: 
   description:  
   authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Shanping Li 
-  link:
-    url: https://dl.acm.org/doi/abs/10.1145/3236024.3264587
-    display: "ESEC/SIGSOFT FSE 2018: 924-927"
+  publisher: "ESEC/SIGSOFT FSE 2018: 924-927"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -372,9 +432,10 @@
   image: 
   description:  
   authors: 	Lingfeng Bao, Tien-Duy B. Le, David Lo
-  link:
-    url: https://ieeexplore.ieee.org/document/8330231
-    display: "SANER 2018: 445-455"
+  publisher: "SANER 2018: 445-455"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 
@@ -382,9 +443,10 @@
   image: 
   description:  
   authors: 	Xin Xia, David Lo, Ying Ding, Jafar M. Al-Kofahi, Tien N. Nguyen, Xinyu Wang
-  link:
-    url: https://ieeexplore.ieee.org/document/7484672
-    display: "IEEE Trans. Software Eng. 43(3): 272-297 (2017)"
+  publisher: "IEEE Trans. Software Eng. 43(3): 272-297 (2017)"
+  pdf:
+  bib: 
+  code: 
   highlight: 0
   news2:
 

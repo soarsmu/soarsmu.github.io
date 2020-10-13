@@ -1,0 +1,20 @@
+######
+# 2020
+#
+
+CC2Vec: Distributed Representations of Code Changes
+https://arxiv.org/pdf/2003.05620.pdf
+
+psc2code: Denoising Code Extraction from Programming Screencasts
+https://xin-xia.github.io/publication/tosem201.pdf
+
+Automatic Android Deprecated-API Usage Update by Learning from Single Updated Example
+https://arxiv.org/pdf/2005.13220.pdf
+
+
+https://arxiv.org/pdf/2005.13220.pdf
+
+
+######
+# 2019
+#
