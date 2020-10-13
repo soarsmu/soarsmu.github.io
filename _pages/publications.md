@@ -1,7 +1,7 @@
 ---
 title: "SOAR - Publications"
 layout: gridlay
-excerpt: "SOAR -- Publications."
+excerpt: "SOftware Analytics Research Group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -60,7 +60,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist_2020 %}
 
-  {{ publi.title }} <br/>
+  **{{ publi.title }}** <br/>
   <em>{{ publi.authors }} </em><br/>
   {{ publi.publisher }} ({% if publi.pdf %} <a href="/papers/2020/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.bib %} | <a href="{{ publi.bib }}" target="_blank">BIB</a> {% endif %} {% if publi.code %} | <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
   
@@ -70,7 +70,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist_2019 %}
 
-  {{ publi.title }} <br/>
+  **{{ publi.title }}** <br/>
   <em>{{ publi.authors }} </em><br/>
   {{ publi.publisher }} ( {% if publi.pdf %} <a href="/papers/2019/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.bib %} | <a href="{{ publi.bib }}" target="_blank">BIB</a> {% endif %} {% if publi.code %} | <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
   
@@ -80,7 +80,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist_2018 %}
 
-  {{ publi.title }} <br/>
+  **{{ publi.title }}** <br/>
   <em>{{ publi.authors }} </em><br/>
   {{ publi.publisher }} ( {% if publi.pdf %} <a href="/papers/2018/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.bib %} | <a href="{{ publi.bib }}" target="_blank">BIB</a> {% endif %} {% if publi.code %} | <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
   
