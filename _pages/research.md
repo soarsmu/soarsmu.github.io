@@ -1,7 +1,7 @@
 ---
 title: "SOAR - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "SOftware Analytics Research Group -- Research"
 sitemap: false
 permalink: /research/
 ---

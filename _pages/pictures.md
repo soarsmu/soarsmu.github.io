@@ -1,7 +1,7 @@
 ---
 title: "SOAR - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "SOftware Analytics Research Group -- Pictures"
 permalink: /pictures/
 ---
 
