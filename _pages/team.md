@@ -1,5 +1,5 @@
 ---
-title: "SOAR at SMU"
+title: "SOAR - Team"
 layout: gridlay
 excerpt: "Allan Lab: Team members"
 sitemap: false

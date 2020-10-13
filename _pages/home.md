@@ -1,5 +1,5 @@
 ---
-title: "SOAR"
+title: "SOAR - Home"
 layout: homelay
 excerpt: "SOAR @ SMU"
 sitemap: false
