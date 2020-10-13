@@ -13,7 +13,75 @@ permalink: /team/
 
 Jump to [Staff and PhD Students](#staff), [Master and Bachelor Students](#master-and-bachelor-students), [Alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
-## Staff and PhD Students
+## Faculty
+{% assign number_printed = 0 %}
+{% for member in site.data.faculty %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-3 clearfix">
+
+  {% if member.photo%}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="56%" style="float: center" />
+  {% endif %}
+
+
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+<p class="style1">David Lo is an <a href='https://www.acm.org/media-center/2019/october/distinguished-members-2019'>ACM Distinguished Member (Scientist)</a> and Associate Professor of Information Systems at Singapore Management University, leading the Software Analytics Research (SOAR) group. His research interest is in the intersection of software engineering and data science, encompassing socio-technical aspects and analysis of different kinds of software artefacts, with the goal of improving software quality and developer productivity. <a href='https://dblp.uni-trier.de/pers/hd/l/Lo_0001:David'>His work</a> has been published in major and premier conferences and journals in the area of software engineering, AI, and cybersecurity attracting substantial <a href='https://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en'>interest</a> from the community. He has won more than 10 international research and service <a href='awards.html' target="middle">awards</a> including 6 ACM SIGSOFT Distinguished Paper awards. His work has been supported by <a href='https://www.nrf.gov.sg/'>NRF</a>, <a href='https://www.moe.gov.sg/'>MOE</a>, <a href='https://www.nrf.gov.sg/programmes/national-cybersecurity-r-d-programme'>NCR</a>, <a href='https://www.aisingapore.org/'>AI Singapore</a>, and several international research projects. He has served in more than 30 organizing committees and numerous program committees of research conferences including serving as general or program co-chairs of <a href="https://www.deakin.edu.au/ase2020" target="_blank">ASE 2020</a>, <a href="https://saner2019.github.io/" target="_blank">SANER 2019</a>, <a href='https://icsme2018.github.io/' target="_blank">ICSME 2018</a>, <a href='http://icpc2017.unibas.it/ ' target="_blank">ICPC 2017</a>, and <a href='http://www.ase2016.org/' target="_blank">ASE 2016<a>. He is also serving in the editorial board of <a href="https://www.computer.org/csdl/journal/ts" target="_blank">IEEE Transactions on Software Engineering</a>, <a href="http://www.springer.com/computer/programming/journal/10664" target="_blank">Empirical Software Engineering</a>, <a href="https://rs.ieee.org/publications/transactions-on-reliability.html" target="_blank">IEEE Transactions on Reliability</a>, <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481" target="_blank">Journal of Software: Evolution and Process</a>,  <a href="https://www.journals.elsevier.com/information-and-software-technology/" target="_blank">Information and Software Technology</a>, <a href="http://www.journals.elsevier.com/information-systems/" target="_blank">Information Systems</a>, and <a href="http://www.journals.elsevier.com/neurocomputing" target="_blank">Neurocomputing (Software Section)</a>.</p>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+## Research Staff and PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -65,6 +133,7 @@ Jump to [Staff and PhD Students](#staff), [Master and Bachelor Students](#master
   {% endif %}
 
   </ul>
+  
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
