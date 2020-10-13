@@ -1,9 +1,9 @@
-- title: "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System."
+- title: "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System"
   image: 
   description: 
   authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo 
   publisher:  IEEE Transactions on Software Engineering
-  pdf:
+  pdf: Bao2018VTRevolution.pdf
   bib: 
   code: 
   highlight: 0
@@ -12,9 +12,9 @@
 - title: "EnTagRec ++: An enhanced tag recommendation system for software information sites"
   image: 
   description:  
-  authors: 	Shaowei Wang, David Lo, Bogdan Vasilescu, Alexander Serebrenik
+  authors: Shaowei Wang, David Lo, Bogdan Vasilescu, Alexander Serebrenik
   publisher: "Empir. Softw. Eng. 23(2): 800-832 (2018)"
-  pdf:
+  pdf: Wang2018EnTagRecPlusPlus.pdf
   bib: 
   code: 
   highlight: 0
@@ -25,7 +25,7 @@
   description:  
   authors: Bowen Xu, Zhenchang Xing, Xin Xia, David Lo, Shanping Li 
   publisher: "Empir. Softw. Eng. 23(2): 1084-1122 (2018)"
-  pdf:
+  pdf: Bowen2018QuestionRetrieval.pdf
   bib: 
   code: 
   highlight: 0
@@ -36,7 +36,7 @@
   description:  
   authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Ahmed E. Hassan
   publisher: "Empir. Softw. Eng. 23(3): 1313-1351 (2018)"
-  pdf:
+  pdf: Bao2018InferenceOfDevelopmentActivities.pdf
   bib: 
   code: 
   highlight: 0
@@ -47,7 +47,7 @@
   description:  
   authors: 	Xuan-Bach D. Le, Ferdian Thung, David Lo, Claire Le Goues
   publisher: "Empir. Softw. Eng. 23(5): 3007-3033 (2018)"
-  pdf:
+  pdf: XBD2018OVerfittingAutomatedProgramRepair.pdf
   bib: 
   code: 
   highlight: 0
@@ -58,7 +58,7 @@
   description:  
   authors: Abhishek Sharma, Yuan Tian, Agus Sulistya, Dinusha Wijedasa, David Lo 
   publisher: "ACM Trans. Softw. Eng. Methodol. 27(4): 16:1-16:33 (2018)"
-  pdf:
+  pdf: Sharma2018RecommendingWhoToFollow.pdf
   bib: 
   code: 
   highlight: 0
@@ -69,7 +69,7 @@
   description:  
   authors: Xin Xia, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li
   publisher: "IEEE Trans. Software Eng. 44(10): 951-976 (2018)"
-  pdf:
+  pdf: Xia2018ProgramComprehension.pdf
   bib: 
   code: 
   highlight: 0
@@ -80,9 +80,9 @@
   description:  
   authors: Bowen Xu, Amirreza Shirani, David Lo, Mohammad Amin Alipour
   publisher: "ESEM 2018: 21:1-21:10"
-  pdf:
+  pdf: Bowen2018RelatednessInStackoverflow.pdf
   bib: 
-  code: 
+  code: https://github.com/XBWer/ESEM2018 
   highlight: 0
   news2:
 
@@ -91,7 +91,7 @@
   description:  
   authors: Tien-Duy B. Le, Lingfeng Bao, David Lo, Debin Gao, Li Li
   publisher: "ICECCS 2018: 51-60"
-  pdf:
+  pdf: Bao2018AndroidSandboxes.pdf
   bib: 
   code: 
   highlight: 0
@@ -102,7 +102,7 @@
   description:  
   authors: Xin Xia, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li
   publisher: "ICSE 2018: 584"
-  pdf:
+  pdf: Xia2018ProgramComprehension.pdf
   bib: 
   code: 
   highlight: 0
@@ -113,7 +113,7 @@
   description:  
   authors: 	Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Ahmed E. Hassan
   publisher: "ICSE 2018: 897"
-  pdf:
+  pdf: Bao2018InferenceOfDevelopmentActivities.pdf
   bib: 
   code: 
   highlight: 0
@@ -124,7 +124,7 @@
   description:  
   authors: 	Xuan-Bach D. Le, Ferdian Thung, David Lo, Claire Le Goues
   publisher: "ICSE 2018: 163"
-  pdf:
+  pdf: XBD2018OVerfittingAutomatedProgramRepair.pdf
   bib: 
   code: 
   highlight: 0
@@ -135,7 +135,7 @@
   description:  
   authors: 	Tien-Duy B. Le, David Lo 
   publisher: "ISSTA 2018: 106-117"
-  pdf:
+  pdf: Le2018DeepSpecificationMining.pdf
   bib: 
   code: 
   highlight: 0
@@ -146,7 +146,7 @@
   description:  
   authors: Tien-Duy B. Le, Lingfeng Bao, David Lo
   publisher: "ESEC/SIGSOFT FSE 2018: 896-899"
-  pdf:
+  pdf: Le2018DSM.pdf
   bib: 
   code: 
   highlight: 0
@@ -157,7 +157,7 @@
   description:  
   authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Shanping Li 
   publisher: "ESEC/SIGSOFT FSE 2018: 924-927"
-  pdf:
+  pdf: Bao2018VTRevolution.pdf
   bib: 
   code: 
   highlight: 0
@@ -166,20 +166,9 @@
 - title: "Mining sandboxes: Are we there yet?"
   image: 
   description:  
-  authors: 	Lingfeng Bao, Tien-Duy B. Le, David Lo
+  authors: Lingfeng Bao, Tien-Duy B. Le, David Lo
   publisher: "SANER 2018: 445-455"
-  pdf:
-  bib: 
-  code: 
-  highlight: 0
-  news2:
-
-- title: "Improving Automated Bug Triaging with Specialized Topic Model"
-  image: 
-  description:  
-  authors: 	Xin Xia, David Lo, Ying Ding, Jafar M. Al-Kofahi, Tien N. Nguyen, Xinyu Wang
-  publisher: "IEEE Trans. Software Eng. 43(3): 272-297 (2017)"
-  pdf:
+  pdf: Bao2018MiningSandboxes.pdf
   bib: 
   code: 
   highlight: 0

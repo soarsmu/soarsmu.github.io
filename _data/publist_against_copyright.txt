@@ -13,6 +13,11 @@ https://arxiv.org/pdf/2005.13220.pdf
 
 
 ######
-# 2019
+# 2018
 #
 
+Domain-specific cross-language relevant question retrieval
+https://xin-xia.github.io/publication/EMSE174.pdf
+
+Prediction of relatedness in stack overflow: deep learning vs. SVM: a reproducibility study
+https://www.bowenxu.me/publications/ESEM2018.pdf
