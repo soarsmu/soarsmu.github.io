@@ -26,9 +26,9 @@ permalink: /team/
   </div>
 </div>
 
-**We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are  looking for new PhD students, Postdocs, and Master students to join our team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)**!**
 
-Jump to [Staff and PhD Students](#staff), [Master and Bachelor Students](#master-and-bachelor-students), [Alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+<!-- Jump to [Research Staff and PhD Students](#research-staff-and-phd-students), [Master and Bachelor Students](#master-and-bachelor-students), [Alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 ## Research Staff and PhD Students
 {% assign number_printed = 0 %}
@@ -43,7 +43,10 @@ Jump to [Staff and PhD Students](#staff), [Master and Bachelor Students](#master
 <div class="col-sm-6 clearfix">
 
   {% if member.photo%}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" style="float: left; width: 99px;
+  height: 132px;
+  background-position: center center;
+  background-repeat: no-repeat;" />
   {% endif %}
 
 
@@ -175,8 +178,6 @@ Jump to [Staff and PhD Students](#staff), [Master and Bachelor Students](#master
 
 
 ## Alumni
-
-
 
 ### Graduated PhD Students
 

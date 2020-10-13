@@ -7,12 +7,12 @@
   education2: B.Eng. at Bandung Institute of Technology
 
 
-- name: Muhammad Hilmi ASYROFI
+- name: <a href="https://mhilmiasyrofi.github.io/">Muhammad Hilmi ASYROFI</a>
   photo: Muhammad_Hilmi.jpg
   info: Research Engineer, started Nov 2019
   email: mhilmia@smu.edu.sg
   number_educ: 1
-  education1: B.S. at Institut Teknologi Bandung
+  education1: B.Eng. at Bandung Institute of Technology
 
 - name: <a href="https://www.notion.so/Zhou-Yang-s-Homepage-15e6a48dfe2e449aa41e2e8313f251bd">Zhou YANG</a>
   photo: yangzhou.jpg
@@ -35,8 +35,15 @@
   email: stefanusah@smu.edu.sg
   number_educ: 2
   education1: M.Sc. at Bandung Institute of Technology
-  education2: B.Sc. at Bandung Institute of Technology
+  education2: B.Eng. at Bandung Institute of Technology
 
+- name: <a href="https://sites.google.com/view/gprana/">Gede Artha Azriadi PRANA</a>
+  photo: Gede_Artha.jpg
+  info: PhD student,  started Jan 2017
+  email: arthaprana.2016@phdcs.smu.edu.sg
+  number_educ: 2
+  education1: M.Tech. at National University of Singapore 
+  education2: B.Eng.(Hons) at Nanyang Technological University
 
 - name: <a href="http://www.bowenxu.me">Bowen XU</a>
   photo: bowen.jpg
@@ -52,8 +59,6 @@
   number_educ: 1
   education1: B.S at National University of Singapore
 
-
-
 - name: Ting ZHANG
   photo: tingzhang.jpg
   info: PhD Student, started Jan 2020
@@ -62,29 +67,27 @@
   education1: MSc in Information Systems from NTU.
   education2: B.Eng. in Computer Science and Technology from SYSU.
 
-- name: Xin ZHOU
-  photo: xinzhou.jpg
-  info: PhD Student, started Sept 2020
-  email: xinzhou.2020@phdcs.smu.edu.sg
-  number_educ: 1
-  education1: B.Eng. in Automation from Beijing Institute of Technology
-
-
 - name: Ratnadira Widyasari
   photo: Ratnadira.jpg
   info: PhD Student, started Aug 2020
   email: ratnadiraw.2020@phdcs.smu.edu.sg
   number_educ: 2
   education1: M.Sc. at Bandung Institute of Technology
-  education2: B.Sc. at Bandung Institute of Technology
+  education2: B.Eng. at Bandung Institute of Technology
 
-- name: <a href="https://sites.google.com/view/gprana/">Gede Artha Azriadi PRANA</a>
-  photo: Gede_Artha.jpg
-  info: PhD student,  started Jan 2017
-  email: arthaprana.2016@phdcs.smu.edu.sg
-  number_educ: 2
-  education1: M.Tech. at National University of Singapore 
-  education2: B.Eng.(Hons) at Nanyang Technological University
+- name: Imam Nur Bani YUSUF
+  photo: imamy.jpg
+  info: PhD Student, started Aug 2020
+  email: imamy.2020@phdcs.smu.edu.sg
+  number_educ: 1
+  education1: B.Eng. at Bandung Institute of Technology
+
+- name: Xin ZHOU
+  photo: xinzhou.jpg
+  info: PhD Student, started Sept 2020
+  email: xinzhou.2020@phdcs.smu.edu.sg
+  number_educ: 1
+  education1: B.Eng. in Automation from Beijing Institute of Technology
 
 - name: "This could be you !"
   photo: rock.jpg
