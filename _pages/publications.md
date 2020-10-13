@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications
+<h1 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">Publications</h1>
 <!-- 
 ## Group highlights
 

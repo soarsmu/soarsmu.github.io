@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are SOftware Analytics Research (SOAR) group at [School of Information System](https://sis.smu.edu.sg/), [Singapore Management University](https://smu.edu.sg/). We primarily work at the intersection of **software engineering** and **data science**, encompassing socio-technical aspects, and analysis of different kinds of software artefacts (e.g., code, execution traces, bug reports, Q&A posts, and developer networks) and the interplay among them. We are particularly interested in transforming passive software engineering data into automated tools that can improve system reliability, security, and performance, increase developer productivity, and generate new insights for decision makers. We are also interested in connecting with practitioners to distil insights and discover pain points that can help direct future research effort.
+<h1 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">Welcome to SOAR Website!</h1>
+
+We are SOAR, SOftware Analytics Research, group at [School of Information System](https://sis.smu.edu.sg/), [Singapore Management University](https://smu.edu.sg/). We primarily work at the intersection of **software engineering** and **data science**, encompassing socio-technical aspects, and analysis of different kinds of software artefacts (e.g., code, execution traces, bug reports, Q&A posts, and developer networks) and the interplay among them. We are particularly interested in transforming passive software engineering data into automated tools that can improve system reliability, security, and performance, increase developer productivity, and generate new insights for decision makers. We are also interested in connecting with practitioners to distil insights and discover pain points that can help direct future research effort.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -43,6 +45,8 @@ We are SOftware Analytics Research (SOAR) group at [School of Information System
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+<p style="text-align:center"><i>"Soar High to The Endless Sky"</i></p>
 
 Our group **loves to collaborate**. Aside from colleagues in SMU, our group has collaborated with Microsoft Research (Redmond and India), Adobe (USA), SAP (Germany), University of Illinois at Urbana Champaign (USA), CMU (USA), NUS, NTU, Zhejiang University (China), Peking University (China), Chinese University of Hong Kong (China), IIITD (India), Weizmann Institute of Science (Israel), Tel Aviv University (Israel), University of Milano-Biccoca (Italy), DIKU (Denmark), Inria (France), Monash University (Australia), Australian National University (Australia), Stellenbosch University (South Africa), and many more.
 

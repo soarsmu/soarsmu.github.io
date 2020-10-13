@@ -6,7 +6,8 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+<h1 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">Research</h1>
+
 We work on **the advancement of software analytics**, which is the integration of code and data analysis techniques to reduce software cost and improve software reliability. In general, we are interested on how software can be better developed, better maintained, better tested and better debugged through an analysis of the wealth of software data currently available. We are also interested to perform **empirical studies** to understand the pain point of developers, characterize developer current practices and their limitations, and bridge the gap between academics and practitioners.
 
 We are excited to work on software analytics, which is a growing field bolstered with the surge in the amount of software engineering data on the internet and fuelled with the need to deal with the complexity of software development.

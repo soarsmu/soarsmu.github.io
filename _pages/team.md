@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+<h1 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">Team Members</h1>
 
 ## Faculty
 

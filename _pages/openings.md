@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+<h1 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">Open Positions</h1>
 
 We are always looking for motivated graduate students, visiting students, research engineers, and postdocs to work on several funded research projects in the area of software engineering, AI and cybersecurity.
 
