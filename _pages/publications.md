@@ -62,7 +62,7 @@ permalink: /publications/
 
   {{ publi.title }} <br/>
   <em>{{ publi.authors }} </em><br/>
-  {{ publi.publisher }} {% if publi.pdf %} <a href="/papers/2020/{{ publi.pdf }}" target="_blank">PDF</a> {% endif %} {% if publi.bib %} <a href="{{ publi.bib }}" target="_blank">BIB</a> {% endif %} {% if publi.code %} <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %}
+  {{ publi.publisher }} ({% if publi.pdf %} <a href="/papers/2020/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.bib %} | <a href="{{ publi.bib }}" target="_blank">BIB</a> {% endif %} {% if publi.code %} | <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
   
 {% endfor %}
 
@@ -72,6 +72,6 @@ permalink: /publications/
 
   {{ publi.title }} <br/>
   <em>{{ publi.authors }} </em><br/>
-  {{ publi.publisher }} {% if publi.pdf %} <a href="/papers/2019/{{ publi.pdf }}" target="_blank">PDF</a> {% endif %} {% if publi.bib %} <a href="{{ publi.bib }}" target="_blank">BIB</a> {% endif %} {% if publi.code %} <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %}
+  {{ publi.publisher }} ( {% if publi.pdf %} <a href="/papers/2019/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.bib %} | <a href="{{ publi.bib }}" target="_blank">BIB</a> {% endif %} {% if publi.code %} | <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
   
 {% endfor %}
