@@ -57,7 +57,7 @@ permalink: /publications/
 (For a full list, please go to [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lo_0001:David) or [Google Scholar](http://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en))
 
 ### 2020
-
+<!-- 
 {% for publi in site.data.publist_2020 %}
 
 <div class="col-sm-1" style="padding:0px">
@@ -90,7 +90,7 @@ permalink: /publications/
   </p>
 </div>
 
-{% endfor %}
+{% endfor %} -->
 
 
 ### 2019

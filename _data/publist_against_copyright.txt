@@ -2,6 +2,9 @@
 # 2020
 #
 
+Neural Network-based Detection of Self-Admitted Technical Debt: From Performance to Explainability
+https://xin-xia.github.io/publication/tosem191.pdf
+
 Generating Question Titles for Stack Overflow from Mined Code Snippets
 https://www.zhuanzhi.ai/paper/915764ff35b4ddd390a8250cd5aec76c
 

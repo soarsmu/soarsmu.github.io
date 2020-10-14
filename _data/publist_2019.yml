@@ -5,79 +5,19 @@
   publisher: "Autom. Softw. Eng. 26(2): 241-274 (2019)"
   type: Journal
   pdf: Liu2019AppPermissionRecommendation.pdf
-  doi: https://dblp.uni-trier.de/db/journals/ase/ase26.html#LiuXLG19
+  doi: https://link.springer.com/article/10.1007/s10515-019-00254-6
   code: https://github.com/Tbabm/PerRec
   highlight: 0
   news2:
 
-- title: ""
+- title: "Preface to the Special Issue on Program Comprehension"
   image: 
   description:  
-  authors: 
-  publisher: ""
+  authors: David Lo, Alexander Serebrenik
+  publisher: "Empir. Softw. Eng. 24(1): 208-210 (2019)"
   type: Journal
   pdf: 
-  doi: 
-  code: 
-  highlight: 0
-  news2:
-
-- title: ""
-  image: 
-  description:  
-  authors: 
-  publisher: ""
-  type: Journal
-  pdf: 
-  doi: 
-  code: 
-  highlight: 0
-  news2:
-
-- title: ""
-  image: 
-  description:  
-  authors: 
-  publisher: ""
-  type: Journal
-  pdf: 
-  doi: 
-  code: 
-  highlight: 0
-  news2:
-
-- title: ""
-  image: 
-  description:  
-  authors: 
-  publisher: ""
-  type: Journal
-  pdf: 
-  doi: 
-  code: 
-  highlight: 0
-  news2:
-
-- title: ""
-  image: 
-  description:  
-  authors: 
-  publisher: ""
-  type: Journal
-  pdf: 
-  doi: 
-  code: 
-  highlight: 0
-  news2:
-
-- title: ""
-  image: 
-  description:  
-  authors: 
-  publisher: ""
-  type: Journal
-  pdf: 
-  doi: 
+  doi: https://link.springer.com/article/10.1007/s10664-018-9662-1
   code: 
   highlight: 0
   news2:
@@ -94,16 +34,208 @@
   highlight: 0
   news2:
 
+- title: "Automatic query reformulation for code search using crowdsourced knowledge"
+  image: 
+  description:  
+  authors: Mohammad Masudur Rahman, Chanchal K. Roy, David Lo
+  publisher: "Empir. Softw. Eng. 24(4): 1869-1924 (2019)"
+  type: Journal
+  pdf: Rahman2019AutomaticQueryReformulation.pdf
+  doi: https://link.springer.com/article/10.1007/s10664-018-9671-0
+  code: 
+  highlight: 0
+  news2:
+
+- title: Characterizing and identifying reverted commits
+  image:
+  description:
+  authors: Meng Yan, Xin Xia, David Lo, Ahmed E. Hassan, Shanping Li
+  publisher: "Empir. Softw. Eng. 24(4): 2171-2208 (2019)"
+  type: Journal
+  pdf: Yan2019RevertedCommit.pdf
+  doi: https://dl.acm.org/doi/10.1007/s10664-019-09688-8
+  code:
+  highlight:
+  news2:
+
+- title: "To the attention of mobile software developers: guess what, test your app!"
+  image:
+  description:
+  authors: Luis Cruz, Rui Abreu, David Lo
+  publisher: "Empir. Softw. Eng. 24(4): 2438-2468 (2019)"
+  type: Journal
+  pdf: Cruz2019TheAttentionOfSoftwareDeveloper.pdf
+  doi: https://dl.acm.org/doi/10.1007/s10664-019-09701-0
+  code:
+  highlight:
+  news2:
+
+- title: "Revisiting supervised and unsupervised models for effort-aware just-in-time defect prediction" 
+  image:
+  description:
+  authors: Qiao Huang, Xin Xia, David Lo
+  publisher: "Empir. Softw. Eng. 24(5): 2823-2862 (2019)"
+  type: Journal
+  pdf: Huang2019JITDefectPrediction.pdf
+  doi: https://link.springer.com/article/10.1007/s10664-018-9661-2
+  code:
+  highlight:
+  news2:
+
+- title: "Guest Editorial: Special Issue on Software Engineering for Mobile Applications" 
+  image: 
+  description:
+  authors: Sebastiano Panichella, Fabio Palomba, David Lo, Meiyappan Nagappan
+  publisher: "Empir. Softw. Eng. 24(6): 3249-3254 (2019)"
+  type: Journal
+  pdf: Panichella2019GuestEditorial.pdf
+  doi: https://link.springer.com/article/10.1007/s10664-019-09776-9
+  code:
+  highlight:
+  news2:
+
+- title: Practical and effective sandboxing for Linux containers 
+  image:
+  description:
+  authors: Zhiyuan Wan, David Lo, Xin Xia, Liang Cai
+  publisher: "Empir. Softw. Eng. 24(6): 4034-4070 (2019)"
+  type: Journal
+  pdf: Wan2019SandboxingLinuxContainer.pdf
+  doi: https://link.springer.com/article/10.1007/s10664-019-09737-2
+  code:
+  highlight:
+  news2:
+
+- title: "AppMoD: Helping Older Adults Manage Mobile Security with Online Social Help" 
+  image:
+  description:
+  authors: Zhiyuan Wan, Lingfeng Bao, Debin Gao, Eran Toch, Xin Xia, Tamir Mendel, David Lo
+  publisher: "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 3(4): 154:1-154:22 (2019)"
+  type: Journal
+  pdf: Wan2019AppMoD.pdf
+  doi: https://dl.acm.org/doi/10.1145/3369819
+  code:
+  highlight:
+  news2:
+
+- title: "A first look at unfollowing behavior on GitHub" 
+  image:
+  description:
+  authors: Jing Jiang, David Lo, Yun Yang, Jianfeng Li, Li Zhang
+  publisher: "Inf. Softw. Technol. 105: 150-160 (2019)"
+  type: Journal
+  pdf: Jiang2019UnfollowingBehavior.pdf
+  doi: https://www.sciencedirect.com/science/article/abs/pii/S095058491830185X
+  code:
+  highlight:
+  news2:
+
+- title: Why is my code change abandoned? 
+  image:
+  description:
+  authors: Qingye Wang, Xin Xia, David Lo, Shanping Li
+  publisher: "Inf. Softw. Technol. 110: 108-120 (2019)"
+  type: Journal
+  pdf: Wang2019WhyMyCode.pdf
+  doi: https://www.sciencedirect.com/science/article/abs/pii/S0950584919300424
+  code:
+  highlight:
+  news2:
+
+- title: Who should make decision on this pull request? Analyzing time-decaying relationships and file similarities for integrator prediction 
+  image:
+  description:
+  authors: Jing Jiang, David Lo, Jiateng Zheng, Xin Xia, Yun Yang, Li Zhang
+  publisher: "J. Syst. Softw. 154: 196-210 (2019)"
+  type: Journal
+  pdf: Jiang2019PullRequest.pdf
+  doi: https://www.sciencedirect.com/science/article/pii/S0164121219300962
+  code:
+  highlight:
+  news2:
+
+- title: "Finding needles in a haystack: Leveraging co-change dependencies to recommend refactorings" 
+  image:
+  description:
+  authors: Marcos César de Oliveira, Davi Freitas, Rodrigo Bonifácio, Gustavo Pinto, David Lo
+  publisher: "J. Syst. Softw. 158 (2019)"
+  type: Journal
+  pdf: Oliveira2019FindingNeidles.pdf
+  doi: https://www.sciencedirect.com/science/article/pii/S0164121219301943
+  code:
+  highlight:
+  news2:
+
 - title: "Saffron: Adaptive Grammar-based Fuzzing for Worst-Case Analysis"
   image: 
   description:  
   authors: Xuan-Bach D. Le, Corina S. Pasareanu, Rohan Padhye, David Lo, Willem Visser, Koushik Sen 
-  publisher: "ASE 2019"
+  publisher: "ACM SIGSOFT Softw. Eng. Notes 44(4): 14 (2019)"
   type: Journal
   pdf: XBD2019SAFFRON.pdf
-  doi: 
+  doi: https://dl.acm.org/doi/10.1145/3364452.3364455
   code: 
   highlight: 0
+  news2:
+
+- title: Watch out for this commit! A study of influential software changes 
+  image:
+  description:
+  authors: Daoyuan Li, Li Li, Dongsun Kim, Tegawendé F. Bissyandé, David Lo, Yves Le Traon
+  publisher: "J. Softw. Evol. Process. 31(12) (2019)"
+  type: Journal
+  pdf: Li2019InfluentalSoftwareChanges.pdf
+  doi: https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2181
+  code:
+  highlight:
+  news2:
+
+- title: An evaluation of pure spectrum-based fault localization techniques for large-scale software systems 
+  image:
+  description:
+  authors: Simon Heiden, Lars Grunske, Timo Kehrer, Fabian Keller, André van Hoorn, Antonio Filieri, David Lo
+  publisher: "Softw. Pract. Exp. 49(8): 1197-1224 (2019)"
+  type: Journal
+  pdf: 
+  doi: https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2703
+  code:
+  highlight:
+  news2:
+
+- title: "Neural Network-based Detection of Self-Admitted Technical Debt: From Performance to Explainability" 
+  image:
+  description:
+  authors: Xiaoxue Ren, Zhenchang Xing, Xin Xia, David Lo, Xinyu Wang, John Grundy
+  publisher: "ACM Trans. Softw. Eng. Methodol. 28(3): 15 (2019)"
+  type: Journal
+  pdf: Ren2019SATD.pdf
+  doi: https://dl.acm.org/doi/10.1145/3324916
+  code: 
+  highlight:
+  news2:
+
+- title: Recommending New Features from Mobile App Descriptions 
+  image:
+  description:
+  authors: He Jiang, Jingxuan Zhang, Xiaochen Li, Zhilei Ren, David Lo, Xindong Wu, Zhongxuan Luo
+  publisher: "ACM Trans. Softw. Eng. Methodol. 28(4): 22:1-22:29 (2019)"
+  type: Journal
+  pdf: Jiang2019RecommendingNewFeature.pdf
+  doi: https://dl.acm.org/doi/10.1145/3344158
+  code:
+  highlight:
+  news2:
+
+- title: "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System" 
+  image:
+  description:
+  authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo
+  publisher: "IEEE Trans. Software Eng. 45(8): 823-838 (2019)"
+  type: Journal
+  pdf: Bao2019VTRevolution.pdf
+  doi: https://ieeexplore.ieee.org/document/8283605
+  code: 
+  highlight:
   news2:
 
 - title: "Network-Clustered Multi-Modal Bug Localization"
@@ -113,8 +245,68 @@
   publisher: "IEEE Trans. Software Eng. 45(10): 1002-1023 (2019)"
   type: Journal
   pdf: Hoang2019BugLocalization.pdf
-  doi: 
+  doi: https://www.computer.org/csdl/journal/ts/2019/10/08306117/13rRUwI5U9x
   code: https://github.com/hvdthong/NetML
+  highlight: 0
+  news2:
+
+- title: Automating Change-Level Self-Admitted Technical Debt Determination 
+  image:
+  description:
+  authors: Meng Yan, Xin Xia, Emad Shihab, David Lo, Jianwei Yin, Xiaohu Yang
+  publisher: "IEEE Trans. Software Eng. 45(12): 1211-1229 (2019)"
+  type: Journal
+  pdf: Yan2019SATD.pdf
+  doi: https://ieeexplore.ieee.org/document/8352718
+  code:
+  highlight:
+  news2:
+
+- title: ""
+  image: 
+  description:  
+  authors: 
+  publisher: ""
+  type: Journal
+  pdf: 
+  doi: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: ""
+  image: 
+  description:  
+  authors: 
+  publisher: ""
+  type: Journal
+  pdf: 
+  doi: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: ""
+  image: 
+  description:  
+  authors: 
+  publisher: ""
+  type: Journal
+  pdf: 
+  doi: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Saffron: Adaptive Grammar-based Fuzzing for Worst-Case Analysis"
+  image: 
+  description:  
+  authors: Xuan-Bach D. Le, Corina S. Pasareanu, Rohan Padhye, David Lo, Willem Visser, Koushik Sen 
+  publisher: "ASE 2019"
+  type: Conference
+  pdf: XBD2019SAFFRON.pdf
+  doi: 
+  code: 
   highlight: 0
   news2:
 

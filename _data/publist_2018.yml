@@ -10,18 +10,6 @@
   highlight: 0
   news2:
 
-- title: "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System"
-  image: 
-  description: 
-  authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo 
-  publisher: IEEE Transactions on Software Engineering
-  type: Journal
-  pdf: Bao2018VTRevolution.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
-
 - title: "EnTagRec ++: An enhanced tag recommendation system for software information sites"
   image: 
   description:  
@@ -184,7 +172,7 @@
   authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Shanping Li 
   publisher: "ESEC/SIGSOFT FSE 2018: 924-927"
   type: Conference
-  pdf: Bao2018VTRevolution.pdf
+  pdf: Bao2019VTRevolution.pdf
   doi: 
   code: 
   highlight: 0
