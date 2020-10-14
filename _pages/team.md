@@ -60,10 +60,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
 
   {% if member.photo%}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" style="float: left; width: 99px;
-  height: 132px;
-  background-position: center center;
-  background-repeat: no-repeat;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   {% endif %}
 
 
