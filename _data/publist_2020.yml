@@ -1,3 +1,76 @@
+- title: "Chaff from the Wheat: Characterizing and Determining Valid Bug Reports"
+  image: 
+  description:  
+  authors: Yuanrui Fan, Xin Xia, David Lo, Ahmed E. Hassan
+  publisher: "IEEE Trans. Software Eng. 46(5): 495-525 (2020)"
+  type: Journal
+  pdf: 
+  doi: https://doi.ieeecomputersociety.org/10.1109/TSE.2018.2864217
+  code: 
+  highlight: 0
+  news2:
+
+- title: "How Practitioners Perceive Automated Bug Report Management Techniques"
+  image: 
+  description:  
+  authors: Weiqin Zou, David Lo, Zhenyu Chen, Xin Xia, Yang Feng, Baowen Xu
+  publisher: "IEEE Trans. Software Eng. 46(8): 836-862 (2020)"
+  type: Journal
+  pdf: Zou2020AutomatedBugReport.pdf
+  doi: 
+  code: http://github.com/SurfGitHub/bugmanaStudy 
+  highlight: 0
+  news2:
+
+- title: "Checking Smart Contracts with Structural Code Embedding"
+  image: 
+  description:  
+  authors: Zhipeng Gao, Lingxiao Jiang, Xin Xia, David Lo, John Grundy
+  publisher: "IEEE Trans. Software Eng. "
+  type: Journal
+  pdf: Gao2020CheckingSmartContracts.pdf
+  doi: 
+  code: https://github.com/beyondacm/SmartEmbed
+  highlight: 0
+  news2:
+
+
+- title: "psc2code: Denoising Code Extraction from Programming Screencasts"
+  image: 
+  description:  
+  authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Minghui Wu, Xiaohu Yang
+  publisher: "ACM Trans. Softw. Eng. Methodol. 29(3): 21:1-21:38 (2020)"
+  type: Journal
+  pdf: Bao2020psc2code.pdf
+  doi: 
+  code: https://github.com/baolingfeng/psc2code 
+  highlight: 0
+  news2:
+
+- title: "Generating Question Titles for Stack Overflow from Mined Code Snippets"
+  image: 
+  description:  
+  authors: Zhipeng Gao, Xin Xia, John Grundy, David Lo, Yuan-Fang Li
+  publisher: "ACM Trans. Softw. Eng. Methodol. 29(4): 26:1-26:37 (2020)"
+  type: Journal
+  pdf: Gao2020GeneratingQuestionTitle.pdf
+  doi: 
+  code: https://github.com/beyondacm/Code2Que
+  highlight: 0
+  news2:
+
+- title: "Smart Contract Repair"
+  image: 
+  description:  
+  authors: Xiao Liang Yu, Omar Al-Bataineh, David Lo, Abhik Roychoudhury
+  publisher: "ACM Trans. Softw. Eng. Methodol. 29(4): 27:1-27:32 (2020)"
+  type: Journal
+  pdf: Yu2020SmartContractRepair.pdf
+  doi: 
+  code: https://github.com/xiaoly8/SCRepair/
+  highlight: 0
+  news2:
+
 - title: Memory and resource leak defects and their repairs in Java projects
   image: 
   description: 
@@ -58,75 +131,39 @@
   highlight: 1
   news2:
 
-- title: "psc2code: Denoising Code Extraction from Programming Screencasts"
+- title: "Automated identification of libraries from vulnerability data"
   image: 
   description:  
-  authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Minghui Wu, Xiaohu Yang
-  publisher: "ACM Trans. Softw. Eng. Methodol. 29(3): 21:1-21:38 (2020)"
-  type: Journal
-  pdf: Bao2020psc2code.pdf
+  authors: Yang Chen, Andrew E. Santosa, Asankhaya Sharma, David Lo 
+  publisher: "ICSE (SEIP) 2020: 90-99"
+  type: Conference
+  pdf: Chen2020AutomatedIdentification.pdf
   doi: 
-  code: https://github.com/baolingfeng/psc2code 
-  highlight: 0
-  news2:
-
-- title: "Generating Question Titles for Stack Overflow from Mined Code Snippets"
-  image: 
-  description:  
-  authors: Zhipeng Gao, Xin Xia, John Grundy, David Lo, Yuan-Fang Li
-  publisher: "ACM Trans. Softw. Eng. Methodol. 29(4): 26:1-26:37 (2020)"
-  type: Journal
-  pdf: Gao2020GeneratingQuestionTitle.pdf
-  doi: 
-  code: https://github.com/beyondacm/Code2Que
-  highlight: 0
-  news2:
-
-- title: "Smart Contract Repair"
-  image: 
-  description:  
-  authors: Xiao Liang Yu, Omar Al-Bataineh, David Lo, Abhik Roychoudhury
-  publisher: "ACM Trans. Softw. Eng. Methodol. 29(4): 27:1-27:32 (2020)"
-  type: Journal
-  pdf: Yu2020SmartContractRepair.pdf
-  doi: 
-  code: https://github.com/xiaoly8/SCRepair/
-  highlight: 0
-  news2:
-
-- title: "Chaff from the Wheat: Characterizing and Determining Valid Bug Reports"
-  image: 
-  description:  
-  authors: Yuanrui Fan, Xin Xia, David Lo, Ahmed E. Hassan
-  publisher: "IEEE Trans. Software Eng. 46(5): 495-525 (2020)"
-  type: Journal
-  pdf: 
-  doi: https://doi.ieeecomputersociety.org/10.1109/TSE.2018.2864217
   code: 
   highlight: 0
-  news2:
+  news2:    
 
-- title: "How Practitioners Perceive Automated Bug Report Management Techniques"
+- title: "CC2Vec: Distributed Representations of Code Changes"
   image: 
   description:  
-  authors: Weiqin Zou, David Lo, Zhenyu Chen, Xin Xia, Yang Feng, Baowen Xu
-  publisher: "IEEE Trans. Software Eng. 46(8): 836-862 (2020)"
-  type: Journal
-  pdf: Zou2020AutomatedBugReport.pdf
+  authors: Thong Hoang, Hong Jin Kang, Julia Lawall, David Lo
+  publisher: "ICSE 2020: 518–529"
+  type: Conference
+  pdf: Hoang2020CC2Vec.pdf
   doi: 
-  code: http://github.com/SurfGitHub/bugmanaStudy 
+  code: https://github.com/soarsmu/CC2Vec/
   highlight: 0
   news2:
 
-- title: "Checking Smart Contracts with Structural Code Embedding"
+- title: "SPINFER: Inferring Semantic Patches for the Linux Kernel"
   image: 
-  description:  
-  authors: Zhipeng Gao, Lingxiao Jiang, Xin Xia, David Lo, John Grundy
-  publisher: "IEEE Transactions on Software Engineering"
-  type: Journal
-  pdf: Gao2020CheckingSmartContracts.pdf
+  description: 
+  authors: Lucas Serrano, Van-Anh Nguyen, Ferdian Thung, Lingxiao Jiang, David Lo, Julia Lawall, Gilles Muller
+  publisher: "USENIX Annual Technical Conference 2020: 235-248"
+  type: Conference
+  pdf: Serrano2020Spinfer.pdf
   doi: 
-  code: https://github.com/beyondacm/SmartEmbed
+  code: 
   highlight: 0
   news2:
 
@@ -151,30 +188,6 @@
   pdf: Asyrofi2020CrossASR.pdf
   doi: 
   code: https://github.com/soarsmu/CrossASR
-  highlight: 0
-  news2:
-
-- title: "Automated identification of libraries from vulnerability data"
-  image: 
-  description:  
-  authors: Yang Chen, Andrew E. Santosa, Asankhaya Sharma, David Lo 
-  publisher: "ICSE (SEIP) 2020: 90-99"
-  type: Conference
-  pdf: Chen2020AutomatedIdentification.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:    
-
-- title: "CC2Vec: Distributed Representations of Code Changes"
-  image: 
-  description:  
-  authors: Thong Hoang, Hong Jin Kang, Julia Lawall, David Lo
-  publisher: "ICSE 2020: 518–529"
-  type: Conference
-  pdf: Hoang2020CC2Vec.pdf
-  doi: 
-  code: https://github.com/soarsmu/CC2Vec/
   highlight: 0
   news2:
 
@@ -233,18 +246,6 @@
   publisher: "UMAP 2020: 308-312"
   type: Conference
   pdf: Lee2020Keen2Act.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
-
-- title: "SPINFER: Inferring Semantic Patches for the Linux Kernel"
-  image: 
-  description: 
-  authors: Lucas Serrano, Van-Anh Nguyen, Ferdian Thung, Lingxiao Jiang, David Lo, Julia Lawall, Gilles Muller
-  publisher: "USENIX Annual Technical Conference 2020: 235-248"
-  type: Conference
-  pdf: Serrano2020Spinfer.pdf
   doi: 
   code: 
   highlight: 0

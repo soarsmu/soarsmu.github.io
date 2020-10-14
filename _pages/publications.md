@@ -58,7 +58,7 @@ permalink: /publications/
 
 ### 2020
 
-<!-- {% for publi in site.data.publist_2020 %}
+{% for publi in site.data.publist_2020 %}
 
 <div class="col-sm-1" style="padding:0px">
   {% if publi.type == "Journal" %} 
@@ -90,7 +90,7 @@ permalink: /publications/
   </p>
 </div>
 
-{% endfor %} -->
+{% endfor %}
 
 
 ### 2019

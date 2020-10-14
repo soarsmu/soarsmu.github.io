@@ -1,3 +1,63 @@
+- title: "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System" 
+  image:
+  description:
+  authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo
+  publisher: "IEEE Trans. Software Eng. 45(8): 823-838 (2019)"
+  type: Journal
+  pdf: Bao2019VTRevolution.pdf
+  doi: https://ieeexplore.ieee.org/document/8283605
+  code: 
+  highlight:
+  news2:
+
+- title: "Network-Clustered Multi-Modal Bug Localization"
+  image: 
+  description:  
+  authors: Thong Hoang, Richard Jayadi Oentaryo, Tien-Duy B. Le, David Lo
+  publisher: "IEEE Trans. Software Eng. 45(10): 1002-1023 (2019)"
+  type: Journal
+  pdf: Hoang2019BugLocalization.pdf
+  doi: https://www.computer.org/csdl/journal/ts/2019/10/08306117/13rRUwI5U9x
+  code: https://github.com/hvdthong/NetML
+  highlight: 0
+  news2:
+
+- title: Automating Change-Level Self-Admitted Technical Debt Determination 
+  image:
+  description:
+  authors: Meng Yan, Xin Xia, Emad Shihab, David Lo, Jianwei Yin, Xiaohu Yang
+  publisher: "IEEE Trans. Software Eng. 45(12): 1211-1229 (2019)"
+  type: Journal
+  pdf: Yan2019SATD.pdf
+  doi: https://ieeexplore.ieee.org/document/8352718
+  code:
+  highlight:
+  news2:
+
+- title: "Neural Network-based Detection of Self-Admitted Technical Debt: From Performance to Explainability" 
+  image:
+  description:
+  authors: Xiaoxue Ren, Zhenchang Xing, Xin Xia, David Lo, Xinyu Wang, John Grundy
+  publisher: "ACM Trans. Softw. Eng. Methodol. 28(3): 15 (2019)"
+  type: Journal
+  pdf: Ren2019SATD.pdf
+  doi: https://dl.acm.org/doi/10.1145/3324916
+  code: 
+  highlight:
+  news2:
+
+- title: Recommending New Features from Mobile App Descriptions 
+  image:
+  description:
+  authors: He Jiang, Jingxuan Zhang, Xiaochen Li, Zhilei Ren, David Lo, Xindong Wu, Zhongxuan Luo
+  publisher: "ACM Trans. Softw. Eng. Methodol. 28(4): 22:1-22:29 (2019)"
+  type: Journal
+  pdf: Jiang2019RecommendingNewFeature.pdf
+  doi: https://dl.acm.org/doi/10.1145/3344158
+  code:
+  highlight:
+  news2:
+
 - title: "Automatic, highly accurate app permission recommendation"
   image: 
   description:  
@@ -198,66 +258,6 @@
   type: Journal
   pdf: 
   doi: https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2703
-  code:
-  highlight:
-  news2:
-
-- title: "Neural Network-based Detection of Self-Admitted Technical Debt: From Performance to Explainability" 
-  image:
-  description:
-  authors: Xiaoxue Ren, Zhenchang Xing, Xin Xia, David Lo, Xinyu Wang, John Grundy
-  publisher: "ACM Trans. Softw. Eng. Methodol. 28(3): 15 (2019)"
-  type: Journal
-  pdf: Ren2019SATD.pdf
-  doi: https://dl.acm.org/doi/10.1145/3324916
-  code: 
-  highlight:
-  news2:
-
-- title: Recommending New Features from Mobile App Descriptions 
-  image:
-  description:
-  authors: He Jiang, Jingxuan Zhang, Xiaochen Li, Zhilei Ren, David Lo, Xindong Wu, Zhongxuan Luo
-  publisher: "ACM Trans. Softw. Eng. Methodol. 28(4): 22:1-22:29 (2019)"
-  type: Journal
-  pdf: Jiang2019RecommendingNewFeature.pdf
-  doi: https://dl.acm.org/doi/10.1145/3344158
-  code:
-  highlight:
-  news2:
-
-- title: "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System" 
-  image:
-  description:
-  authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo
-  publisher: "IEEE Trans. Software Eng. 45(8): 823-838 (2019)"
-  type: Journal
-  pdf: Bao2019VTRevolution.pdf
-  doi: https://ieeexplore.ieee.org/document/8283605
-  code: 
-  highlight:
-  news2:
-
-- title: "Network-Clustered Multi-Modal Bug Localization"
-  image: 
-  description:  
-  authors: Thong Hoang, Richard Jayadi Oentaryo, Tien-Duy B. Le, David Lo
-  publisher: "IEEE Trans. Software Eng. 45(10): 1002-1023 (2019)"
-  type: Journal
-  pdf: Hoang2019BugLocalization.pdf
-  doi: https://www.computer.org/csdl/journal/ts/2019/10/08306117/13rRUwI5U9x
-  code: https://github.com/hvdthong/NetML
-  highlight: 0
-  news2:
-
-- title: Automating Change-Level Self-Admitted Technical Debt Determination 
-  image:
-  description:
-  authors: Meng Yan, Xin Xia, Emad Shihab, David Lo, Jianwei Yin, Xiaohu Yang
-  publisher: "IEEE Trans. Software Eng. 45(12): 1211-1229 (2019)"
-  type: Journal
-  pdf: Yan2019SATD.pdf
-  doi: https://ieeexplore.ieee.org/document/8352718
   code:
   highlight:
   news2:
@@ -550,6 +550,18 @@
   code: 
   highlight: 
   news2: 
+
+- title: "26th IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER 2019, Hangzhou, China, February 24-27, 2019"
+  image: 
+  description:  
+  authors: Xinyu Wang, David Lo, Emad Shihab
+  publisher: "IEEE 2019, ISBN 978-1-7281-0591-8"
+  type: Editorship
+  pdf: 
+  doi: https://www.computer.org/csdl/proceedings/saner/2019/18uSs85VsRO
+  code: 
+  highlight: 0
+  news2:
 
 # - title: "Analyzing Offline Social Engagements: An Empirical Study of Meetup Events Related to Software Development"
 #   image: 
