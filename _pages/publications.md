@@ -60,14 +60,14 @@ permalink: /publications/
 
 {% for publi in site.data.publist_2020 %}
 
-<div class="col-sm-2" style="padding:0px">
+<div class="col-sm-1" style="padding:0px">
   {% if publi.type == "Journal" %} 
   <div class="box" style="background-color: #C32B72;"></div>
   <p style="display:inline-block;">[Journal] </p>
   {% endif %}
   {% if publi.type == "Conference" %} 
   <div class="box" style="background-color: #196CA3;"></div>
-  <p style="display:inline-block;">[Conference] </p>
+  <p style="display:inline-block;">[Conf] </p>
   {% endif %}
   {% if publi.type == "Arxiv" %} 
   <div class="box" style="background-color: #606B70;"></div>
@@ -75,14 +75,14 @@ permalink: /publications/
   {% endif %}
   {% if publi.type == "Editorship" %} 
   <div class="box" style="background-color: #33C3BA;"></div>
-  <p style="display:inline-block;">[Editorship] </p>
+  <p style="display:inline-block;">[Editor] </p>
   {% endif %}
   {% if publi.type <> "Journal" and publi.type <> "Conference" and publi.type <> "Arxiv" and publi.type <> "Editorship" %} 
   <div class="box"></div>
   <p style="display:inline-block;">[Other] </p>
   {% endif %}
 </div>
-<div class="col-sm-10">
+<div class="col-sm-11">
   <p>
   **{{ publi.title }}** <br/>
   <em>{{ publi.authors }} </em><br/>
@@ -92,18 +92,19 @@ permalink: /publications/
 
 {% endfor %}
 
+
 ### 2019
 
 {% for publi in site.data.publist_2019 %}
 
-<div class="col-sm-2" style="padding:0px">
+<div class="col-sm-1" style="padding:0px">
   {% if publi.type == "Journal" %} 
   <div class="box" style="background-color: #C32B72;"></div>
   <p style="display:inline-block;">[Journal] </p>
   {% endif %}
   {% if publi.type == "Conference" %} 
   <div class="box" style="background-color: #196CA3;"></div>
-  <p style="display:inline-block;">[Conference] </p>
+  <p style="display:inline-block;">[Conf] </p>
   {% endif %}
   {% if publi.type == "Arxiv" %} 
   <div class="box" style="background-color: #606B70;"></div>
@@ -111,14 +112,14 @@ permalink: /publications/
   {% endif %}
   {% if publi.type == "Editorship" %} 
   <div class="box" style="background-color: #33C3BA;"></div>
-  <p style="display:inline-block;">[Editorship] </p>
+  <p style="display:inline-block;">[Editor] </p>
   {% endif %}
   {% if publi.type <> "Journal" and publi.type <> "Conference" and publi.type <> "Arxiv" and publi.type <> "Editorship" %} 
   <div class="box"></div>
   <p style="display:inline-block;">[Other] </p>
   {% endif %}
 </div>
-<div class="col-sm-10">
+<div class="col-sm-11">
   <p>
   **{{ publi.title }}** <br/>
   <em>{{ publi.authors }} </em><br/>
@@ -132,14 +133,14 @@ permalink: /publications/
 
 {% for publi in site.data.publist_2018 %}
 
-<div class="col-sm-2" style="padding:0px">
+<div class="col-sm-1" style="padding:0px">
   {% if publi.type == "Journal" %} 
   <div class="box" style="background-color: #C32B72;"></div>
   <p style="display:inline-block;">[Journal] </p>
   {% endif %}
   {% if publi.type == "Conference" %} 
   <div class="box" style="background-color: #196CA3;"></div>
-  <p style="display:inline-block;">[Conference] </p>
+  <p style="display:inline-block;">[Conf] </p>
   {% endif %}
   {% if publi.type == "Arxiv" %} 
   <div class="box" style="background-color: #606B70;"></div>
@@ -147,14 +148,14 @@ permalink: /publications/
   {% endif %}
   {% if publi.type == "Editorship" %} 
   <div class="box" style="background-color: #33C3BA;"></div>
-  <p style="display:inline-block;">[Editorship] </p>
+  <p style="display:inline-block;">[Editor] </p>
   {% endif %}
   {% if publi.type <> "Journal" and publi.type <> "Conference" and publi.type <> "Arxiv" and publi.type <> "Editorship" %} 
   <div class="box"></div>
   <p style="display:inline-block;">[Other] </p>
   {% endif %}
 </div>
-<div class="col-sm-10">
+<div class="col-sm-11">
   <p>
   **{{ publi.title }}** <br/>
   <em>{{ publi.authors }} </em><br/>
@@ -184,6 +185,6 @@ permalink: /publications/
   width:8px;
   height:8px;
   background-color: grey;
-  margin-right:10px;
+  margin-right:6px;
 }
 </style>
