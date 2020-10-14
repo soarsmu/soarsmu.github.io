@@ -443,14 +443,14 @@
   highlight: 0
   news2:
 
-- title: "Analyzing Offline Social Engagements: An Empirical Study of Meetup Events Related to Software Development"
-  image: 
-  description:  
-  authors: Abhishek Sharma, Gede Artha Azriadi Prana, Anamika Sawhney, Nachiappan Nagappan, David Lo
-  publisher: "CoRR abs/1912.07352 (2019)"
-  type: Arxiv
-  pdf: Sharma2019SocialEngagement.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: "Analyzing Offline Social Engagements: An Empirical Study of Meetup Events Related to Software Development"
+#   image: 
+#   description:  
+#   authors: Abhishek Sharma, Gede Artha Azriadi Prana, Anamika Sawhney, Nachiappan Nagappan, David Lo
+#   publisher: "CoRR abs/1912.07352 (2019)"
+#   type: Arxiv
+#   pdf: Sharma2019SocialEngagement.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:

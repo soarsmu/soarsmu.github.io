@@ -310,135 +310,135 @@
   highlight: 0
   news2:
 
-- title: "Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum"
-  image: 
-  description:  
-  authors: 	Jiachi Chen, Xin Xia, David Lo, John C. Grundy 
-  publisher: "CoRR abs/2005.07908 (2020)"
-  type: Arxiv
-  pdf: Chen2020SmartContract.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: "Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum"
+#   image: 
+#   description:  
+#   authors: 	Jiachi Chen, Xin Xia, David Lo, John C. Grundy 
+#   publisher: "CoRR abs/2005.07908 (2020)"
+#   type: Arxiv
+#   pdf: Chen2020SmartContract.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
 
-- title: "Simplifying Deep-Learning-Based Model for Code Search"
-  image: 
-  description:  
-  authors: 	Chao Liu, Xin Xia, David Lo, Zhiwei Liu, Ahmed E. Hassan, Shanping Li
-  publisher: "CoRR abs/2005.14373 (2020)"
-  type: Arxiv
-  pdf: Liu2020SimplifyingDL.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: "Simplifying Deep-Learning-Based Model for Code Search"
+#   image: 
+#   description:  
+#   authors: 	Chao Liu, Xin Xia, David Lo, Zhiwei Liu, Ahmed E. Hassan, Shanping Li
+#   publisher: "CoRR abs/2005.14373 (2020)"
+#   type: Arxiv
+#   pdf: Liu2020SimplifyingDL.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
 
-- title: "On the Replicability and Reproducibility of Deep Learning in Software Engineering"
-  image: 
-  description:  
-  authors: Chao Liu, Cuiyun Gao, Xin Xia, David Lo, John C. Grundy, Xiaohu Yang
-  publisher: "CoRR abs/2006.14244 (2020)"
-  type: Arxiv
-  pdf: Liu2020DLinSE.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: "On the Replicability and Reproducibility of Deep Learning in Software Engineering"
+#   image: 
+#   description:  
+#   authors: Chao Liu, Cuiyun Gao, Xin Xia, David Lo, John C. Grundy, Xiaohu Yang
+#   publisher: "CoRR abs/2006.14244 (2020)"
+#   type: Arxiv
+#   pdf: Liu2020DLinSE.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
 
-- title: "Maintaining Smart Contracts on Ethereum: Issues, Techniques, and Future Challenges"
-  image: 
-  description:  
-  authors: Jiachi Chen, Xin Xia, David Lo, John C. Grundy, Xiaohu Yang
-  publisher: "CoRR abs/2007.00286 (2020)"
-  type: Arxiv
-  pdf: Chen2020MaintainingSmartContract.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: "Maintaining Smart Contracts on Ethereum: Issues, Techniques, and Future Challenges"
+#   image: 
+#   description:  
+#   authors: Jiachi Chen, Xin Xia, David Lo, John C. Grundy, Xiaohu Yang
+#   publisher: "CoRR abs/2007.00286 (2020)"
+#   type: Arxiv
+#   pdf: Chen2020MaintainingSmartContract.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
 
-- title: "Predictive Models in Software Engineering: Challenges and Opportunities"
-  image: 
-  description:  
-  authors: Yanming Yang, Xin Xia, David Lo, Tingting Bi, John C. Grundy, Xiaohu Yang
-  publisher: "CoRR abs/2008.03656 (2020)"
-  type: Arxiv
-  pdf: Yang2020PredictiveModelinSE.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: "Predictive Models in Software Engineering: Challenges and Opportunities"
+#   image: 
+#   description:  
+#   authors: Yanming Yang, Xin Xia, David Lo, Tingting Bi, John C. Grundy, Xiaohu Yang
+#   publisher: "CoRR abs/2008.03656 (2020)"
+#   type: Arxiv
+#   pdf: Yang2020PredictiveModelinSE.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
 
-- title: "A Deep Dive on the Impact of COVID-19 in Software Development"
-  image: 
-  description:  
-  authors: Paulo Anselmo da Mota Silveira Neto, Umme Ayda Mannan, Eduardo Santana de Almeida, Nachiappan Nagappan, David Lo, Pavneet Singh Kochhar, Cuiyun Gao, Iftekhar Ahmed
-  publisher: "CoRR abs/2008.07048 (2020)"
-  type: Arxiv
-  pdf: Neto2020ImpactofCovid.pdf
-  doi: 
-  code: https://github.com/pamsn/covid-study
-  highlight: 0
-  news2:
+# - title: "A Deep Dive on the Impact of COVID-19 in Software Development"
+#   image: 
+#   description:  
+#   authors: Paulo Anselmo da Mota Silveira Neto, Umme Ayda Mannan, Eduardo Santana de Almeida, Nachiappan Nagappan, David Lo, Pavneet Singh Kochhar, Cuiyun Gao, Iftekhar Ahmed
+#   publisher: "CoRR abs/2008.07048 (2020)"
+#   type: Arxiv
+#   pdf: Neto2020ImpactofCovid.pdf
+#   doi: 
+#   code: https://github.com/pamsn/covid-study
+#   highlight: 0
+#   news2:
 
-- title: "Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing"
-  image: 
-  description:  
-  authors: Cuiyun Gao, Jichuan Zeng, Zhiyuan Wen, David Lo, Xin Xia, Irwin King, Michael R. Lyu 
-  publisher: "CoRR abs/2008.09976 (2020)"
-  type: Arxiv
-  pdf: Gao2020EmergingAppIssue.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: "Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing"
+#   image: 
+#   description:  
+#   authors: Cuiyun Gao, Jichuan Zeng, Zhiyuan Wen, David Lo, Xin Xia, Irwin King, Michael R. Lyu 
+#   publisher: "CoRR abs/2008.09976 (2020)"
+#   type: Arxiv
+#   pdf: Gao2020EmergingAppIssue.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
 
-- title: "An Empirical Study of In-App Advertising Issues Based on Large Scale App Review Analysis"
-  image: 
-  description:  
-  authors: Cuiyun Gao, Jichuan Zeng, David Lo, Xin Xia, Irwin King, Michael R. Lyu
-  publisher: "CoRR abs/2008.12112 (2020)"
-  type: Arxiv
-  pdf: Gao2020InAppAdvertising.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: "An Empirical Study of In-App Advertising Issues Based on Large Scale App Review Analysis"
+#   image: 
+#   description:  
+#   authors: Cuiyun Gao, Jichuan Zeng, David Lo, Xin Xia, Irwin King, Michael R. Lyu
+#   publisher: "CoRR abs/2008.12112 (2020)"
+#   type: Arxiv
+#   pdf: Gao2020InAppAdvertising.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
 
-- title: "DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode"
-  image: 
-  description:  
-  authors: 	Jiachi Chen, Xin Xia, David Lo, John C. Grundy, Xiapu Luo, Ting Chen
-  publisher: "CoRR abs/2009.02663 (2020)"
-  type: Arxiv
-  pdf: Chen2020DefectChecker.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: "DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode"
+#   image: 
+#   description:  
+#   authors: 	Jiachi Chen, Xin Xia, David Lo, John C. Grundy, Xiapu Luo, Ting Chen
+#   publisher: "CoRR abs/2009.02663 (2020)"
+#   type: Arxiv
+#   pdf: Chen2020DefectChecker.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
 
-- title: "Including Everyone, Everywhere: Understanding Opportunities and Challenges of Geographic Gender-Inclusion in OSS"
-  image: 
-  description:  
-  authors: Gede Artha Azriadi Prana, Denae Ford, Ayushi Rastogi, David Lo, Rahul Purandare, Nachiappan Nagappan
-  publisher: "CoRR abs/2010.00822 (2020)"
-  type: Arxiv
-  pdf: Prana2020GenderInclusioninOSS.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: "Including Everyone, Everywhere: Understanding Opportunities and Challenges of Geographic Gender-Inclusion in OSS"
+#   image: 
+#   description:  
+#   authors: Gede Artha Azriadi Prana, Denae Ford, Ayushi Rastogi, David Lo, Rahul Purandare, Nachiappan Nagappan
+#   publisher: "CoRR abs/2010.00822 (2020)"
+#   type: Arxiv
+#   pdf: Prana2020GenderInclusioninOSS.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
 
-- title: "What Makes a Popular Academic AI Repository?"
-  image: 
-  description:  
-  authors: Yuanrui Fan, Xin Xia, David Lo, Ahmed E. Hassan, Shanping Li
-  publisher: "CoRR abs/2010.02472 (2020)"
-  type: Arxiv
-  pdf: Fan2020AIRepo.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: "What Makes a Popular Academic AI Repository?"
+#   image: 
+#   description:  
+#   authors: Yuanrui Fan, Xin Xia, David Lo, Ahmed E. Hassan, Shanping Li
+#   publisher: "CoRR abs/2010.02472 (2020)"
+#   type: Arxiv
+#   pdf: Fan2020AIRepo.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
 
