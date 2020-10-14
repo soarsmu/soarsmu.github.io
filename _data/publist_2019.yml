@@ -298,6 +298,114 @@
 #   highlight: 0
 #   news2:
 
+- title: "Automatic Code Review by Learning the Revision of Source Code"
+  image: 
+  description: 
+  authors: Shu-Ting Shi, Ming Li, David Lo, Ferdian Thung, Xuan Huo
+  publisher: "AAAI 2019: 4910-4917"
+  type: Conference
+  pdf: Shi2019CodeReview.pdf
+  doi: https://doi.org/10.1609/aaai.v33i01.33014910
+  code: 
+  highlight: 
+  news2: 
+
+- title: "PatchNet: a tool for deep patch classification"
+  image: 
+  description:  
+  authors: Thong Hoang, Julia Lawall, Richard Jayadi Oentaryo, Yuan Tian, David Lo
+  publisher: "ICSE (Companion Volume) 2019: 83-86"
+  type: Conference
+  pdf: Hoang2019PatchNet.pdf
+  doi: https://dl.acm.org/doi/10.1109/ICSE-Companion.2019.00044
+  code: https://github.com/soarsmu/PatchNet
+  highlight: 0
+  news2:
+
+- title: "Practitioners' views on good software testing practices"
+  image: 
+  description:  
+  authors: Pavneet Singh Kochhar, Xin Xia, David Lo
+  publisher: "ICSE (SEIP) 2019: 61-70"
+  type: Conference
+  pdf: Kochhar2019SoftwareTestingPractices.pdf
+  doi: https://dl.acm.org/doi/10.1109/ICSE-SEIP.2019.00015
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Emerging app issue identification from user feedback: experience on WeChat"
+  image: 
+  description: 
+  authors: Cuiyun Gao, Wujie Zheng, Yuetang Deng, David Lo, Jichuan Zeng, Michael R. Lyu, Irwin King
+  publisher: "ICSE (SEIP) 2019: 279-288"
+  type: Conference
+  pdf: Gao2019IssueIdentification.pdf
+  doi: https://dl.acm.org/citation.cfm?id=3339914.3339963
+  code: 
+  highlight: 
+  news2: 
+
+- title: "On reliability of patch correctness assessment"
+  image: 
+  description:  
+  authors: Xuan-Bach D. Le, Lingfeng Bao, David Lo, Xin Xia, Shanping Li, Corina S. Pasareanu 
+  publisher: "ICSE 2019: 524-535"
+  type: Conference
+  pdf: XBD2019PatchCorrectness.pdf
+  doi: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "How practitioners perceive coding proficiency"
+  image: 
+  description: 
+  authors: Xin Xia, Zhiyuan Wan, Pavneet Singh Kochhar, David Lo
+  publisher: "ICSE 2019: 924-935"
+  type: Conference
+  pdf: Xia2019CodingProficiency.pdf
+  doi: https://dl.acm.org/citation.cfm?id=3339621
+  code: 
+  highlight: 
+  news2: 
+
+- title: "BIKER: a tool for Bi-information source based API method recommendation"
+  image: 
+  description: 
+  authors: Liang Cai, Haoye Wang, Qiao Huang, Xin Xia, Zhenchang Xing, David Lo
+  publisher: "ESEC/SIGSOFT FSE 2019: 1075-1079"
+  type: Conference
+  pdf: Cai2019Biker.pdf
+  doi: https://dl.acm.org/doi/10.1145/3338906.3341174
+  code: 
+  highlight: 
+  news2: 
+
+- title: "AnswerBot: an answer summary generation tool based on stack overflow"
+  image: 
+  description: 
+  authors: Liang Cai, Haoye Wang, Bowen Xu, Qiao Huang, Xin Xia, David Lo, Zhenchang Xing
+  publisher: "ESEC/SIGSOFT FSE 2019: 1134-1138"
+  type: Conference
+  pdf: Cai2019AnswerBot.pdf
+  doi: https://dl.acm.org/doi/10.1145/3338906.3341186
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Automatic Generation of Pull Request Descriptions"
+  image: 
+  description: 
+  authors: Zhongxin Liu, Xin Xia, Christoph Treude, David Lo, Shanping Li
+  publisher: "ASE 2019: 176-188"
+  type: Conference
+  pdf: Liu2019PullRequestDesc.pdf
+  doi: https://dl.acm.org/doi/abs/10.1109/ASE.2019.00026
+  code: 
+  highlight: 
+  news2: 
+
 - title: "Saffron: Adaptive Grammar-based Fuzzing for Worst-Case Analysis"
   image: 
   description:  
@@ -317,67 +425,6 @@
   publisher: "ASE 2019"
   type: Conference
   pdf: Gao2019AppReviewGeneration.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
-
-
-- title: "Semantic Patches for Java Program Transformation"
-  image: 
-  description:  
-  authors: Hong Jin Kang, Ferdian Thung, Julia Lawall, Gilles Muller, Lingxiao Jiang, David Lo
-  publisher: "ECOOP 2019: 22:1-22:27"
-  type: Conference
-  pdf: Kang2019SemanticPatches.pdf
-  doi: 
-  code: https://github.com/kanghj/coccinelle
-  highlight: 0
-  news2:
-
-- title: "Practitioners' views on good software testing practices"
-  image: 
-  description:  
-  authors: Pavneet Singh Kochhar, Xin Xia, David Lo
-  publisher: "ICSE (SEIP) 2019: 61-70"
-  type: Conference
-  pdf: Kochhar2019SoftwareTestingPractices.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
-
-- title: "PatchNet: a tool for deep patch classification"
-  image: 
-  description:  
-  authors: 	Thong Hoang, Julia Lawall, Richard Jayadi Oentaryo, Yuan Tian, David Lo
-  publisher: "ICSE (Companion Volume) 2019: 83-86"
-  type: Conference
-  pdf: Hoang2019PatchNet.pdf
-  doi: 
-  code: https://github.com/soarsmu/PatchNet
-  highlight: 0
-  news2:
-
-- title: "On reliability of patch correctness assessment"
-  image: 
-  description:  
-  authors: Xuan-Bach D. Le, Lingfeng Bao, David Lo, Xin Xia, Shanping Li, Corina S. Pasareanu 
-  publisher: "ICSE 2019: 524-535"
-  type: Conference
-  pdf: XBD2019PatchCorrectness.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
-
-- title: "Towards Generating Transformation Rules without Examples for Android API Replacement"
-  image: 
-  description:  
-  authors: 	Ferdian Thung, Hong Jin Kang, Lingxiao Jiang, David Lo
-  publisher: "ICSME 2019: 213-217"
-  type: Conference
-  pdf: Thung2019TransformationRule.pdf
   doi: 
   code: 
   highlight: 0
@@ -407,6 +454,42 @@
   highlight: 0
   news2:
 
+- title: "Semantic Patches for Java Program Transformation"
+  image: 
+  description:  
+  authors: Hong Jin Kang, Ferdian Thung, Julia Lawall, Gilles Muller, Lingxiao Jiang, David Lo
+  publisher: "ECOOP 2019: 22:1-22:27"
+  type: Conference
+  pdf: Kang2019SemanticPatches.pdf
+  doi: 
+  code: https://github.com/kanghj/coccinelle
+  highlight: 0
+  news2:
+
+- title: "Towards Generating Transformation Rules without Examples for Android API Replacement"
+  image: 
+  description:  
+  authors: Ferdian Thung, Hong Jin Kang, Lingxiao Jiang, David Lo
+  publisher: "ICSME 2019: 213-217"
+  type: Conference
+  pdf: Thung2019TransformationRule.pdf
+  doi: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "SmartEmbed: A Tool for Clone and Bug Detection in Smart Contracts through Structural Code Embedding"
+  image: 
+  description: 
+  authors: Zhipeng Gao, Vinoj Jayasundara, Lingxiao Jiang, Xin Xia, David Lo, John C. Grundy
+  publisher: "ICSME 2019: 394-397"
+  type: Conference
+  pdf: Gao2019SmartEmbed.pdf
+  doi: https://www.computer.org/csdl/proceedings/icsme/2019/1fHlD9GD6P6
+  code: 
+  highlight: 
+  news2: 
+
 - title: "DeepJIT: an end-to-end deep learning framework for just-in-time defect prediction"
   image: 
   description:  
@@ -419,10 +502,22 @@
   highlight: 0
   news2:
 
+- title: "Message from the General Chair, Program Co-Chairs, and Local Chair"
+  image: 
+  description: 
+  authors: Xinyu Wang, David Lo, Emad Shihab, Xin Xia
+  publisher: "SANER 2019: iii-iv"
+  type: Conference
+  pdf: 
+  doi: https://ieeexplore.ieee.org/document/8668011
+  code: 
+  highlight: 
+  news2: 
+
 - title: "DeepReview: Automatic Code Review Using Deep Multi-instance Learning"
   image: 
   description:  
-  authors: 	Heng-Yi Li, Shu-Ting Shi, Ferdian Thung, Xuan Huo, Bowen Xu, Ming Li, David Lo
+  authors: Heng-Yi Li, Shu-Ting Shi, Ferdian Thung, Xuan Huo, Bowen Xu, Ming Li, David Lo
   publisher: "PAKDD (2) 2019: 318-330"
   type: Conference
   pdf: Li2019DeepReview.pdf
@@ -442,6 +537,19 @@
   code: 
   highlight: 0
   news2:
+
+
+- title: "InSPeCT: Iterated Local Search for Solving Path Conditions"
+  image: 
+  description: 
+  authors: Fuxiang Chen, Aldy Gunawan, David Lo, Sunghun Kim
+  publisher: "CASE 2019: 1724-1729"
+  type: Conference
+  pdf: Chen2019Inspect.pdf
+  doi: https://ieeexplore.ieee.org/document/8843039
+  code: 
+  highlight: 
+  news2: 
 
 # - title: "Analyzing Offline Social Engagements: An Empirical Study of Meetup Events Related to Software Development"
 #   image: 
