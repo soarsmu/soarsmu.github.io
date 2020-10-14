@@ -1,14 +1,11 @@
-
 - title: pic1_description
   image: team3.jpg
-- title: pic1_description
-  image: team1.jpg
-
 
 - title: pic1_description
   image: team2.jpg
 
-
+- title: pic1_description
+  image: team1.jpg
 
 - title: pic1_description
   image: icse2019.jpg
@@ -23,10 +20,10 @@
   image: GroupSIS.jpg
 
 - title: pic1_description
-  image: GroupDinner.jpg
+  image: SMU_SIS2.jpeg
 
 - title: pic1_description
-  image: SMU_SIS2.jpeg
+  image: GroupDinner.jpg
 
 - title: pic1_description
   image: SMU_SIS.jpeg
