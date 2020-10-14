@@ -116,22 +116,22 @@ permalink: /team/
 {% endif %}
 
 
-## Current Master and Bachelor Students
+<!-- ## Current Master and Bachelor Students -->
 <div class="row">
 
 <div class="col-sm-6 clearfix">
-<h4>Undergraduates</h4>
+<h4>Undergraduates Students</h4>
 {% for member in site.data.bsc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
-<div class="col-sm-6 clearfix">
+<!-- <div class="col-sm-6 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.msc %}
 {{ member.name }}
 {% endfor %}
-</div>
+</div> -->
 
 
 </div>
