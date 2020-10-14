@@ -5,7 +5,7 @@ excerpt: "SOftware Analytics Research Group -- Pictures"
 permalink: /pictures/
 ---
 
-<h1 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">Pictures</h1>
+<h1 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">Photos</h1>
 
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
