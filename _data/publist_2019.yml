@@ -1,3 +1,15 @@
+- title: "Automatic, highly accurate app permission recommendation"
+  image: 
+  description:  
+  authors: Zhongxin Liu, Xin Xia, David Lo, John C. Grundy
+  publisher: "Autom. Softw. Eng. 26(2): 241-274 (2019)"
+  type: Journal
+  pdf: Liu2019AppPermissionRecommendation.pdf
+  doi: https://dblp.uni-trier.de/db/journals/ase/ase26.html#LiuXLG19
+  code: https://github.com/Tbabm/PerRec
+  highlight: 0
+  news2:
+
 - title: ""
   image: 
   description:  
@@ -5,11 +17,70 @@
   publisher: ""
   type: Journal
   pdf: 
-  bib: 
+  doi: 
   code: 
   highlight: 0
   news2:
 
+- title: ""
+  image: 
+  description:  
+  authors: 
+  publisher: ""
+  type: Journal
+  pdf: 
+  doi: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: ""
+  image: 
+  description:  
+  authors: 
+  publisher: ""
+  type: Journal
+  pdf: 
+  doi: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: ""
+  image: 
+  description:  
+  authors: 
+  publisher: ""
+  type: Journal
+  pdf: 
+  doi: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: ""
+  image: 
+  description:  
+  authors: 
+  publisher: ""
+  type: Journal
+  pdf: 
+  doi: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: ""
+  image: 
+  description:  
+  authors: 
+  publisher: ""
+  type: Journal
+  pdf: 
+  doi: 
+  code: 
+  highlight: 0
+  news2:
 
 - title: "Categorizing the Content of GitHub README Files"
   image: 
@@ -18,7 +89,7 @@
   publisher: "Empir. Softw. Eng. 24(3): 1296-1327 (2019)"
   type: Journal
   pdf: Prana2019CategorizingGithubReadme.pdf
-  bib: 
+  doi: 
   code: https://github.com/gprana/READMEClassifier
   highlight: 0
   news2:
@@ -30,7 +101,7 @@
   publisher: "ASE 2019"
   type: Journal
   pdf: XBD2019SAFFRON.pdf
-  bib: 
+  doi: 
   code: 
   highlight: 0
   news2:
@@ -42,7 +113,7 @@
   publisher: "IEEE Trans. Software Eng. 45(10): 1002-1023 (2019)"
   type: Journal
   pdf: Hoang2019BugLocalization.pdf
-  bib: 
+  doi: 
   code: https://github.com/hvdthong/NetML
   highlight: 0
   news2:
@@ -54,7 +125,7 @@
   publisher: "ASE 2019"
   type: Conference
   pdf: Gao2019AppReviewGeneration.pdf
-  bib: 
+  doi: 
   code: 
   highlight: 0
   news2:
@@ -67,7 +138,7 @@
   publisher: "ECOOP 2019: 22:1-22:27"
   type: Conference
   pdf: Kang2019SemanticPatches.pdf
-  bib: 
+  doi: 
   code: https://github.com/kanghj/coccinelle
   highlight: 0
   news2:
@@ -79,7 +150,7 @@
   publisher: "ICSE (SEIP) 2019: 61-70"
   type: Conference
   pdf: Kochhar2019SoftwareTestingPractices.pdf
-  bib: 
+  doi: 
   code: 
   highlight: 0
   news2:
@@ -91,7 +162,7 @@
   publisher: "ICSE (Companion Volume) 2019: 83-86"
   type: Conference
   pdf: Hoang2019PatchNet.pdf
-  bib: 
+  doi: 
   code: https://github.com/soarsmu/PatchNet
   highlight: 0
   news2:
@@ -103,7 +174,7 @@
   publisher: "ICSE 2019: 524-535"
   type: Conference
   pdf: XBD2019PatchCorrectness.pdf
-  bib: 
+  doi: 
   code: 
   highlight: 0
   news2:
@@ -115,7 +186,7 @@
   publisher: "ICSME 2019: 213-217"
   type: Conference
   pdf: Thung2019TransformationRule.pdf
-  bib: 
+  doi: 
   code: 
   highlight: 0
   news2:
@@ -127,7 +198,7 @@
   publisher: "ASE 2019: 1-12"
   type: Conference
   pdf: Kang2019Code2Vec.pdf
-  bib: 
+  doi: 
   code: 
   highlight: 0
   news2:
@@ -139,7 +210,7 @@
   publisher: "ASE 2019: 851-862"
   type: Conference
   pdf: Bao2019StatisticalLogDifferencing.pdf
-  bib: 
+  doi: 
   code: 
   highlight: 0
   news2:
@@ -151,7 +222,7 @@
   publisher: "MSR 2019: 34-45"
   type: Conference
   pdf: Hoang2019DeepJIT.pdf
-  bib: 
+  doi: 
   code: https://github.com/soarsmu/DeepJIT
   highlight: 0
   news2:
@@ -163,7 +234,7 @@
   publisher: "PAKDD (2) 2019: 318-330"
   type: Conference
   pdf: Li2019DeepReview.pdf
-  bib: 
+  doi: 
   code: 
   highlight: 0
   news2:
@@ -175,7 +246,7 @@
   publisher: "NeurIPS Workshop on ML for Systems 2019"
   type: Conference
   pdf: Jayasundara2019TreeCaps.pdf
-  bib: 
+  doi: 
   code: 
   highlight: 0
   news2:
@@ -187,7 +258,7 @@
   publisher: "CoRR abs/1912.07352 (2019)"
   type: Arxiv
   pdf: Sharma2019SocialEngagement.pdf
-  bib: 
+  doi: 
   code: 
   highlight: 0
   news2:
@@ -199,7 +270,7 @@
   publisher: ""
   type: Arxiv
   pdf: 
-  bib: 
+  doi: 
   code: 
   highlight: 0
   news2:
