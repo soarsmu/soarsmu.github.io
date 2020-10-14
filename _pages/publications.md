@@ -60,28 +60,130 @@ permalink: /publications/
 
 {% for publi in site.data.publist_2020 %}
 
+<div class="col-sm-2" style="padding:0px">
+  {% if publi.type == "Journal" %} 
+  <div class="box" style="background-color: #C32B72;"></div>
+  <p style="display:inline-block;">[Journal] </p>
+  {% endif %}
+  {% if publi.type == "Conference" %} 
+  <div class="box" style="background-color: #196CA3;"></div>
+  <p style="display:inline-block;">[Conference] </p>
+  {% endif %}
+  {% if publi.type == "Arxiv" %} 
+  <div class="box" style="background-color: #606B70;"></div>
+  <p style="display:inline-block;">[Arxiv] </p>
+  {% endif %}
+  {% if publi.type == "Editorship" %} 
+  <div class="box" style="background-color: #33C3BA;"></div>
+  <p style="display:inline-block;">[Editorship] </p>
+  {% endif %}
+  {% if publi.type <> "Journal" and publi.type <> "Conference" and publi.type <> "Arxiv" and publi.type <> "Editorship" %} 
+  <div class="box"></div>
+  <p style="display:inline-block;">[Other] </p>
+  {% endif %}
+</div>
+<div class="col-sm-10">
+  <p>
   **{{ publi.title }}** <br/>
   <em>{{ publi.authors }} </em><br/>
-  {{ publi.publisher }} ({% if publi.pdf %} <a href="/papers/2020/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.bib %} | <a href="{{ publi.bib }}" target="_blank">BIB</a> {% endif %} {% if publi.code %} | <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
-  
+  {{ publi.publisher }} ( {% if publi.pdf %} <a href="/papers/2020/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.pdf and publi.bib %} | {% endif %} {% if publi.bib %} <a href="{{ publi.bib }}" target="_blank">BIB</a> {% endif %} {% if publi.pdf and publi.code %} | {% endif %}  {% if publi.code %} <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
+  </p>
+</div>
+
 {% endfor %}
 
 ### 2019
 
 {% for publi in site.data.publist_2019 %}
 
+<div class="col-sm-2" style="padding:0px">
+  {% if publi.type == "Journal" %} 
+  <div class="box" style="background-color: #C32B72;"></div>
+  <p style="display:inline-block;">[Journal] </p>
+  {% endif %}
+  {% if publi.type == "Conference" %} 
+  <div class="box" style="background-color: #196CA3;"></div>
+  <p style="display:inline-block;">[Conference] </p>
+  {% endif %}
+  {% if publi.type == "Arxiv" %} 
+  <div class="box" style="background-color: #606B70;"></div>
+  <p style="display:inline-block;">[Arxiv] </p>
+  {% endif %}
+  {% if publi.type == "Editorship" %} 
+  <div class="box" style="background-color: #33C3BA;"></div>
+  <p style="display:inline-block;">[Editorship] </p>
+  {% endif %}
+  {% if publi.type <> "Journal" and publi.type <> "Conference" and publi.type <> "Arxiv" and publi.type <> "Editorship" %} 
+  <div class="box"></div>
+  <p style="display:inline-block;">[Other] </p>
+  {% endif %}
+</div>
+<div class="col-sm-10">
+  <p>
   **{{ publi.title }}** <br/>
   <em>{{ publi.authors }} </em><br/>
-  {{ publi.publisher }} ( {% if publi.pdf %} <a href="/papers/2019/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.bib %} | <a href="{{ publi.bib }}" target="_blank">BIB</a> {% endif %} {% if publi.code %} | <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
-  
+  {{ publi.publisher }} ( {% if publi.pdf %} <a href="/papers/2019/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.pdf and publi.bib %} | {% endif %} {% if publi.bib %} <a href="{{ publi.bib }}" target="_blank">BIB</a> {% endif %} {% if publi.pdf and publi.code %} | {% endif %}  {% if publi.code %} <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
+  </p>
+</div>
+
 {% endfor %}
 
 ### 2018
 
 {% for publi in site.data.publist_2018 %}
 
+<div class="col-sm-2" style="padding:0px">
+  {% if publi.type == "Journal" %} 
+  <div class="box" style="background-color: #C32B72;"></div>
+  <p style="display:inline-block;">[Journal] </p>
+  {% endif %}
+  {% if publi.type == "Conference" %} 
+  <div class="box" style="background-color: #196CA3;"></div>
+  <p style="display:inline-block;">[Conference] </p>
+  {% endif %}
+  {% if publi.type == "Arxiv" %} 
+  <div class="box" style="background-color: #606B70;"></div>
+  <p style="display:inline-block;">[Arxiv] </p>
+  {% endif %}
+  {% if publi.type == "Editorship" %} 
+  <div class="box" style="background-color: #33C3BA;"></div>
+  <p style="display:inline-block;">[Editorship] </p>
+  {% endif %}
+  {% if publi.type <> "Journal" and publi.type <> "Conference" and publi.type <> "Arxiv" and publi.type <> "Editorship" %} 
+  <div class="box"></div>
+  <p style="display:inline-block;">[Other] </p>
+  {% endif %}
+</div>
+<div class="col-sm-10">
+  <p>
   **{{ publi.title }}** <br/>
   <em>{{ publi.authors }} </em><br/>
-  {{ publi.publisher }} ( {% if publi.pdf %} <a href="/papers/2018/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.bib %} | <a href="{{ publi.bib }}" target="_blank">BIB</a> {% endif %} {% if publi.code %} | <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
-  
+  {{ publi.publisher }} ( {% if publi.pdf %} <a href="/papers/2018/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.pdf and publi.bib %} | {% endif %} {% if publi.bib %} <a href="{{ publi.bib }}" target="_blank">BIB</a> {% endif %} {% if publi.pdf and publi.code %} | {% endif %}  {% if publi.code %} <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
+  </p>
+</div>
+
 {% endfor %}
+
+<style>
+.container {
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.box {
+  display:inline-block;
+  width:8px;
+  height:8px;
+  background-color: grey;
+  margin-right:10px;
+}
+</style>

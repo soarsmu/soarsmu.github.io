@@ -3,6 +3,7 @@
   description: 
   authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo 
   publisher:  IEEE Transactions on Software Engineering
+  type: Journal
   pdf: Bao2018VTRevolution.pdf
   bib: 
   code: 
@@ -14,6 +15,7 @@
   description:  
   authors: Shaowei Wang, David Lo, Bogdan Vasilescu, Alexander Serebrenik
   publisher: "Empir. Softw. Eng. 23(2): 800-832 (2018)"
+  type: Journal
   pdf: Wang2018EnTagRecPlusPlus.pdf
   bib: 
   code: 
@@ -25,6 +27,7 @@
   description:  
   authors: Bowen Xu, Zhenchang Xing, Xin Xia, David Lo, Shanping Li 
   publisher: "Empir. Softw. Eng. 23(2): 1084-1122 (2018)"
+  type: Journal
   pdf: Bowen2018QuestionRetrieval.pdf
   bib: 
   code: 
@@ -36,6 +39,7 @@
   description:  
   authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Ahmed E. Hassan
   publisher: "Empir. Softw. Eng. 23(3): 1313-1351 (2018)"
+  type: Journal
   pdf: Bao2018InferenceOfDevelopmentActivities.pdf
   bib: 
   code: 
@@ -47,6 +51,7 @@
   description:  
   authors: 	Xuan-Bach D. Le, Ferdian Thung, David Lo, Claire Le Goues
   publisher: "Empir. Softw. Eng. 23(5): 3007-3033 (2018)"
+  type: Journal
   pdf: XBD2018OVerfittingAutomatedProgramRepair.pdf
   bib: 
   code: 
@@ -58,6 +63,7 @@
   description:  
   authors: Abhishek Sharma, Yuan Tian, Agus Sulistya, Dinusha Wijedasa, David Lo 
   publisher: "ACM Trans. Softw. Eng. Methodol. 27(4): 16:1-16:33 (2018)"
+  type: Journal
   pdf: Sharma2018RecommendingWhoToFollow.pdf
   bib: 
   code: 
@@ -69,6 +75,7 @@
   description:  
   authors: Xin Xia, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li
   publisher: "IEEE Trans. Software Eng. 44(10): 951-976 (2018)"
+  type: Journal
   pdf: Xia2018ProgramComprehension.pdf
   bib: 
   code: 
@@ -80,6 +87,7 @@
   description:  
   authors: Bowen Xu, Amirreza Shirani, David Lo, Mohammad Amin Alipour
   publisher: "ESEM 2018: 21:1-21:10"
+  type: Conference
   pdf: Bowen2018RelatednessInStackoverflow.pdf
   bib: 
   code: https://github.com/XBWer/ESEM2018 
@@ -91,6 +99,7 @@
   description:  
   authors: Tien-Duy B. Le, Lingfeng Bao, David Lo, Debin Gao, Li Li
   publisher: "ICECCS 2018: 51-60"
+  type: Conference
   pdf: Bao2018AndroidSandboxes.pdf
   bib: 
   code: 
@@ -102,6 +111,7 @@
   description:  
   authors: Xin Xia, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li
   publisher: "ICSE 2018: 584"
+  type: Conference
   pdf: Xia2018ProgramComprehension.pdf
   bib: 
   code: 
@@ -113,6 +123,7 @@
   description:  
   authors: 	Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Ahmed E. Hassan
   publisher: "ICSE 2018: 897"
+  type: Conference
   pdf: Bao2018InferenceOfDevelopmentActivities.pdf
   bib: 
   code: 
@@ -124,6 +135,7 @@
   description:  
   authors: 	Xuan-Bach D. Le, Ferdian Thung, David Lo, Claire Le Goues
   publisher: "ICSE 2018: 163"
+  type: Conference
   pdf: XBD2018OVerfittingAutomatedProgramRepair.pdf
   bib: 
   code: 
@@ -135,6 +147,7 @@
   description:  
   authors: 	Tien-Duy B. Le, David Lo 
   publisher: "ISSTA 2018: 106-117"
+  type: Conference
   pdf: Le2018DeepSpecificationMining.pdf
   bib: 
   code: 
@@ -146,6 +159,7 @@
   description:  
   authors: Tien-Duy B. Le, Lingfeng Bao, David Lo
   publisher: "ESEC/SIGSOFT FSE 2018: 896-899"
+  type: Conference
   pdf: Le2018DSM.pdf
   bib: 
   code: 
@@ -157,6 +171,7 @@
   description:  
   authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Shanping Li 
   publisher: "ESEC/SIGSOFT FSE 2018: 924-927"
+  type: Conference
   pdf: Bao2018VTRevolution.pdf
   bib: 
   code: 
@@ -168,6 +183,7 @@
   description:  
   authors: Lingfeng Bao, Tien-Duy B. Le, David Lo
   publisher: "SANER 2018: 445-455"
+  type: Conference
   pdf: Bao2018MiningSandboxes.pdf
   bib: 
   code: 
