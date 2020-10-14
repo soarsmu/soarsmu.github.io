@@ -262,41 +262,41 @@
   highlight:
   news2:
 
-- title: ""
-  image: 
-  description:  
-  authors: 
-  publisher: ""
-  type: Journal
-  pdf: 
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: ""
+#   image: 
+#   description:  
+#   authors: 
+#   publisher: ""
+#   type: Journal
+#   pdf: 
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
 
-- title: ""
-  image: 
-  description:  
-  authors: 
-  publisher: ""
-  type: Journal
-  pdf: 
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: ""
+#   image: 
+#   description:  
+#   authors: 
+#   publisher: ""
+#   type: Journal
+#   pdf: 
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
 
-- title: ""
-  image: 
-  description:  
-  authors: 
-  publisher: ""
-  type: Journal
-  pdf: 
-  doi: 
-  code: 
-  highlight: 0
-  news2:
+# - title: ""
+#   image: 
+#   description:  
+#   authors: 
+#   publisher: ""
+#   type: Journal
+#   pdf: 
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
 
 - title: "Saffron: Adaptive Grammar-based Fuzzing for Worst-Case Analysis"
   image: 
@@ -450,18 +450,6 @@
   publisher: "CoRR abs/1912.07352 (2019)"
   type: Arxiv
   pdf: Sharma2019SocialEngagement.pdf
-  doi: 
-  code: 
-  highlight: 0
-  news2:
-
-- title: ""
-  image: 
-  description:  
-  authors: 
-  publisher: ""
-  type: Arxiv
-  pdf: 
   doi: 
   code: 
   highlight: 0
