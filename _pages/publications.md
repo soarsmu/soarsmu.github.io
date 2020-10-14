@@ -131,7 +131,7 @@ permalink: /publications/
 
 ### 2018
 
-<!-- {% for publi in site.data.publist_2018 %}
+{% for publi in site.data.publist_2018 %}
 
 <div class="col-sm-1" style="padding:0px">
   {% if publi.type == "Journal" %} 
@@ -163,7 +163,7 @@ permalink: /publications/
   </p>
 </div>
 
-{% endfor %} -->
+{% endfor %}
 
 <style>
 .container {

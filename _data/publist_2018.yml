@@ -1,3 +1,15 @@
+- title: "Measuring Program Comprehension: A Large-Scale Field Study with Professionals"
+  image: 
+  description:  
+  authors: Xin Xia, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li
+  publisher: "IEEE Trans. Software Eng. 44(10): 951-976 (2018)"
+  type: Journal
+  pdf: Xia2018ProgramComprehension.pdf
+  doi: 
+  code: 
+  highlight: 0
+  news2:
+
 - title: "Chaff from the Wheat: Characterizing and Determining Valid Bug Reports"
   image: 
   description:  
@@ -9,6 +21,30 @@
   code: 
   highlight: 0
   news2:
+
+- title: "Recommending Who to Follow in the Software Engineering Twitter Space"
+  image: 
+  description:  
+  authors: Abhishek Sharma, Yuan Tian, Agus Sulistya, Dinusha Wijedasa, David Lo 
+  publisher: "ACM Trans. Softw. Eng. Methodol. 27(4): 16:1-16:33 (2018)"
+  type: Journal
+  pdf: Sharma2018RecommendingWhoToFollow.pdf
+  doi: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Rule-based specification mining leveraging learning to rank"
+  image: 
+  description: 
+  authors: Zherui Cao, Yuan Tian, Tien-Duy B. Le, David Lo
+  publisher: "Autom. Softw. Eng. 25(3): 501-530 (2018)"
+  type: Journal
+  pdf: Cao2018SpecMining.pdf
+  doi: https://link.springer.com/article/10.1007/s10515-018-0231-z
+  code: 
+  highlight: 
+  news2: 
 
 - title: "EnTagRec ++: An enhanced tag recommendation system for software information sites"
   image: 
@@ -58,29 +94,77 @@
   highlight: 0
   news2:
 
-- title: "Recommending Who to Follow in the Software Engineering Twitter Space"
+- title: "Identifying self-admitted technical debt in open source projects using text mining"
   image: 
-  description:  
-  authors: Abhishek Sharma, Yuan Tian, Agus Sulistya, Dinusha Wijedasa, David Lo 
-  publisher: "ACM Trans. Softw. Eng. Methodol. 27(4): 16:1-16:33 (2018)"
+  description: 
+  authors: Qiao Huang, Emad Shihab, Xin Xia, David Lo, Shanping Li
+  publisher: "Empir. Softw. Eng. 23(1): 418-451 (2018)"
   type: Journal
-  pdf: Sharma2018RecommendingWhoToFollow.pdf
+  pdf: 
   doi: 
   code: 
-  highlight: 0
-  news2:
+  highlight: 
+  news2: 
 
-- title: "Measuring Program Comprehension: A Large-Scale Field Study with Professionals"
+- title: "Fusing multi-abstraction vector space models for concern localization"
   image: 
-  description:  
-  authors: Xin Xia, Lingfeng Bao, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li
-  publisher: "IEEE Trans. Software Eng. 44(10): 951-976 (2018)"
+  description: 
+  authors: Yun Zhang, David Lo, Xin Xia, Giuseppe Scanniello, Tien-Duy B. Le, Jianling Sun
+  publisher: "Empir. Softw. Eng. 23(4): 2279-2322 (2018)"
   type: Journal
-  pdf: Xia2018ProgramComprehension.pdf
+  pdf: 
   doi: 
   code: 
-  highlight: 0
-  news2:
+  highlight: 
+  news2: 
+
+- title: "Augmenting and structuring user queries to support efficient free-form code search"
+  image: 
+  description: 
+  authors: Raphael Sirres, Tegawendé F. Bissyandé, Dongsun Kim, David Lo, Jacques Klein, Kisub Kim, Yves Le Traon
+  publisher: "Empir. Softw. Eng. 23(5): 2622-2654 (2018)"
+  type: Journal
+  pdf: 
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Early prediction of merged code changes to prioritize reviewing tasks"
+  image: 
+  description: 
+  authors: Yuanrui Fan, Xin Xia, David Lo, Shanping Li
+  publisher: "Empir. Softw. Eng. 23(6): 3346-3393 (2018)"
+  type: Journal
+  pdf: 
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Combined classifier for cross-project defect prediction: an extended empirical study"
+  image: 
+  description: 
+  authors: Yun Zhang, David Lo, Xin Xia, Jianling Sun
+  publisher: "Frontiers Comput. Sci. 12(2): 280-296 (2018)"
+  type: Journal
+  pdf: 
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Improving reusability of software libraries through usage pattern mining"
+  image: 
+  description: 
+  authors: Mohamed Aymen Saied, Ali Ouni, Houari A. Sahraoui, Raula Gaikovina Kula, Katsuro Inoue, David Lo
+  publisher: "J. Syst. Softw. 145: 164-179 (2018)"
+  type: Journal
+  pdf: 
+  doi: 
+  code: 
+  highlight: 
+  news2: 
 
 - title: "Prediction of relatedness in stack overflow: deep learning vs. SVM: a reproducibility study"
   image: 

@@ -34,6 +34,19 @@
   highlight:
   news2:
 
+- title: Deep Transfer Bug Localization 
+  image:
+  description:
+  authors: Xuan Huo, Ferdian Thung, Ming Li, David Lo, Shu-Ting Shi
+  publisher: "IEEE Trans. Software Eng. (2019)"
+  type: Journal
+  pdf: 
+  doi: https://ieeexplore.ieee.org/document/8736995
+  code:
+  highlight:
+  news2:
+
+
 - title: "Neural Network-based Detection of Self-Admitted Technical Debt: From Performance to Explainability" 
   image:
   description:
