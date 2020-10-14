@@ -1,3 +1,16 @@
+- title: ""
+  image: 
+  description:  
+  authors: 
+  publisher: ""
+  type: Journal
+  pdf: 
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
+
 - title: "Categorizing the Content of GitHub README Files"
   image: 
   description:  
@@ -33,6 +46,19 @@
   code: https://github.com/hvdthong/NetML
   highlight: 0
   news2:
+
+- title: "Automating App Review Response Generation"
+  image: 
+  description:  
+  authors: Cuiyun Gao, Jichuan Zeng, Xin Xia, David Lo, Michael R. Lyu, Irwin King
+  publisher: "ASE 2019"
+  type: Conference
+  pdf: Gao2019AppReviewGeneration.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
 
 - title: "Semantic Patches for Java Program Transformation"
   image: 
@@ -161,6 +187,18 @@
   publisher: "CoRR abs/1912.07352 (2019)"
   type: Arxiv
   pdf: Sharma2019SocialEngagement.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
+- title: ""
+  image: 
+  description:  
+  authors: 
+  publisher: ""
+  type: Arxiv
+  pdf: 
   bib: 
   code: 
   highlight: 0

@@ -2,6 +2,15 @@
 # 2020
 #
 
+Generating Question Titles for Stack Overflow from Mined Code Snippets
+https://www.zhuanzhi.ai/paper/915764ff35b4ddd390a8250cd5aec76c
+
+Smart Contract Repair
+https://arxiv.org/pdf/1912.05823.pdf
+
+Automated identification of libraries from vulnerability data
+https://asankhaya.github.io/pdf/Automated-Identification-of-Libraries-from-Vulnerability-Data.pdf
+
 CC2Vec: Distributed Representations of Code Changes
 https://arxiv.org/pdf/2003.05620.pdf
 

@@ -1,8 +1,20 @@
+- title: "Chaff from the Wheat: Characterizing and Determining Valid Bug Reports"
+  image: 
+  description:  
+  authors: Yuanrui Fan, Xin Xia, David Lo, Ahmed E. Hassan
+  publisher: IEEE Transactions on Software Engineering
+  type: Journal
+  pdf: Fan2018ChaffFromTheWheat.pdf
+  bib: 
+  code: 
+  highlight: 0
+  news2:
+
 - title: "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System"
   image: 
   description: 
   authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo 
-  publisher:  IEEE Transactions on Software Engineering
+  publisher: IEEE Transactions on Software Engineering
   type: Journal
   pdf: Bao2018VTRevolution.pdf
   bib: 
