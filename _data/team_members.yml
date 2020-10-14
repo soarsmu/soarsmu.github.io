@@ -6,7 +6,6 @@
   education1: PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a> 
   education2: B.Eng., Bandung Institute of Technology
 
-
 - name: <a href="https://bdqnghi.github.io">Nghi D. Q. Bui</a>
   photo: nghi.png
   info: Research Scientist, started Sep 2020
@@ -14,6 +13,14 @@
   number_educ: 1
   education1: PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/lxjiang/">Lingxiao Jiang</a> 
   education2: B.Eng., Ho Chi Minh University of Science
+
+- name: Stefanus Agus Haryono
+  photo: Stefanus.jpg
+  info: Research Engineer, started Oct 2019
+  email: stefanusah@smu.edu.sg
+  number_educ: 2
+  education1: M.Sc., Bandung Institute of Technology
+  education2: B.Eng., Bandung Institute of Technology
 
 - name: <a href="https://mhilmiasyrofi.github.io/">Muhammad Hilmi ASYROFI</a>
   photo: Muhammad_Hilmi.jpg
@@ -36,14 +43,6 @@
   email: cryang@smu.edu.sg
   number_educ: 1
   education1: B.S., UESTC
-
-- name: Stefanus Agus Haryono
-  photo: Stefanus.jpg
-  info: Research Engineer, started Oct 2019
-  email: stefanusah@smu.edu.sg
-  number_educ: 2
-  education1: M.Sc., Bandung Institute of Technology
-  education2: B.Eng., Bandung Institute of Technology
 
 - name: <a href="https://sites.google.com/view/gprana/">Gede Artha Azriadi PRANA</a>
   photo: Gede_Artha.jpg

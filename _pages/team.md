@@ -29,7 +29,7 @@ permalink: /team/
 
 <div class="row">
   <div class="col-sm-3 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Lingxiao.jpg" class="img-responsive" width="76%" style="float: center" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jiang.png" class="img-responsive" width="76%" style="float: center" />
   <br>
   <h4><a href="http://www.mysmu.edu/faculty/lxjiang/
   ">Lingxiao Jiang</a></h4>
