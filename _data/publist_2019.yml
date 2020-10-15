@@ -564,17 +564,17 @@
   highlight: 
   news2: 
 
-- title: "26th IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER 2019, Hangzhou, China, February 24-27, 2019"
-  image: 
-  description:  
-  authors: Xinyu Wang, David Lo, Emad Shihab
-  publisher: "IEEE 2019, ISBN 978-1-7281-0591-8"
-  type: Editorship
-  pdf: 
-  doi: https://www.computer.org/csdl/proceedings/saner/2019/18uSs85VsRO
-  code: 
-  highlight: 0
-  news2:
+# - title: "26th IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER 2019, Hangzhou, China, February 24-27, 2019"
+#   image: 
+#   description:  
+#   authors: Xinyu Wang, David Lo, Emad Shihab
+#   publisher: "IEEE 2019, ISBN 978-1-7281-0591-8"
+#   type: Editorship
+#   pdf: 
+#   doi: https://www.computer.org/csdl/proceedings/saner/2019/18uSs85VsRO
+#   code: 
+#   highlight: 0
+#   news2:
 
 # - title: "Analyzing Offline Social Engagements: An Empirical Study of Meetup Events Related to Software Development"
 #   image: 

@@ -436,14 +436,14 @@
   highlight: 
   news2: 
 
-- title: "Proceedings of the 7th International Workshop on Software Mining, ASE 2018, Montpellier, France, September 3, 2018"
-  image: 
-  description: 
-  authors: Ming Li, Xiaoyin Wang, David Lo
-  publisher: "ACM 2018"
-  type: Editorship
-  pdf: 
-  doi: https://dl.acm.org/doi/proceedings/10.1145/3242887
-  code: 
-  highlight: 
-  news2: 
+# - title: "Proceedings of the 7th International Workshop on Software Mining, ASE 2018, Montpellier, France, September 3, 2018"
+#   image: 
+#   description: 
+#   authors: Ming Li, Xiaoyin Wang, David Lo
+#   publisher: "ACM 2018"
+#   type: Editorship
+#   pdf: 
+#   doi: https://dl.acm.org/doi/proceedings/10.1145/3242887
+#   code: 
+#   highlight: 
+#   news2: 
