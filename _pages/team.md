@@ -66,41 +66,44 @@ permalink: /team/
 
 
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
+  {{ member.info }}<br>
+  <i><{{ member.email }}></i>
+  
+  
+  <ul class="fa-ul">
 
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education1 }} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education1 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education2 }} </li>
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education1 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education2 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education3 }} </li>
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education1 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education2 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education3 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education4 }} </li>
   {% endif %}
 
   {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education1 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education2 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education3 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education4 }} </li>
+    <li><img class="fa-li"><i class='fas fa-graduation-cap' style='font-size:13px;color:black'></i> {{ member.education5 }} </li>
   {% endif %}
 
   </ul>
-  
+
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -341,3 +344,7 @@ Employment: Associate Professor, Zhejiang University City College, China
 
 ## Administrative Support
 If you need to update your information, feel free to contact <a href="zyang@smu.edu.sg">Zhou YANG</a>.
+
+<style>
+  @media (max-width: 420px) {.fa-ul::before{content: "\A";white-space: pre;}}
+</style>
