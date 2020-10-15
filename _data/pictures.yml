@@ -1,44 +1,48 @@
+# 1
 - title: pic1_description
   image: team3.jpg
 
 - title: pic1_description
   image: team2.jpg
 
+# 2
 - title: pic1_description
   image: team1.jpg
 
 - title: pic1_description
   image: icse2019.jpg
 
+# 3
 - title: pic1_description
   image: zoom.jpg
 
 - title: pic1_description
   image: GroupMeeting.jpg
 
+# 4
 - title: pic1_description
   image: GroupSIS.jpg
 
 - title: pic1_description
   image: SMU_SIS2.jpeg
 
+# 5
 - title: pic1_description
   image: GroupDinner.jpg
 
 - title: pic1_description
   image: SMU_SIS.jpeg
 
-# - title: pic1_description
-#   image: sg_street2.jpeg
-
+# 6
 - title: pic_description
   image: DSC07526.jpeg
 
 - title: pic1_description
-  image: DSC07549.jpeg
+  image: SIS.jpg
+
+# 7
+- title: pic1_description
+  image: Singapore1.jpg
 
 - title: pic1_description
-  image: DSC07824.jpeg
-
-- title: pic1_description
-  image: DSC07900.jpeg
+  image: Singapore2.webp
