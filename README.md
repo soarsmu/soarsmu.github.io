@@ -1,3 +1,16 @@
+# Developement
+Before making any change to the repo, please deploy the website locally and see whether changes will break the website.
+
+If you haven't install `jekyll`, do with
+
+```gem install bundler jekyll```
+
+Then go to the directory of this repo, and deploy by
+
+```bundle exec jekyll serve```
+
+More detailed instructions can be found <a href='https://jekyllrb.com'>here</a>.
+
 # Allan Lab Website
 
 This is the website of our academic research group at Leiden University.
@@ -8,4 +21,3 @@ Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purp
 
 
 Copyright Allan Lab. Code released under the MIT License.
-
