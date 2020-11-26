@@ -44,6 +44,14 @@
   number_educ: 1
   education1: B.S., UESTC
 
+- name: Kien Luong
+  photo: kien.jpg
+  info: Research Engineer, started Nov 2020
+  email: kiengialuong@smu.edu.sg
+  number_educ: 1
+  education1: B.S., HCMUT
+
+
 - name: <a href="https://sites.google.com/view/gprana/">Gede Artha Azriadi PRANA</a>
   photo: Gede_Artha.jpg
   info: PhD student,  started Jan 2017

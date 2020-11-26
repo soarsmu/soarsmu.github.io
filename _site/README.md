@@ -1,5 +1,15 @@
 # Developement
+Before making any change to the repo, please deploy the website locally and see whether changes will break the website.
 
+If you haven't install `jekyll`, do with
+
+```gem install bundler jekyll```
+
+Then go to the directory of this repo, and deploy by
+
+```bundle exec jekyll serve```
+
+More detailed instructions can be found <a href='https://jekyllrb.com'>here</a>.
 
 # Allan Lab Website
 
