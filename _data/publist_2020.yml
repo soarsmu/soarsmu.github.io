@@ -130,6 +130,20 @@
   highlight: 1
   news2:
 
+
+
+- title: "BugsInPy: A Database of Existing Bugs in Python Programs to Enable Controlled Testing and Debugging Studies"
+  image: 
+  description:  
+  authors: Yang Chen, Andrew E. Santosa, Asankhaya Sharma, David Lo 
+  publisher: "ESEC/FSE 2020: 1556–1560"
+  type: Conference
+  pdf: 2020_BugsInPy.pdf
+  doi: https://doi.org/10.1145/3368089.3417943
+  code: https://github.com/soarsmu/BugsInPy
+  highlight: 0
+  news2: 
+
 - title: "Automated identification of libraries from vulnerability data"
   image: 
   description:  
@@ -189,6 +203,8 @@
   code: https://github.com/soarsmu/CrossASR
   highlight: 0
   news2:
+
+
 
 - title: "Automatic Android Deprecated-API Usage Update by Learning from Single Updated Example"
   image: 
