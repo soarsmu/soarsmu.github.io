@@ -15,7 +15,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/PhotoDLo-small.JPG" class="img-responsive" width="76%" style="float: center" />
   <br>
   <h4><a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a></h4>
-  Associate Professor<br>
+  Professor<br>
   Lee Kuan Yew Fellow<br>
   <i><davidlo@smu.edu.sg></i><br>
   B.Eng (NTU), PhD (NUS)
