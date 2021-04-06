@@ -56,6 +56,43 @@ permalink: /publications/
 
 (For a full list, please go to [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lo_0001:David) or [Google Scholar](http://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en))
 
+### 2021
+
+{% for publi in site.data.publist_2021 %}
+
+<div class="col-sm-1" style="padding:0px">
+  {% if publi.type == "Journal" %} 
+  <div class="box" style="background-color: #C32B72;"></div>
+  <p style="display:inline-block;">[Journal] </p>
+  {% endif %}
+  {% if publi.type == "Conference" %} 
+  <div class="box" style="background-color: #196CA3;"></div>
+  <p style="display:inline-block;">[Conf] </p>
+  {% endif %}
+  {% if publi.type == "Arxiv" %} 
+  <div class="box" style="background-color: #606B70;"></div>
+  <p style="display:inline-block;">[Arxiv] </p>
+  {% endif %}
+  {% if publi.type == "Editorship" %} 
+  <div class="box" style="background-color: #33C3BA;"></div>
+  <p style="display:inline-block;">[Editor] </p>
+  {% endif %}
+  {% if publi.type <> "Journal" and publi.type <> "Conference" and publi.type <> "Arxiv" and publi.type <> "Editorship" %} 
+  <div class="box"></div>
+  <p style="display:inline-block;">[Other] </p>
+  {% endif %}
+</div>
+<div class="col-sm-11">
+  <p>
+  **{{ publi.title }}** <br/>
+  <em>{{ publi.authors }} </em><br/>
+  {{ publi.publisher }} ( {% if publi.pdf %} <a href="/papers/2020/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.pdf and publi.doi %} | {% endif %} {% if publi.doi %} <a href="{{ publi.doi }}" target="_blank">DOI</a> {% endif %} {% if publi.pdf and publi.code %} | {% endif %}  {% if publi.code %} <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
+  </p>
+</div>
+
+{% endfor %}
+
+
 ### 2020
 
 {% for publi in site.data.publist_2020 %}
