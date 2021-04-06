@@ -11,6 +11,11 @@ Then go to the directory of this repo, and deploy by
 
 More detailed instructions can be found <a href='https://jekyllrb.com'>here</a>.
 
+## Notes for Apple Silicon Users
+If you are using machines with Apple Silicon, please use the following commands:
+
+```arch -arch x86_64 bundle exec jekyll serve```
+
 # Allan Lab Website
 
 This is the website of our academic research group at Leiden University.
