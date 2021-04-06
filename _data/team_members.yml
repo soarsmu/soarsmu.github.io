@@ -51,6 +51,12 @@
   number_educ: 1
   education1: B.S., HCMUT
 
+- name: Truong Giang Nguyen
+  photo: kiang.jpg
+  info: Research Engineer, started March 2021
+  email: gtnguyen@smu.edu.sg
+  number_educ: 1
+  education1: B.S., Vietnam National University
 
 - name: <a href="https://sites.google.com/view/gprana/">Gede Artha Azriadi PRANA</a>
   photo: Gede_Artha.jpg
@@ -104,6 +110,13 @@
   email: xinzhou.2020@phdcs.smu.edu.sg
   number_educ: 1
   education1: B.Eng., Beijing Institute of Technology
+
+- name: Divya Prabha CHANDRASEKARAN
+  photo: divya.jpg
+  info: Research Assistant, started Nov 2020
+  email: divyac@smu.edu.sg
+  number_educ: 1
+  education1: B.I.T, James Cook University
 
 - name: "This could be you !"
   photo: rock.jpg
