@@ -131,19 +131,6 @@
   news2:
 
 
-
-- title: "BugsInPy: A Database of Existing Bugs in Python Programs to Enable Controlled Testing and Debugging Studies"
-  image: 
-  description:  
-  authors: Yang Chen, Andrew E. Santosa, Asankhaya Sharma, David Lo 
-  publisher: "ESEC/FSE 2020: 1556–1560"
-  type: Conference
-  pdf: 2020_BugsInPy.pdf
-  doi: https://doi.org/10.1145/3368089.3417943
-  code: https://github.com/soarsmu/BugsInPy
-  highlight: 0
-  news2: 
-
 - title: "Automated identification of libraries from vulnerability data"
   image: 
   description:  
@@ -167,6 +154,66 @@
   code: https://github.com/soarsmu/CC2Vec/
   highlight: 0
   news2:
+
+- title: "BugsInPy: A Database of Existing Bugs in Python Programs to Enable Controlled Testing and Debugging Studies"
+  image: 
+  description:  
+  authors: Yang Chen, Andrew E. Santosa, Asankhaya Sharma, David Lo 
+  publisher: "ESEC/FSE 2020: 1556–1560"
+  type: Conference
+  pdf: 2020_BugsInPy.pdf
+  doi: https://doi.org/10.1145/3368089.3417943
+  code: https://github.com/soarsmu/BugsInPy
+  highlight: 0
+  news2: 
+
+- title: "DeepCommenter: a deep code comment generation tool with hybrid lexical and syntactical information"
+  image: 
+  description: 
+  authors: B Li, M Yan, X Xia, X Hu, G Li, D Lo
+  publisher: ESEC/FSE 2020
+  type: Conference
+  pdf: Li2020DeepCommenter.pdf
+  doi: https://dl.acm.org/doi/10.1145/3368089.3417926
+  code: https://github.com/xing-hu/EMSE-DeepCom
+  highlight: 
+  news2: 
+
+- title: "Enhancing developer interactions with programming screencasts through accurate code extraction"
+  image: 
+  description: 
+  authors: L Bao, S Pan, Z Xing, X Xia, D Lo, X Yang
+  publisher: ESEC/FSE 2020
+  type: Conference
+  pdf:  Bao2020FSE.pdf
+  doi: https://dl.acm.org/doi/abs/10.1145/3368089.3417925
+  code: https://github.com/baolingfeng/PSC2CODE
+  highlight: 
+  news2: 
+
+- title: "JITO: a tool for just-in-time defect identification and localization"
+  image: 
+  description: 
+  type: Conference
+  authors: F Qiu, M Yan, X Xia, X Wang, Y Fan, AE Hassan, D Lo
+  publisher: ESEC/FSE 2020
+  pdf: Qiu2020Jito.pdf
+  doi: https://doi.org/10.1145/3368089.3417927
+  code: https://git.io/Jf5r1
+  highlight: 
+  news2: 
+
+- title: "Effort-aware just-in-time defect identification in practice: a case study at Alibaba"
+  image: 
+  description: 
+  type: Conference
+  authors: M Yan, X Xia, Y Fan, D Lo, AE Hassan, X Zhang
+  publisher: ESEC/FSE 2020
+  pdf: Yan2020FSE.pdf
+  doi: https://doi.org/10.1145/3368089.3417048
+  code: 
+  highlight: 
+  news2: 
 
 - title: "SPINFER: Inferring Semantic Patches for the Linux Kernel"
   image: 
@@ -204,8 +251,6 @@
   highlight: 0
   news2:
 
-
-
 - title: "Automatic Android Deprecated-API Usage Update by Learning from Single Updated Example"
   image: 
   description: 
@@ -214,18 +259,6 @@
   type: Conference
   pdf: Haryono2020AndroidAPIUpdate.pdf
   doi: https://dl.acm.org/doi/10.1145/3387904.3389285
-  code: 
-  highlight: 0
-  news2:
-
-- title: "A Machine Learning Approach for Vulnerability Curation"
-  image: 
-  description:  
-  authors: Yang Chen, Andrew E. Santosa, Ming Yi Ang, Abhishek Sharma, Asankhaya Sharma, David Lo
-  publisher: "MSR 2020: 32-42"
-  type: Conference
-  pdf: Chen2020VulnerabilityCuration.pdf
-  doi: https://dl.acm.org/doi/abs/10.1145/3379597.3387461
   code: 
   highlight: 0
   news2:
