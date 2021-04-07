@@ -100,23 +100,12 @@
   authors: D Wu, D Gao, D Lo
   publisher: Empirical Software Engineering 26 (1), 1-32
   type: Journal
-  pdf: https://arxiv.org/abs/1912.12982 	
+  pdf: Scalable Online Vetting of Android Apps for.pdf
   doi: 
   code: 
   highlight: 
   news2: 
 
-- title: "Orchestration or Automation: Authentication Flaw Detection in Android Apps"
-  image: 
-  description: 
-  authors: S Ma, J Li, S Nepal, D Ostry, D Lo, S Jha, RH Deng, E Bertino
-  publisher: IEEE Transactions on Dependable and Secure Computing
-  type: Journal
-  pdf: https://ieeexplore.ieee.org/document/9317767 
-  doi: 
-  code: 
-  highlight: 
-  news2: 
 
 - title: "Deep-Learning-Based App Sensitive Behavior Surveillance for Android Powered Cyber-Physical Systems"
   image: 
@@ -124,7 +113,7 @@
   authors: H Ma, J Tian, K Qiu, D Lo, D Gao, D Wu, C Jia, T Baker
   publisher: IEEE Transactions on Industrial Informatics	
   type: Journal
-  pdf: https://flyer.sis.smu.edu.sg/tii20.pdf 
+  pdf: tii20.pdf
   doi: 
   code: 
   highlight: 
@@ -136,7 +125,7 @@
   authors: C Gao, J Zeng, F Sarro, D Lo, I King, MR Lyu
   publisher: Information and Software Technology 132, 106471		
   type: Journal
-  pdf: https://arxiv.org/pdf/2010.16063.pdf 
+  pdf: Do Users Care about Ad’s Performance Costs? Exploring the Effects of.pdf
   doi: 
   code: 
   highlight: 
@@ -149,7 +138,7 @@
   authors: J Han, S Deng, D Lo, C Zhi, J Yin, X Xia
   publisher: ICSE 2021 SEIP
   type: Conference
-  pdf: https://arxiv.org/abs/2103.01590 
+  pdf: An Empirical Study of the Landscape of Open Source Projects in Baidu, Alibaba, and Tencent.pdf
   doi: 
   code: 
   highlight: 
