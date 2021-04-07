@@ -86,7 +86,7 @@ permalink: /publications/
   <p>
   **{{ publi.title }}** <br/>
   <em>{{ publi.authors }} </em><br/>
-  {{ publi.publisher }} ( {% if publi.pdf %} <a href="/papers/2020/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.pdf and publi.doi %} | {% endif %} {% if publi.doi %} <a href="{{ publi.doi }}" target="_blank">DOI</a> {% endif %} {% if publi.pdf and publi.code %} | {% endif %}  {% if publi.code %} <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
+  {{ publi.publisher }} ( {% if publi.pdf %} <a href="/papers/2021/{{ publi.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if publi.pdf and publi.doi %} | {% endif %} {% if publi.doi %} <a href="{{ publi.doi }}" target="_blank">DOI</a> {% endif %} {% if publi.pdf and publi.code %} | {% endif %}  {% if publi.code %} <a href="{{ publi.code }}" target="_blank">Code</a> {% endif %} )
   </p>
 </div>
 
