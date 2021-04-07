@@ -64,7 +64,7 @@
   authors: Q Chen, X Xia, H Hu, D Lo, S Li
   publisher: ACM Transactions on Software Engineering and Methodology (TOSEM) 30 (2), 1-29
   type: Journal
-  pdf: https://dl.acm.org/doi/10.1145/3434280 
+  pdf: Code.pdf
   doi: 
   code: 
   highlight: 
@@ -76,19 +76,7 @@
   authors: J Liu, Q Huang, X Xia, E Shihab, D Lo, S Li
   publisher: Empirical Software Engineering 26 (2), 1-36
   type: Journal
-  pdf: https://arxiv.org/abs/2101.03730 
-  doi: 
-  code: 
-  highlight: 
-  news2: 
-
-- title: "An Exploratory Study on the Introduction and Removal of Different Types of Technical Debt"
-  image: 
-  description: 
-  authors: J Liu, Q Huang, X Xia, E Shihab, D Lo, S Li
-  publisher: Empirical Software Engineering volume 26, Article number 16 (2021)
-  type: Journal
-  pdf: https://arxiv.org/abs/2101.03730 	
+  pdf: An Exploratory Study on the Introduction and.pdf
   doi: 
   code: 
   highlight: 
@@ -100,7 +88,7 @@
   authors: Y Fan, X Xia, D Lo, AE Hassan, S Li
   publisher: Empirical Software Engineering 26 (1), 1-35
   type: Journal
-  pdf: https://arxiv.org/abs/2010.02472 	
+  pdf: What makes a popular academic AI repository.pdf
   doi: 
   code: 
   highlight: 
