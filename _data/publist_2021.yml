@@ -223,7 +223,7 @@
   authors: MH Asyrofi, INB Yusuf, HJ Kang, F Thung, Z Yang, D Lo
   publisher: arXiv preprint arXiv:2102.01859
   type: Arxiv
-  pdf: https://arxiv.org/abs/2102.01859
+  pdf: Metamorphic Test Generation to Uncover Bias for Sentiment Analysis Systems.pdf
   doi: 
   code: 
   highlight: 
@@ -235,7 +235,7 @@
   authors: Stefanus Agus Haryono, Ferdian Thung, David Lo, Lingxiao Jiang, Julia Lawall, Hong Jin Kang, Lucas Serrano, Gilles Muller
   publisher: arXiv preprint arXiv:2012.07259
   type: Arxiv
-  pdf: https://arxiv.org/abs/2012.07259 	
+  pdf: Deprecated-API Usages.pdf	
   doi: 
   code: 
   highlight: 
@@ -247,7 +247,7 @@
   authors: Y Yang, X Xia, D Lo, J Grundy
   publisher: arXiv preprint arXiv:2011.14597
   type: Arxiv
-  pdf: https://arxiv.org/abs/2011.14597 
+  pdf: A Survey on Deep Learning for Software Engineering.pdf
   doi: 
   code: 
   highlight: 
@@ -259,7 +259,7 @@
   authors: N Mehrotra, N Agarwal, P Gupta, S Anand, D Lo, R Purandare
   publisher: arXiv preprint arXiv:2011.11228
   type: Arxiv
-  pdf: https://arxiv.org/pdf/2011.11228 
+  pdf: Modeling Functional Similarity in Source Code with Graph-Based Siamese Networks.pdf
   doi: 
   code: 
   highlight: 
@@ -271,7 +271,7 @@
   authors: SA Haryono, F Thung, D Lo, J Lawall, L Jiang
   publisher: arXiv preprint arXiv:2011.04962
   type: Arxiv
-  pdf: https://arxiv.org/abs/2011.04962
+  pdf: Characterization and Automatic Update of Deprecated Machine-Learning API Usages.pdf
   doi: 
   code: 
   highlight: 
@@ -284,7 +284,7 @@
   authors: C Liu, X Xia, D Lo, C Gao, X Yang, J Grundy
   publisher: arXiv preprint arXiv:2011.02297
   type: Arxiv
-  pdf: https://arxiv.org/pdf/2011.02297 
+  pdf: Opportunities and Challenges in Code Search Tools.pdf
   doi: 
   code: 
   highlight: 
@@ -296,7 +296,7 @@
   authors: C Gao, W Zhou, X Xia, D Lo, Q Xie, MR Lyu
   publisher: arXiv preprint arXiv:2010.06301
   type: Arxiv
-  pdf: https://arxiv.org/abs/2010.06301 
+  pdf: Automating App Review Response Generation Based on Contextual Knowledge.pdf 
   doi: 
   code: 
   highlight: 
@@ -308,7 +308,7 @@
   authors: J Liu, X Xia, D Lo, H Zhang, Y Zou, AE Hassan, S Li
   publisher: arXiv preprint arXiv:2010.04892
   type: Arxiv
-  pdf: https://arxiv.org/abs/2010.04892 	
+  pdf: Broken External Links on Stack Overflow.pdf	
   doi: 
   code: 
   highlight: 
@@ -320,7 +320,7 @@
   authors: GAA Prana, D Ford, A Rastogi, D Lo, R Purandare, N Nagappan
   publisher: arXiv preprint arXiv:2010.00822
   type: Arxiv
-  pdf: https://arxiv.org/abs/2010.00822 
+  pdf: Understanding Opportunities and Challenges of.pdf
   doi: 
   code: 
   highlight: 
