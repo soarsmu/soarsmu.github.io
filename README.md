@@ -16,6 +16,12 @@ If you are using machines with Apple Silicon, please use the following commands:
 
 ```arch -arch x86_64 bundle exec jekyll serve```
 
+## Docker users
+Run `docker-compose up`.
+
+For more info, refer to [Install Jekyll on your Mac with Docker Compose file 🤘 - Everything you need to get going](https://dev.to/stankukucka/install-jekyll-on-your-mac-with-docker-compose-file-everything-you-need-to-get-going-2alf)
+
+
 # Allan Lab Website
 
 This is the website of our academic research group at Leiden University.
