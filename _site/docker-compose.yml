@@ -3,7 +3,7 @@ version: "3"
 services:
   jekyll:
       image: soar/jekyll:mac
-      command: jekyll serve --watch --force_polling
+      command: jekyll serve  --incremental
       ports:
         - 4000:4000
       volumes:
