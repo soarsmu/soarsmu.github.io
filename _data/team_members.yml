@@ -118,6 +118,15 @@
   number_educ: 1
   education1: B.I.T, James Cook University
 
+
+- name: AW Khai Loong
+  photo: Loong.jpg
+  info: Research Intern, started May 2021
+  email: klaw.2020@smu.edu.sg
+  number_educ: 1
+  education1: Current B.S Student at SMU
+
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
