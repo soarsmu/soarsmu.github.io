@@ -1,0 +1,493 @@
+- title: "How Practitioners Perceive Automated Bug Report Management Techniques"
+  image: 
+  description:  
+  authors: Weiqin Zou, David Lo, Zhenyu Chen, Xin Xia, Yang Feng, Baowen Xu
+  publisher: "IEEE Trans. Software Eng. 46(8): 836-862 (2020)"
+  type: Journal
+  pdf: Zou2020AutomatedBugReport.pdf
+  doi: https://ieeexplore.ieee.org/document/8466000
+  code: http://github.com/SurfGitHub/bugmanaStudy 
+  highlight: 0
+  news2:
+
+- title: "Checking Smart Contracts with Structural Code Embedding"
+  image: 
+  description:  
+  authors: Zhipeng Gao, Lingxiao Jiang, Xin Xia, David Lo, John Grundy
+  publisher: "IEEE Trans. Software Eng. "
+  type: Journal
+  pdf: Gao2020CheckingSmartContracts.pdf
+  doi: https://ieeexplore.ieee.org/document/8979435/
+  code: https://github.com/beyondacm/SmartEmbed
+  highlight: 0
+  news2:
+
+- title: "Chaff from the Wheat: Characterizing and Determining Valid Bug Reports"
+  image: 
+  description:  
+  authors: Yuanrui Fan, Xin Xia, David Lo, Ahmed E. Hassan
+  publisher: "IEEE Trans. Software Eng. 46(5): 495-525 (2020)"
+  type: Journal
+  pdf: Fan2020ChaffFromTheWheat.pdf
+  doi: https://doi.ieeecomputersociety.org/10.1109/TSE.2018.2864217
+  code: https://github.com/YuanruiZJU/TSE-Valid-Bug
+  highlight: 0
+  news2:
+
+- title: "psc2code: Denoising Code Extraction from Programming Screencasts"
+  image: 
+  description:  
+  authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Minghui Wu, Xiaohu Yang
+  publisher: "ACM Trans. Softw. Eng. Methodol. 29(3): 21:1-21:38 (2020)"
+  type: Journal
+  pdf: Bao2020psc2code.pdf
+  doi: https://dl.acm.org/doi/abs/10.1145/3392093
+  code: https://github.com/baolingfeng/psc2code 
+  highlight: 0
+  news2:
+
+- title: "Generating Question Titles for Stack Overflow from Mined Code Snippets"
+  image: 
+  description:  
+  authors: Zhipeng Gao, Xin Xia, John Grundy, David Lo, Yuan-Fang Li
+  publisher: "ACM Trans. Softw. Eng. Methodol. 29(4): 26:1-26:37 (2020)"
+  type: Journal
+  pdf: Gao2020GeneratingQuestionTitle.pdf
+  doi: https://dl.acm.org/citation.cfm?id=3401026
+  code: https://github.com/beyondacm/Code2Que
+  highlight: 0
+  news2:
+
+- title: "Smart Contract Repair"
+  image: 
+  description:  
+  authors: Xiao Liang Yu, Omar Al-Bataineh, David Lo, Abhik Roychoudhury
+  publisher: "ACM Trans. Softw. Eng. Methodol. 29(4): 27:1-27:32 (2020)"
+  type: Journal
+  pdf: Yu2020SmartContractRepair.pdf
+  doi: https://dl.acm.org/doi/10.1145/3402450
+  code: https://github.com/xiaoly8/SCRepair/
+  highlight: 0
+  news2:
+
+- title: Memory and resource leak defects and their repairs in Java projects
+  image: 
+  description: 
+  authors: Mohammadreza Ghanavati, Diego Costa, Janos Seboek, David Lo, Artur Andrzejak
+  publisher: "Empir. Softw. Eng. 25(1): 678-718 (2020)"
+  type: Journal
+  pdf: Ghanavati2020Defect.pdf
+  doi: https://link.springer.com/article/10.1007/s10664-019-09731-8
+  code: https://github.com/heiqs/leak_study 
+  highlight: 1
+  news2:
+
+- title: Why reinventing the wheels? An empirical study on library reuse and re-implementation
+  image: 
+  description: 
+  authors: Bowen Xu, Le An, Ferdian Thung, Foutse Khomh, David Lo
+  publisher: "Empir. Softw. Eng. 25(1): 755-789 (2020)"
+  type: Journal
+  pdf: Xu2020WhyReinventing.pdf
+  doi: https://link.springer.com/article/10.1007/s10664-019-09771-0
+  code: https://github.com/XBWer/reuse_reimpl
+  highlight: 1
+  news2:
+
+- title: "SIEVE: Helping developers sift wheat from chaff via cross-platform analysis"
+  image: 
+  description: 
+  authors: Agus Sulistya, Gede Artha Azriadi Prana, Abhishek Sharma, David Lo, Christoph Treude
+  publisher: "Empir. Softw. Eng. 25(1): 996-1030 (2020)"
+  type: Journal
+  pdf: Sulistya2020SIEVE.pdf
+  doi: https://link.springer.com/article/10.1007/s10664-019-09775-w
+  code: 
+  highlight: 1
+  news2:
+
+- title: "Deep code comment generation with hybrid lexical and syntactical information"
+  image: 
+  description: 
+  authors: Xing Hu, Ge Li, Xin Xia, David Lo, Zhi Jin
+  publisher: "Empir. Softw. Eng. 25(3): 2179-2217 (2020)"
+  type: Journal
+  pdf: Hu2020DeepCodeComment.pdf
+  doi: https://link.springer.com/article/10.1007/s10664-019-09730-9
+  code: https://github.com/xing-hu/EMSE-DeepCom
+  highlight: 1
+  news2:
+
+- title: The Java Pathfinder Workshop 2019
+  image: 
+  description: 
+  authors: Cyrille Artho, Quoc-Sang Phan, Peter Aldous, Alyas Almaawi, Lucas Bang, Lasse Berglund, Tevfik Bultan, Zhenbang Chen, Hayes Converse, Wei Dong, William Eiers, Milos Gligoric, Simon Goldsmith, Lars Grunske, Joshua Hooker, Ismet Burak Kadron, Timo Kehrer, Sarfraz Khurshid, Xuan-Bach D. Le, David Lo, Eric Mercer, Sasa Misailovic, Egor Namakonov, Hoang Lam Nguyen, Yannic Noller, Benjamin Ogles, Rohan Padhye, Pavel Parízek, Corina S. Pasareanu, Sheridan Jacob Powell, Seemanta Saha, Koushik Sen, Elena Sherman, Kyle Storey, Minxing Tang, Willem Visser, Ji Wang, Hengbiao Yu
+  publisher: "ACM SIGSOFT Softw. Eng. Notes 45(2): 20-22 (2020)"
+  type: Journal
+  pdf: 
+  doi: https://dl.acm.org/doi/10.1145/3385678.3385685
+  code: 
+  highlight: 1
+  news2:
+
+
+- title: "Automated identification of libraries from vulnerability data"
+  image: 
+  description:  
+  authors: Yang Chen, Andrew E. Santosa, Asankhaya Sharma, David Lo 
+  publisher: "ICSE (SEIP) 2020: 90-99"
+  type: Conference
+  pdf: Chen2020AutomatedIdentification.pdf
+  doi: https://dl.acm.org/doi/abs/10.1145/3377813.3381360
+  code: 
+  highlight: 0
+  news2:    
+
+- title: "CC2Vec: Distributed Representations of Code Changes"
+  image: 
+  description:  
+  authors: Thong Hoang, Hong Jin Kang, Julia Lawall, David Lo
+  publisher: "ICSE 2020: 518–529"
+  type: Conference
+  pdf: Hoang2020CC2Vec.pdf
+  doi: https://dl.acm.org/doi/10.1145/3377811.3380361
+  code: https://github.com/soarsmu/CC2Vec/
+  highlight: 0
+  news2:
+
+- title: "BugsInPy: A Database of Existing Bugs in Python Programs to Enable Controlled Testing and Debugging Studies"
+  image: 
+  description:  
+  authors: Yang Chen, Andrew E. Santosa, Asankhaya Sharma, David Lo 
+  publisher: "ESEC/FSE 2020: 1556–1560"
+  type: Conference
+  pdf: 2020_BugsInPy.pdf
+  doi: https://doi.org/10.1145/3368089.3417943
+  code: https://github.com/soarsmu/BugsInPy
+  highlight: 0
+  news2: 
+
+- title: "DeepCommenter: a deep code comment generation tool with hybrid lexical and syntactical information"
+  image: 
+  description: 
+  authors: B Li, M Yan, X Xia, X Hu, G Li, D Lo
+  publisher: ESEC/FSE 2020
+  type: Conference
+  pdf: Li2020DeepCommenter.pdf
+  doi: https://dl.acm.org/doi/10.1145/3368089.3417926
+  code: https://github.com/xing-hu/EMSE-DeepCom
+  highlight: 
+  news2: 
+
+- title: "Enhancing developer interactions with programming screencasts through accurate code extraction"
+  image: 
+  description: 
+  authors: L Bao, S Pan, Z Xing, X Xia, D Lo, X Yang
+  publisher: ESEC/FSE 2020
+  type: Conference
+  pdf:  Bao2020FSE.pdf
+  doi: https://dl.acm.org/doi/abs/10.1145/3368089.3417925
+  code: https://github.com/baolingfeng/PSC2CODE
+  highlight: 
+  news2: 
+
+- title: "JITO: a tool for just-in-time defect identification and localization"
+  image: 
+  description: 
+  type: Conference
+  authors: F Qiu, M Yan, X Xia, X Wang, Y Fan, AE Hassan, D Lo
+  publisher: ESEC/FSE 2020
+  pdf: Qiu2020Jito.pdf
+  doi: https://doi.org/10.1145/3368089.3417927
+  code: https://git.io/Jf5r1
+  highlight: 
+  news2: 
+
+- title: "Effort-aware just-in-time defect identification in practice: a case study at Alibaba"
+  image: 
+  description: 
+  type: Conference
+  authors: M Yan, X Xia, Y Fan, D Lo, AE Hassan, X Zhang
+  publisher: ESEC/FSE 2020
+  pdf: Yan2020FSE.pdf
+  doi: https://doi.org/10.1145/3368089.3417048
+  code: 
+  highlight: 
+  news2: 
+
+- title: "SPINFER: Inferring Semantic Patches for the Linux Kernel"
+  image: 
+  description: 
+  authors: Lucas Serrano, Van-Anh Nguyen, Ferdian Thung, Lingxiao Jiang, David Lo, Julia Lawall, Gilles Muller
+  publisher: "USENIX Annual Technical Conference 2020: 235-248"
+  type: Conference
+  pdf: Serrano2020Spinfer.pdf
+  doi: https://www.usenix.org/conference/atc20/presentation/serrano
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?"
+  image: 
+  description: 
+  authors: Ting Zhang, Bowen Xu , Ferdian Thung, Stefanus Agus Haryono, David Lo, Lingxiao Jiang
+  publisher: ICSME 2020
+  type: Conference
+  pdf: Zhang2020SA4SE.pdf
+  doi:  
+  code:  https://github.com/soarsmu/SA4SE
+  highlight: 0
+  news2:
+
+- title: "CrossASR: Efficient Differential Testing of Automatic Speech Recognition via Text-To-Speech"
+  image: 
+  description: 
+  authors: Muhammad Hilmi Asyrofi, Ferdian Thung, David Lo and Lingxiao Jiang
+  publisher: ICSME 2020
+  type: Conference
+  pdf: Asyrofi2020CrossASR.pdf
+  doi: 
+  code: https://github.com/soarsmu/CrossASR
+  highlight: 0
+  news2:
+
+- title: "Automatic Android Deprecated-API Usage Update by Learning from Single Updated Example"
+  image: 
+  description: 
+  authors: Stefanus A. Haryono, Ferdian Thung, Hong Jin Kang, Lucas Serrano, Gilles Muller, Julia Lawall, David Lo, Lingxiao Jiang
+  publisher: "ICPC 2020: 401-405"
+  type: Conference
+  pdf: Haryono2020AndroidAPIUpdate.pdf
+  doi: https://dl.acm.org/doi/10.1145/3387904.3389285
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Sentiment Analysis over Collaborative Relationships in Open Source Software Projects"
+  image: 
+  description:  
+  authors: Jian Cao, David Lo, Lingjia Li
+  publisher: "SEKE 2020: 418-423"
+  type: Conference
+  pdf: 
+  doi: https://dblp.uni-trier.de/db/conf/seke/seke2020.html#Cao0L20
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Mining and Predicting Micro-Process Patterns of Issue Resolution for Open Source Software Projects"
+  image: 
+  description:  
+  authors: Jian Cao, David Lo, Yiran Wang
+  publisher: "SEKE 2020: 477-482"
+  type: Conference
+  pdf: 
+  doi: https://dblp.uni-trier.de/db/conf/seke/seke2020.html#Cao0W20
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Keen2Act: Activity Recommendation in Online Social Collaborative Platforms"
+  image: 
+  description:  
+  authors: Roy Ka-Wei Lee, Thong Hoang, Richard Jayadi Oentaryo, David Lo
+  publisher: "UMAP 2020: 308-312"
+  type: Conference
+  pdf: Lee2020Keen2Act.pdf
+  doi: https://dl.acm.org/doi/abs/10.1145/3340631.3394884
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Distinguishing Similar Design Pattern Instances through Temporal Behavior Analysis"
+  image: 
+  description:  
+  authors: Renhao Xiong, David Lo, Bixin Li 
+  publisher: "SANER 2020: 296-307"
+  type: Conference
+  pdf: 
+  doi: https://doi.org/10.1109/SANER48275.2020.9054804
+  code: 
+  highlight: 0
+  news2:
+
+- title: "Automated Deprecated-API Usage Update for Android Apps: How Far are We?"
+  image: 
+  description:  
+  authors: Ferdian Thung, Stefanus A. Haryono, Lucas Serrano, Gilles Muller, Julia Lawall, David Lo, Lingxiao Jiang
+  publisher: "SANER 2020: 602-611"
+  type: Conference
+  pdf: Thung2020APIUpdate.pdf
+  doi: https://www.computer.org/csdl/proceedings-article/saner/2020/09054860/1iHVdhUWeHe
+  code: 
+  highlight: 0
+  news2:
+
+- title: "AUSearch: Accurate API Usage Search in GitHub Repositories with Type Resolution"
+  image: 
+  description:  
+  authors: Muhammad Hilmi Asyrofi, Ferdian Thung, David Lo, Lingxiao Jiang
+  publisher: "SANER 2020: 637-641"
+  type: Conference
+  pdf: Asyrofi2020AUSearch.pdf
+  doi: https://ieeexplore.ieee.org/document/9054809
+  code: https://github.com/mhilmiasyrofi/ausearch
+  highlight: 0
+  news2:
+
+- title: "Prevalence, Contents and Automatic Detection of KL-SATD"
+  image: 
+  description:  
+  authors: Leevi Rantala, Mika Mäntylä, David Lo
+  publisher: "Euromicro Conference on Software Engineering and Advanced Applications (SEAA'20)"
+  type: Conference
+  pdf: Rantala2020KLSATD.pdf
+  doi: 
+  code: 
+  highlight: 0
+  news2:
+
+# - title: "ISEC 2020: 13th Innovations in Software Engineering Conference, Jabalpur, India, February 27-29, 2020"
+#   image: 
+#   description:  
+#   authors: Sanjeev Jain, Atul Gupta, David Lo, Diptikalyan Saha, Richa Sharma
+#   publisher: "ACM 2020, ISBN 978-1-4503-7594-8"
+#   type: Editorship
+#   pdf: 
+#   doi: https://dl.acm.org/doi/proceedings/10.1145/3385032
+#   code: 
+#   highlight: 0
+#   news2:
+
+# - title: "Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum"
+#   image: 
+#   description:  
+#   authors: 	Jiachi Chen, Xin Xia, David Lo, John C. Grundy 
+#   publisher: "CoRR abs/2005.07908 (2020)"
+#   type: Arxiv
+#   pdf: Chen2020SmartContract.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
+
+# - title: "Simplifying Deep-Learning-Based Model for Code Search"
+#   image: 
+#   description:  
+#   authors: 	Chao Liu, Xin Xia, David Lo, Zhiwei Liu, Ahmed E. Hassan, Shanping Li
+#   publisher: "CoRR abs/2005.14373 (2020)"
+#   type: Arxiv
+#   pdf: Liu2020SimplifyingDL.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
+
+# - title: "On the Replicability and Reproducibility of Deep Learning in Software Engineering"
+#   image: 
+#   description:  
+#   authors: Chao Liu, Cuiyun Gao, Xin Xia, David Lo, John C. Grundy, Xiaohu Yang
+#   publisher: "CoRR abs/2006.14244 (2020)"
+#   type: Arxiv
+#   pdf: Liu2020DLinSE.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
+
+# - title: "Maintaining Smart Contracts on Ethereum: Issues, Techniques, and Future Challenges"
+#   image: 
+#   description:  
+#   authors: Jiachi Chen, Xin Xia, David Lo, John C. Grundy, Xiaohu Yang
+#   publisher: "CoRR abs/2007.00286 (2020)"
+#   type: Arxiv
+#   pdf: Chen2020MaintainingSmartContract.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
+
+# - title: "Predictive Models in Software Engineering: Challenges and Opportunities"
+#   image: 
+#   description:  
+#   authors: Yanming Yang, Xin Xia, David Lo, Tingting Bi, John C. Grundy, Xiaohu Yang
+#   publisher: "CoRR abs/2008.03656 (2020)"
+#   type: Arxiv
+#   pdf: Yang2020PredictiveModelinSE.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
+
+# - title: "A Deep Dive on the Impact of COVID-19 in Software Development"
+#   image: 
+#   description:  
+#   authors: Paulo Anselmo da Mota Silveira Neto, Umme Ayda Mannan, Eduardo Santana de Almeida, Nachiappan Nagappan, David Lo, Pavneet Singh Kochhar, Cuiyun Gao, Iftekhar Ahmed
+#   publisher: "CoRR abs/2008.07048 (2020)"
+#   type: Arxiv
+#   pdf: Neto2020ImpactofCovid.pdf
+#   doi: 
+#   code: https://github.com/pamsn/covid-study
+#   highlight: 0
+#   news2:
+
+# - title: "Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing"
+#   image: 
+#   description:  
+#   authors: Cuiyun Gao, Jichuan Zeng, Zhiyuan Wen, David Lo, Xin Xia, Irwin King, Michael R. Lyu 
+#   publisher: "CoRR abs/2008.09976 (2020)"
+#   type: Arxiv
+#   pdf: Gao2020EmergingAppIssue.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
+
+# - title: "An Empirical Study of In-App Advertising Issues Based on Large Scale App Review Analysis"
+#   image: 
+#   description:  
+#   authors: Cuiyun Gao, Jichuan Zeng, David Lo, Xin Xia, Irwin King, Michael R. Lyu
+#   publisher: "CoRR abs/2008.12112 (2020)"
+#   type: Arxiv
+#   pdf: Gao2020InAppAdvertising.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
+
+# - title: "DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode"
+#   image: 
+#   description:  
+#   authors: 	Jiachi Chen, Xin Xia, David Lo, John C. Grundy, Xiapu Luo, Ting Chen
+#   publisher: "CoRR abs/2009.02663 (2020)"
+#   type: Arxiv
+#   pdf: Chen2020DefectChecker.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
+
+# - title: "Including Everyone, Everywhere: Understanding Opportunities and Challenges of Geographic Gender-Inclusion in OSS"
+#   image: 
+#   description:  
+#   authors: Gede Artha Azriadi Prana, Denae Ford, Ayushi Rastogi, David Lo, Rahul Purandare, Nachiappan Nagappan
+#   publisher: "CoRR abs/2010.00822 (2020)"
+#   type: Arxiv
+#   pdf: Prana2020GenderInclusioninOSS.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
+
+# - title: "What Makes a Popular Academic AI Repository?"
+#   image: 
+#   description:  
+#   authors: Yuanrui Fan, Xin Xia, David Lo, Ahmed E. Hassan, Shanping Li
+#   publisher: "CoRR abs/2010.02472 (2020)"
+#   type: Arxiv
+#   pdf: Fan2020AIRepo.pdf
+#   doi: 
+#   code: 
+#   highlight: 0
+#   news2:
+
