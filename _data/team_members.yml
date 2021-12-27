@@ -2,158 +2,153 @@
   photo: ferdian.jpg
   info: Research Scientist,  started Sep 2018
   email: ferdianthung@smu.edu.sg
-  number_educ: 2
-  education1: PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a> 
-  education2: B.Eng., Bandung Institute of Technology
+  education:
+    - PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a>
+    - B.Eng., Bandung Institute of Technology
 
 - name: <a href="https://donggyun.com">DongGyun HAN</a>
   photo: han.jpg
   info: Research Scientist,  started May 2021
   email: dhan@smu.edu.sg
-  number_educ: 2
-  education1: PhD, University College London, supervised by <a href="http://www0.cs.ucl.ac.uk/staff/j.krinke/">Jens Krinke</a> 
-  education2: MPhil, Hong Kong University of Science and Technology
+  education:
+    - PhD, University College London, supervised by <a href="http://www0.cs.ucl.ac.uk/staff/j.krinke/">Jens Krinke</a>
+    - MPhil, Hong Kong University of Science and Technology
 
 - name: <a href="https://bdqnghi.github.io">Nghi D. Q. Bui</a>
   photo: nghi.png
   info: Research Scientist, started Sep 2020
   email: dqnbui.2016@phdis.smu.edu.sg
-  number_educ: 1
-  education1: PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/lxjiang/">Lingxiao Jiang</a> 
-  education2: B.Eng., Ho Chi Minh University of Science
+  education:
+    - PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/lxjiang/">Lingxiao Jiang</a>
+    - B.Eng., Ho Chi Minh University of Science
 
 - name: Stefanus Agus Haryono
   photo: Stefanus.jpg
   info: Research Engineer, started Oct 2019
   email: stefanusah@smu.edu.sg
-  number_educ: 2
-  education1: M.Sc., Bandung Institute of Technology
-  education2: B.Eng., Bandung Institute of Technology
+  education:
+    - M.Sc., Bandung Institute of Technology
+    - B.Eng., Bandung Institute of Technology
 
 - name: <a href="https://mhilmiasyrofi.github.io/">Muhammad Hilmi ASYROFI</a>
   photo: Muhammad_Hilmi.jpg
   info: Research Engineer, started Nov 2019
   email: mhilmia@smu.edu.sg
-  number_educ: 1
-  education1: B.Eng., Bandung Institute of Technology
+  education:
+    - B.Eng., Bandung Institute of Technology
 
 - name: <a href="https://yangzhou6666.github.io">Zhou YANG</a>
   photo: yangzhou.jpg
   info: Research Engineer, started Sep 2020
   email: zyang@smu.edu.sg
-  number_educ: 2
-  education1: M.Sc., University College London, supervised by <a href="http://earlbarr.com">Earl Barr</a> and <a href="http://www.monperrus.net/martin/">Martin Monperrus</a>.
-  education2: B.Eng., Yangzhou University
+  education:
+    - M.Sc., University College London, supervised by <a href="http://earlbarr.com">Earl Barr</a> and <a href="http://www.monperrus.net/martin/">Martin Monperrus</a>.
+    - B.Eng., Yangzhou University
 
 - name: <a href="https://www.yangchengran.cn">Chengran YANG</a>
   photo: chengran.jpeg
   info: Research Engineer, started Sep 2020
   email: cryang@smu.edu.sg
-  number_educ: 1
-  education1: B.S., UESTC
+  education:
+    - B.S., UESTC
 
 - name: Kien Luong
   photo: kien.jpg
   info: Research Engineer, started Nov 2020
   email: kiengialuong@smu.edu.sg
-  number_educ: 1
-  education1: B.S., HCMUT
+  education:
+    - B.S., HCMUT
 
 - name: Truong Giang Nguyen
   photo: kiang.jpg
   info: Research Engineer, started March 2021
   email: gtnguyen@smu.edu.sg
-  number_educ: 1
-  education1: B.S., Vietnam National University
+  education:
+    - B.S., Vietnam National University
 
 - name: <a href="https://jiekeshi.github.io">Jieke SHI</a>
   photo: jiekeshi.jpg
   info: Research Engineer, started Jun 2021
   email: jiekeshi@smu.edu.sg
-  number_educ: 1
-  education1: B.Eng., Yangzhou University
+  education:
+    - B.Eng., Yangzhou University
 
 - name: <a href="https://sites.google.com/view/gprana/">Gede Artha Azriadi PRANA</a>
   photo: Gede_Artha.jpg
   info: PhD student,  started Jan 2017
   email: arthaprana.2016@phdcs.smu.edu.sg
-  number_educ: 2
-  education1: M.Tech., National University of Singapore 
-  education2: B.Eng.(Hons), Nanyang Technological University
+  education:
+    - M.Tech., National University of Singapore
+    - B.Eng.(Hons), Nanyang Technological University
 
 - name: <a href="http://www.bowenxu.me">Bowen XU</a>
   photo: bowen.jpg
   info: PhD Student, started Aug 2017
   email: bowenxu.2017@phdcs.smu.edu.sg
-  number_educ: 2
-  education1: M.Eng., Zhejiang University, supervised by <a href="http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498">Prof Shanping Li</a> and <a href="https://research.monash.edu/en/persons/xin-xia">Prof. Xin Xia </a>
-  education2: B.Eng., Hunan City University
+  education:
+    - M.Eng., Zhejiang University, supervised by <a href="http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498">Prof Shanping Li</a> and <a href="https://research.monash.edu/en/persons/xin-xia">Prof. Xin Xia </a>
+    - B.Eng., Hunan City University
 
 - name: <a href="https://kanghj.github.io">Hong Jin Kang</a>
   photo: kongjin.jpg
   info: PhD Student, started Jan 2019
   email: hjkang.2018@phdcs.smu.edu.sg
-  number_educ: 1
-  education1: B.Sc., National University of Singapore
+  education:
+    - B.Sc., National University of Singapore
 
 - name: Ting ZHANG
   photo: tingzhang.jpg
   info: PhD Student, started Jan 2020
   email: tingzhang.2019@phdcs.smu.edu.sg
-  number_educ: 2
-  education1: MSc, Nanyang Technological University
-  education2: B.Eng, Sun Yat-sen University
+  education:
+    - MSc, Nanyang Technological University
+    - B.Eng, Sun Yat-sen University
 
 - name: Ratnadira Widyasari
   photo: Ratnadira.jpg
   info: PhD Student, started Aug 2020
   email: ratnadiraw.2020@phdcs.smu.edu.sg
-  number_educ: 2
-  education1: M.Sc., Bandung Institute of Technology
-  education2: B.Eng., Bandung Institute of Technology
+  education:
+    - M.Sc., Bandung Institute of Technology
+    - B.Eng., Bandung Institute of Technology
 
 - name: Imam Nur Bani YUSUF
   photo: imamy.jpg
   info: PhD Student, started Aug 2020
   email: imamy.2020@phdcs.smu.edu.sg
-  number_educ: 1
-  education1: B.Eng., Bandung Institute of Technology
+  education:
+    - B.Eng., Bandung Institute of Technology
 
 - name: Xin ZHOU
   photo: xinzhou.jpg
   info: PhD Student, started Sept 2020
   email: xinzhou.2020@phdcs.smu.edu.sg
-  number_educ: 1
-  education1: B.Eng., Beijing Institute of Technology
+  education:
+    - B.Eng., Beijing Institute of Technology
 
 - name: Divya Prabha CHANDRASEKARAN
   photo: divya.jpg
   info: Research Assistant, started Nov 2020
   email: divyac@smu.edu.sg
-  number_educ: 1
-  education1: B.I.T, James Cook University
-
+  education:
+    - B.I.T, James Cook University
 
 - name: AW Khai Loong
   photo: Loong.jpg
   info: Research Intern, started May 2021
   email: klaw.2020@smu.edu.sg
-  number_educ: 1
-  education1: Current B.S Student at SMU
+  education:
+    - Current B.S Student at SMU
 
 - name: Hafil Noer ZACHIARY
   photo: Noer.jpg
   info: Research Intern, started May 2021
   email: hnzachiary.2019@smu.edu.sg
-  number_educ: 1
-  education1: Current B.S Student at SMU
+  education:
+    - Current B.S Student at SMU
 
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
   email: you@smu.edu.sg
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+  education:
