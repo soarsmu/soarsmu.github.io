@@ -14,13 +14,22 @@
     - PhD, University College London, supervised by <a href="http://www0.cs.ucl.ac.uk/staff/j.krinke/">Jens Krinke</a>
     - MPhil, Hong Kong University of Science and Technology
 
-- name: <a href="https://bdqnghi.github.io">Nghi D. Q. Bui</a>
-  photo: nghi.png
-  info: Research Scientist, started Sep 2020
-  email: dqnbui.2016@phdis.smu.edu.sg
+- name: <a href="http://www.bowenxu.me">Bowen XU</a>
+  photo: bowen.jpg
+  info: Research Scientist, started Nov 2021
+  email: bowenxu.2017@phdcs.smu.edu.sg
   education:
-    - PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/lxjiang/">Lingxiao Jiang</a>
-    - B.Eng., Ho Chi Minh University of Science
+    - PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a>
+    - M.Eng., Zhejiang University, supervised by <a href="http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498">Prof Shanping Li</a> and <a href="https://research.monash.edu/en/persons/xin-xia">Prof. Xin Xia </a>
+    - B.Eng., Hunan City University
+
+- name: Kisub Kim
+  photo: Kim.jpg
+  info: Research Scientist,  started Dec 2021
+  email: kisubkim@smu.edu.sg
+  education:
+    - PhD, University of Luxembourg, supervised by <a href="https://bissyande.github.io/">Bissyandé F. Tegawendé</a>
+    - MEng, Chungbuk National University
 
 - name: Stefanus Agus Haryono
   photo: Stefanus.jpg
@@ -80,14 +89,6 @@
   education:
     - M.Tech., National University of Singapore
     - B.Eng.(Hons), Nanyang Technological University
-
-- name: <a href="http://www.bowenxu.me">Bowen XU</a>
-  photo: bowen.jpg
-  info: PhD Student, started Aug 2017
-  email: bowenxu.2017@phdcs.smu.edu.sg
-  education:
-    - M.Eng., Zhejiang University, supervised by <a href="http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498">Prof Shanping Li</a> and <a href="https://research.monash.edu/en/persons/xin-xia">Prof. Xin Xia </a>
-    - B.Eng., Hunan City University
 
 - name: <a href="https://kanghj.github.io">Hong Jin Kang</a>
   photo: kongjin.jpg

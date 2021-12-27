@@ -174,6 +174,8 @@ permalink: /team/
 
 ### Former Postdocs
 
+- <a href="https://bdqnghi.github.io">Nghi D. Q. Bui</a> (Sep 2020 – Dec 2020)
+  Employment: Huawei Research Center, Ireland
 - <a href="https://baolingfeng.github.io">Lingfeng Bao</a> (Jun 2017 – Sep 2018)
   Employment: Distinguished Researcher, Zhejiang University City College, China
 - <a href="https://zhiyuan-wan.github.io">Zhiyuan Wan</a> (July – Dec 2018)
