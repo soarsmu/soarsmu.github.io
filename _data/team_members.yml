@@ -148,6 +148,13 @@
   education:
     - Current B.S Student at SMU
 
+- name: Junda He
+  photo: junda.jpg
+  info: Research Engineer, started Aug 2021
+  email: jundahe@smu.edu.sg
+  education:
+    - MSc, University College London
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
