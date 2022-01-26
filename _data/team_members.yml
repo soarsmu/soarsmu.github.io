@@ -131,8 +131,7 @@ current:
       - BSc, University College London
   - name: "This could be you !"
     photo: rock.jpg
-    info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-    email: you@smu.edu.sg
+    info: See <a href="https://soarsmu.github.io/vacancies">openings</a> for more info
 alumni:
   phds:
     - name: Lucia

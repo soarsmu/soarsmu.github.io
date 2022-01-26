@@ -63,7 +63,9 @@ permalink: /team/
 
   <h4>{{ member.name }}</h4>
   {{ member.info }}<br>
+  {% if member.email %}
   <i><{{ member.email }}></i>
+  {% endif %}
   
   
   <ul class="fa-ul">
