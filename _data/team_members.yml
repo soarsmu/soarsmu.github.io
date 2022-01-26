@@ -1,163 +1,244 @@
-- name: Ferdian THUNG
-  photo: ferdian.jpg
-  info: Research Scientist,  started Sep 2018
-  email: ferdianthung@smu.edu.sg
-  education:
-    - PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a>
-    - B.Eng., Bandung Institute of Technology
-
-- name: <a href="https://donggyun.com">DongGyun HAN</a>
-  photo: han.jpg
-  info: Research Scientist,  started May 2021
-  email: dhan@smu.edu.sg
-  education:
-    - PhD, University College London, supervised by <a href="http://www0.cs.ucl.ac.uk/staff/j.krinke/">Jens Krinke</a>
-    - MPhil, Hong Kong University of Science and Technology
-
-- name: <a href="http://www.bowenxu.me">Bowen XU</a>
-  photo: bowen.jpg
-  info: Research Scientist, started Nov 2021
-  email: bowenxu.2017@phdcs.smu.edu.sg
-  education:
-    - PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a>
-    - M.Eng., Zhejiang University, supervised by <a href="http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498">Prof Shanping Li</a> and <a href="https://research.monash.edu/en/persons/xin-xia">Prof. Xin Xia </a>
-    - B.Eng., Hunan City University
-
-- name: Kisub Kim
-  photo: Kim.jpg
-  info: Research Scientist,  started Dec 2021
-  email: kisubkim@smu.edu.sg
-  education:
-    - PhD, University of Luxembourg, supervised by <a href="https://bissyande.github.io/">Bissyandé F. Tegawendé</a>
-    - MEng, Chungbuk National University
-
-- name: Stefanus Agus Haryono
-  photo: Stefanus.jpg
-  info: Research Engineer, started Oct 2019
-  email: stefanusah@smu.edu.sg
-  education:
-    - M.Sc., Bandung Institute of Technology
-    - B.Eng., Bandung Institute of Technology
-
-- name: <a href="https://mhilmiasyrofi.github.io/">Muhammad Hilmi ASYROFI</a>
-  photo: Muhammad_Hilmi.jpg
-  info: Research Engineer, started Nov 2019
-  email: mhilmia@smu.edu.sg
-  education:
-    - B.Eng., Bandung Institute of Technology
-
-- name: <a href="https://yangzhou6666.github.io">Zhou YANG</a>
-  photo: yangzhou.jpg
-  info: Research Engineer, started Sep 2020
-  email: zyang@smu.edu.sg
-  education:
-    - M.Sc., University College London, supervised by <a href="http://earlbarr.com">Earl Barr</a> and <a href="http://www.monperrus.net/martin/">Martin Monperrus</a>.
-    - B.Eng., Yangzhou University
-
-- name: <a href="https://www.yangchengran.cn">Chengran YANG</a>
-  photo: chengran.jpeg
-  info: Research Engineer, started Sep 2020
-  email: cryang@smu.edu.sg
-  education:
-    - B.S., UESTC
-
-- name: Kien Luong
-  photo: kien.jpg
-  info: Research Engineer, started Nov 2020
-  email: kiengialuong@smu.edu.sg
-  education:
-    - B.S., HCMUT
-
-- name: Truong Giang Nguyen
-  photo: kiang.jpg
-  info: Research Engineer, started March 2021
-  email: gtnguyen@smu.edu.sg
-  education:
-    - B.S., Vietnam National University
-
-- name: <a href="https://jiekeshi.github.io">Jieke SHI</a>
-  photo: jiekeshi.jpg
-  info: Research Engineer, started Jun 2021
-  email: jiekeshi@smu.edu.sg
-  education:
-    - B.Eng., Yangzhou University
-
-- name: <a href="https://sites.google.com/view/gprana/">Gede Artha Azriadi PRANA</a>
-  photo: Gede_Artha.jpg
-  info: PhD student,  started Jan 2017
-  email: arthaprana.2016@phdcs.smu.edu.sg
-  education:
-    - M.Tech., National University of Singapore
-    - B.Eng.(Hons), Nanyang Technological University
-
-- name: <a href="https://kanghj.github.io">Hong Jin Kang</a>
-  photo: kongjin.jpg
-  info: PhD Student, started Jan 2019
-  email: hjkang.2018@phdcs.smu.edu.sg
-  education:
-    - B.Sc., National University of Singapore
-
-- name: Ting ZHANG
-  photo: tingzhang.jpg
-  info: PhD Student, started Jan 2020
-  email: tingzhang.2019@phdcs.smu.edu.sg
-  education:
-    - MSc, Nanyang Technological University
-    - B.Eng, Sun Yat-sen University
-
-- name: Ratnadira Widyasari
-  photo: Ratnadira.jpg
-  info: PhD Student, started Aug 2020
-  email: ratnadiraw.2020@phdcs.smu.edu.sg
-  education:
-    - M.Sc., Bandung Institute of Technology
-    - B.Eng., Bandung Institute of Technology
-
-- name: Imam Nur Bani YUSUF
-  photo: imamy.jpg
-  info: PhD Student, started Aug 2020
-  email: imamy.2020@phdcs.smu.edu.sg
-  education:
-    - B.Eng., Bandung Institute of Technology
-
-- name: Xin ZHOU
-  photo: xinzhou.jpg
-  info: PhD Student, started Sept 2020
-  email: xinzhou.2020@phdcs.smu.edu.sg
-  education:
-    - B.Eng., Beijing Institute of Technology
-
-- name: Divya Prabha CHANDRASEKARAN
-  photo: divya.jpg
-  info: Research Assistant, started Nov 2020
-  email: divyac@smu.edu.sg
-  education:
-    - B.I.T, James Cook University
-
-- name: AW Khai Loong
-  photo: Loong.jpg
-  info: Research Intern, started May 2021
-  email: klaw.2020@smu.edu.sg
-  education:
-    - Current B.S Student at SMU
-
-- name: Hafil Noer ZACHIARY
-  photo: Noer.jpg
-  info: Research Intern, started May 2021
-  email: hnzachiary.2019@smu.edu.sg
-  education:
-    - Current B.S Student at SMU
-
-- name: Junda He
-  photo: junda.jpg
-  info: Research Engineer, started Aug 2021
-  email: jundahe@smu.edu.sg
-  education:
-    - MSc, University College London
-    - BSc, University College London
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: you@smu.edu.sg
-  education:
+current:
+  - name: Ferdian THUNG
+    photo: ferdian.jpg
+    info: Research Scientist,  started Sep 2018
+    email: ferdianthung@smu.edu.sg
+    education:
+      - PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a>
+      - B.Eng., Bandung Institute of Technology
+  - name: <a href="https://donggyun.com">DongGyun HAN</a>
+    photo: han.jpg
+    info: Research Scientist,  started May 2021
+    email: dhan@smu.edu.sg
+    education:
+      - PhD, University College London, supervised by <a href="http://www0.cs.ucl.ac.uk/staff/j.krinke/">Jens Krinke</a>
+      - MPhil, Hong Kong University of Science and Technology
+  - name: <a href="http://www.bowenxu.me">Bowen XU</a>
+    photo: bowen.jpg
+    info: Research Scientist, started Nov 2021
+    email: bowenxu.2017@phdcs.smu.edu.sg
+    education:
+      - PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a>
+      - M.Eng., Zhejiang University, supervised by <a href="http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498">Prof Shanping Li</a> and <a href="https://research.monash.edu/en/persons/xin-xia">Prof. Xin Xia </a>
+      - B.Eng., Hunan City University
+  - name: Kisub Kim
+    photo: Kim.jpg
+    info: Research Scientist,  started Dec 2021
+    email: kisubkim@smu.edu.sg
+    education:
+      - PhD, University of Luxembourg, supervised by <a href="https://bissyande.github.io/">Bissyandé F. Tegawendé</a>
+      - MEng, Chungbuk National University
+  - name: Stefanus Agus Haryono
+    photo: Stefanus.jpg
+    info: Research Engineer, started Oct 2019
+    email: stefanusah@smu.edu.sg
+    education:
+      - M.Sc., Bandung Institute of Technology
+      - B.Eng., Bandung Institute of Technology
+  - name: <a href="https://mhilmiasyrofi.github.io/">Muhammad Hilmi ASYROFI</a>
+    photo: Muhammad_Hilmi.jpg
+    info: Research Engineer, started Nov 2019
+    email: mhilmia@smu.edu.sg
+    education:
+      - B.Eng., Bandung Institute of Technology
+  - name: <a href="https://yangzhou6666.github.io">Zhou YANG</a>
+    photo: yangzhou.jpg
+    info: Research Engineer, started Sep 2020
+    email: zyang@smu.edu.sg
+    education:
+      - M.Sc., University College London, supervised by <a href="http://earlbarr.com">Earl Barr</a> and <a href="http://www.monperrus.net/martin/">Martin Monperrus</a>.
+      - B.Eng., Yangzhou University
+  - name: <a href="https://www.yangchengran.cn">Chengran YANG</a>
+    photo: chengran.jpeg
+    info: Research Engineer, started Sep 2020
+    email: cryang@smu.edu.sg
+    education:
+      - B.S., UESTC
+  - name: Kien Luong
+    photo: kien.jpg
+    info: Research Engineer, started Nov 2020
+    email: kiengialuong@smu.edu.sg
+    education:
+      - B.S., HCMUT
+  - name: Truong Giang Nguyen
+    photo: kiang.jpg
+    info: Research Engineer, started March 2021
+    email: gtnguyen@smu.edu.sg
+    education:
+      - B.S., Vietnam National University
+  - name: <a href="https://jiekeshi.github.io">Jieke SHI</a>
+    photo: jiekeshi.jpg
+    info: Research Engineer, started Jun 2021
+    email: jiekeshi@smu.edu.sg
+    education:
+      - B.Eng., Yangzhou University
+  - name: <a href="https://kanghj.github.io">Hong Jin Kang</a>
+    photo: kongjin.jpg
+    info: PhD Student, started Jan 2019
+    email: hjkang.2018@phdcs.smu.edu.sg
+    education:
+      - B.Sc., National University of Singapore
+  - name: Ting ZHANG
+    photo: tingzhang.jpg
+    info: PhD Student, started Jan 2020
+    email: tingzhang.2019@phdcs.smu.edu.sg
+    education:
+      - MSc, Nanyang Technological University
+      - B.Eng, Sun Yat-sen University
+  - name: Ratnadira Widyasari
+    photo: Ratnadira.jpg
+    info: PhD Student, started Aug 2020
+    email: ratnadiraw.2020@phdcs.smu.edu.sg
+    education:
+      - M.Sc., Bandung Institute of Technology
+      - B.Eng., Bandung Institute of Technology
+  - name: Imam Nur Bani YUSUF
+    photo: imamy.jpg
+    info: PhD Student, started Aug 2020
+    email: imamy.2020@phdcs.smu.edu.sg
+    education:
+      - B.Eng., Bandung Institute of Technology
+  - name: Xin ZHOU
+    photo: xinzhou.jpg
+    info: PhD Student, started Sept 2020
+    email: xinzhou.2020@phdcs.smu.edu.sg
+    education:
+      - B.Eng., Beijing Institute of Technology
+  - name: Divya Prabha CHANDRASEKARAN
+    photo: divya.jpg
+    info: Research Assistant, started Nov 2020
+    email: divyac@smu.edu.sg
+    education:
+      - B.I.T, James Cook University
+  - name: AW Khai Loong
+    photo: Loong.jpg
+    info: Research Intern, started May 2021
+    email: klaw.2020@smu.edu.sg
+    education:
+      - Current B.S Student at SMU
+  - name: Hafil Noer ZACHIARY
+    photo: Noer.jpg
+    info: Research Intern, started May 2021
+    email: hnzachiary.2019@smu.edu.sg
+    education:
+      - Current B.S Student at SMU
+  - name: Junda He
+    photo: junda.jpg
+    info: Research Engineer, started Aug 2021
+    email: jundahe@smu.edu.sg
+    education:
+      - MSc, University College London
+      - BSc, University College London
+  - name: "This could be you !"
+    photo: rock.jpg
+    info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+    email: you@smu.edu.sg
+alumni:
+  phds:
+    - name: Lucia
+      thesis: "Ranking-Based Approaches for Localizing Faults"
+      employment: "Software Engineer, Schroder Investment Management, Luxembourg"
+    - name: Shaowei Wang
+      homepage: https://sites.google.com/site/wswshaoweiwang/
+      thesis: "Multimodal Code Search"
+      employment: Assistant Professor, Mississippi State University, USA
+    - name: Yuan Tian
+      homepage: http://sophiaytian.com/
+      thesis: "Mining Bug Repositories for Automatic Software Bug Management: From Bug Triaging to Patch Backporting"
+      employment: "Assistant Professor, Queen’s University, Canada"
+    - name: Pavneet S. Kochhar
+      homepage: https://kochharps.wixsite.com/pavneet
+      thesis: "Testing and Debugging: A Reality Check"
+      employment: Data Scientist, Microsoft, Canada
+    - name: Tien-Duy B. Le
+      thesis: Hybrid-Based Approaches for Software Fault Localization and Specification Mining
+      employment: Software Engineer, Hudson River Trading, Singapore
+    - name: Ferdian Thung
+      homepage: https://sites.google.com/site/ferdianthung/
+      thesis: "Recommending APIs for Software Evolution"
+      employment: Research Scientist, SMU, Singapore
+    - name: Xuan-Bach B. Le
+      homepage: https://xuanbachle.github.io
+      thesis: "Overfitting in Automated Program Repair: Challenges and Resolutions"
+      employment: Lecturer (equiv. to Assistant Professor), University of Melbourne, Australia
+    - name: Siqi Ma
+      homepage: https://siqima.me
+      thesis: "Automatic Vulnerability Detection and Repair; Co-Advisor"
+      employment: Lecturer, University of Queensland, Australia
+    - name: Abhishek Sharma
+      homepage: https://abhishek9sharma.github.io
+      thesis: "Social Software Development: Insights and Solutions"
+      employment: Machine Learning Engineer, Veracode, Singapore
+    - name: Agus Sulistya
+      thesis: "Making Sense of Crowd-Generated Contents in Domain-Specific Settings"
+      employment: "Vice Rector, Telkom Institute of Technology Surabaya, Indonesia"
+    - name: Thong Hoang
+      homepage: https://hvdthong.github.io/
+      thesis: "Statistical and Deep Learning Models for Software Engineering Corpora"
+      employment: Junior Data Scientist, Trusting Social, Vietnam
+    - name: Bowen Xu
+      homepage: https://www.bowenxu.me/
+      thesis: "Learning to Interpret Knowledge from Software Question and Answer Sites"
+      employment: Research Scientist, SMU, Singapore
+    - name: Gede Artha Azriadi Prana
+      homepage: https://sites.google.com/view/gprana/
+      thesis: "Can We Make it Better? Assessing and Improving Quality of GitHub Repositories"
+      employment: Lead Data Scientist (Analytics), Grab, Singapore
+  postdocs:
+    - name: Nghi D. Q. Bui
+      homepage: https://bdqnghi.github.io
+      duration: Sep 2020 - Dec 2020
+      employment: Huawei Research Center, Ireland
+    - name: Lingfeng Bao
+      homepage: https://baolingfeng.github.io
+      duration: Jun 2017 - Sep 2018
+      employment: Lecturer, Zhejiang University, China
+    - name: Zhiyuan Wan
+      homepage: https://zhiyuan-wan.github.io
+      duration: July - Dec 2018
+      employment: Associate Professor, Zhejiang University, China
+    - name: Tien-Duy B. Le
+      employment: Hudson River Trading, Singapore
+  visitings:
+    long_term:
+      - name: Xiaoyin Wang
+        homepage: http://www.cs.utsa.edu/~xwang/
+        from: Peking University, China
+        duration: 2008 - 2009
+        employment: Associate Professor, University of Texas at San Antonio, USA
+      - name: Xin Xia
+        homepage: https://xin-xia.github.io/
+        from: Zhejiang University, China
+        duration: 2012 - 2014
+        employment: Director, Software Engineering Application Technology Lab, Huawei. Previously, Lecturer (equiv. to Assistant Professor) and ARC DECRA Fellow, Monash University, Australia
+      - name: Zhang Yun
+        from: Zhejiang University, China
+        employment: Associate Professor, Zhejiang University City College, China
+      - name: Weiqin Zou
+        homepage: https://weiqin-zou.github.io/
+        from: Nanjing University, China
+        employment: Associate Professor, Nanjing University of Aeronautics and Astronautics (NUAA)
+    short_term:
+      - name: Tegawende Bissyande
+        homepage: https://bissyande.github.io/
+        from: University of Bordeaux, France
+        year: 2012
+      - name: Le An
+        homepage: https://le-an.gitlab.io/
+        from: University of Montreal, Canada
+        year: 2017
+      - name: Xuan Huo
+        homepage: http://lamda.nju.edu.cn/huox/
+        from: Nanjing University, China
+        year: 2018
+      - name: Marcos Cesar de Oliveira
+        from: University of Brasilia, Brazil
+        year: 2018
+  bscs:
+    - name: QI Haodi
+    - name: Jodie Ethelda TAN Si Yin
+    - name: TAY Qijin
+    - name: Camellia LOK Shu Fen
+    - name: YIEH Yuheng
+  mscs:
+    - name: Tan Hwee Lee

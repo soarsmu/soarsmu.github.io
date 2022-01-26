@@ -49,18 +49,14 @@ permalink: /team/
 
 ## Research Staff and PhD Students
 
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
+{% for member in site.data.team_members.current %}
+{% assign remainder = forloop.index0 | modulo: 2 %}
+{% if remainder == 0 %}
 
 <div class="row">
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-
 {% if member.photo%}
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
 {% endif %}
@@ -78,28 +74,23 @@ permalink: /team/
 
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
+{% if remainder == 1 %}
 
 </div>
 {% endif %}
-
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+{% if remainder == 0 %}
 
 </div>
 {% endif %}
 
-<!-- ## Current Master and Bachelor Students -->
 <div class="row">
 
 <div class="col-sm-6 clearfix">
 <h4>Undergraduates Students</h4>
 {% for member in site.data.bsc %}
-{{ member.name }}
+- {{ member.name }}
 {% endfor %}
 </div>
 
@@ -116,154 +107,61 @@ permalink: /team/
 
 ### Graduated PhD Students
 
-- Lucia (Thesis: Ranking-Based Approaches for Localizing Faults)
-  Employment: Schroder Investment Management, Luxembourg
-- <a href="https://sites.google.com/site/wswshaoweiwang/">Shaowei Wang</a> (Thesis: Multimodal Code Search)
-  Employment: Assistant Professor, Mississippi State University, USA
-- <a href="http://sophiaytian.com/">Yuan Tian</a> (Thesis: Mining Bug Repositories for Automatic Software Bug Management: From Bug Triaging to Patch Backporting)
-  Employment: Assistant Professor, Queen’s University, Canada
-- <a href="https://kochharps.wixsite.com/pavneet">Pavneet S. Kochhar</a> (Thesis: Testing and Debugging: A Reality Check)
-  Employment: Microsoft, Canada
-- Tien-Duy B. Le (Thesis: Hybrid-Based Approaches for Software Fault Localization and Specification Mining)
-  Employment: Hudson River Trading, Singapore
-- Ferdian Thung (Thesis: Recommending APIs for Software Evolution)
-  Employment: Research Scientist, SMU, Singapore
-- <a href="https://xuanbachle.github.io">Xuan-Bach B. Le</a> (Thesis: Overfitting in Automated Program Repair: Challenges and Resolutions)
-  Employment: Lecturer (equiv. to Assistant Professor), University of Melbourne, Australia
-- <a href="https://siqima.me">Siqi Ma</a> (Thesis: Automatic Vulnerability Detection and Repair; Co-Advisor)
-  Employment: Data 61, CSIRO, Australia
-- <a href="https://abhishek9sharma.github.io">Abhishek Sharma</a> (Thesis: Social Software Development: Insights and Solutions)
-  Employment: Research Fellow, Living Analytics Research Center, Singapore
-- Agus Sulistya (Thesis: Making Sense of Crowd-Generated Contents in Domain-Specific Settings)
-  Employment: Telkom, Indonesia
+{% for item in site.data.team_members.alumni.phds %}
 
-<!-- {% assign number_printed = 0 %}
-{% for member in site.data.alumni_phds %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-
-
-<div class="col-sm-6 clearfix">
-  {% if member.photo%}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  {% endif %}
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Thesis: {{ member.Thesis }} <br> Employment: {{member.employment}}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+- {% if item.homepage %}<a href="{{ item.homepage }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %} (Thesis: {{item.thesis}})
+  <br/>Employment: {{item.employment}}
 
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %} -->
 
 ### Former Postdocs
 
-- <a href="https://bdqnghi.github.io">Nghi D. Q. Bui</a> (Sep 2020 – Dec 2020)
-  Employment: Huawei Research Center, Ireland
-- <a href="https://baolingfeng.github.io">Lingfeng Bao</a> (Jun 2017 – Sep 2018)
-  Employment: Distinguished Researcher, Zhejiang University City College, China
-- <a href="https://zhiyuan-wan.github.io">Zhiyuan Wan</a> (July – Dec 2018)
-  Employment: Postdoc, University of British Columbia, Canada
-- Tien-Duy B. Le
-  Employment: Hudson River Trading, Singapore
+{% for item in site.data.team_members.alumni.postdocs %}
 
-<!-- {% assign number_printed = 0 %}
-{% for member in site.data.alumni_postdocs %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  {% if member.photo%}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  {% endif %}
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Employment: {{member.employment}}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %} -->
+- {% if item.homepage %}<a href="{{ item.homepage }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %} {% if item.duration %} ({{item.duration}}) {% endif %}
+  <br/>Employment: {{item.employment}}
+  {% endfor %}
 
 ### Long-Term (1 year or longer) Visiting PhD Students (incomplete list):
 
-- <a href="http://www.cs.utsa.edu/~xwang/">Xiaoyin Wang</a>, from Peking University, China (2008 –2009)
-  Employment: Associate Professor, University of Texas at San Antonio, USA
-- <a href="https://xin-xia.github.io">Xin Xia</a>, from Zhejiang University, China (2012 –2014)
-  Employment: Lecturer (equiv. to Assistant Professor), Monash University, Australia
-- Zhang Yun, from Zhejiang University, China
-  Employment: Associate Professor, Zhejiang University City College, China
-- Weiqin Zou, from Nanjing University, China
+{% for item in site.data.team_members.alumni.visitings.long_term %}
+
+- {% if item.homepage %}<a href="{{ item.homepage }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}, from {{item.from }} {% if item.duration %} ({{item.duration}}) {% endif %}
+  <br/>Employment: {{item.employment}}
+  {% endfor %}
 
 ### Short-Term Visiting PhD Students (incomplete list):
 
-- <a href="https://bissyande.github.io">Tegawende Bissyande</a>, from University of Bordeaux, France (2012)
-- <a href="https://le-an.gitlab.io">Le An</a>, from University of Montreal, Canada (2017)
-- Xuan Huo, from Nanjing University, China (2018)
-- Marcos Cesar de Oliveira, from University of Brasilia, Brazil (2018)
+{% for item in site.data.team_members.alumni.visitings.short_term %}
+
+- {% if item.homepage %}<a href="{{ item.homepage }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}, from {{item.from }} ({{item.year}})
+  {% endfor %}
 
 ## Former Students
 
 <div class="row">
 
-<!-- <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div> -->
-
 <div class="col-sm-6 clearfix">
 <h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
+{% for member in site.data.team_members.alumni.bscs %}
+- {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-6 clearfix">
 <h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
+{% for member in site.data.team_members.alumni.mscs %}
+- {{ member.name }}
 {% endfor %}
 </div>
 
 </div>
 
-## Administrative Support
-
-If you need to update your information, feel free to contact <a href="mailto:dhan@smu.edu.sg">DongGyun Han</a>.
+<br/><br/>
+If you need to update your information, please feel free to contact <a href="mailto:dhan@smu.edu.sg">DongGyun Han</a>.
+<br/><br/>
 
 <style>
   @media (max-width: 420px) {.fa-ul::before{content: "\A";white-space: pre;}}
+  p { margin: 0px;}
 </style>
