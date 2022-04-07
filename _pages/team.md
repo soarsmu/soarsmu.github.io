@@ -160,7 +160,7 @@ permalink: /team/
 </div>
 
 <br/><br/>
-If you need to update your information, please feel free to contact <a href="mailto:dhan@smu.edu.sg">DongGyun Han</a>.
+If you need to update your information, please feel free to contact <a href="mailto:jiekeshi@smu.edu.sg">Jieke SHI</a>.
 <br/><br/>
 
 <style>
