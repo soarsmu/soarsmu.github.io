@@ -129,6 +129,12 @@ current:
     education:
       - MSc, University College London
       - BSc, University College London
+  - name:  <a href="https://thanhlecong.wixsite.com/home">Le-Cong Thanh</a>
+    photo: lecongthanh.jpg
+    info: Research Engineer, started Jan 2022
+    email: tlecong@smu.edu.sg
+    education:
+      - B.Eng., Hanoi University of Science and Technology
   - name: "This could be you !"
     photo: rock.jpg
     info: See <a href="https://soarsmu.github.io/vacancies">openings</a> for more info
