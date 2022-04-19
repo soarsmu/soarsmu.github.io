@@ -1,3 +1,87 @@
+- title: "On the Influence of Biases in Bug Localization: Evaluation and Benchmark"
+  image: 
+  description: 
+  authors: Ratnadira Widyasari, Stefanus Agus Haryono, Ferdian Thung, Jieke Shi, Constance Tan, Fiona Wee, Jack Phan, and David Lo
+  publisher: SANER 2022
+  type: Conference
+  pdf: saner_bias.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+  year: 2022
+- title: "Can Identifier Splitting Improve Open-Vocabulary Language Model of Code?"
+  image: 
+  description: 
+  authors: Jieke Shi, Zhou Yang, Junda He, Bowen Xu and David Lo
+  publisher: SANER 2022
+  type: Conference
+  pdf: saner_identifier.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+  year: 2022
+- title: "Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum"
+  image: 
+  description: 
+  authors: J Chen, X Xia, D Lo, J Grundy
+  publisher: ACM Transactions on Software Engineering and Methodology (TOSEM), 31(2), 1-37
+  type: Journal
+  pdf: tosem216.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+  year: 2021
+- title: "On the Reproducibility and Replicability of Deep Learning in Software Engineering"
+  image: 
+  description: 
+  authors: C Liu, C Gao, X Xia, D Lo, J Grundy, X Yang
+  publisher: ACM Transactions on Software Engineering and Methodology (TOSEM), 31(1), 1-46
+  type: Journal
+  pdf: tosem215.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+  year: 2021
+- title: "Automating App Review Response Generation Based on Contextual Knowledge"
+  image: 
+  description: 
+  authors: C Gao, W Zhou, X Xia, D Lo, Q Xie, MR Lyu
+  publisher: ACM Transactions on Software Engineering and Methodology (TOSEM), 31(1), 1-36
+  type: Journal
+  pdf: tosem214.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+  year: 2021
+- title: "CodeMatcher: Searching Code Based on Sequential Semantics of Important Query Words"
+  image: 
+  description: 
+  authors: C Liu, X Xia, D Lo, Z Liu, AE Hassan, S Li
+  publisher: ACM Transactions on Software Engineering and Methodology (TOSEM), 31(1), 1-37
+  type: Journal
+  pdf: tosem213.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+  year: 2021
+- title: "Context-Aware Retrieval-based Deep Commit Message Generation"
+  image: 
+  description: 
+  authors: H Wang, X Xia, D Lo, Q He, X Wang, J Grundy
+  publisher: ACM Transactions on Software Engineering and Methodology (TOSEM), 30(4), pp.1-30
+  type: Journal
+  pdf: tosem212.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+  year: 2021
 - title: "Opportunities and Challenges in Code Search Tools"
   image: 
   description: 
@@ -25,7 +109,7 @@
 - title: "Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing"
   image: 
   description: 
-  authors: C Gao, J Zeng, Z Wen, D Lo, X Xia, I King, M Lyu
+  authors: C Gao, J Zeng, Z Wen, D Lo, X Xia, I King, MR Lyu
   publisher: IEEE Transactions on Software Engineering
   type: Journal
   pdf: tse213.pdf 	
