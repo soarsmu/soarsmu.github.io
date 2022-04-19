@@ -1,3 +1,51 @@
+- title: "Opportunities and Challenges in Code Search Tools"
+  image: 
+  description: 
+  authors: C Liu, X Xia, D Lo, C Gao, X Yang, J Grundy
+  publisher: ACM Computing Surveys
+  type: Journal
+  pdf: csur211.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+  year: 2021
+- title: "Deep Just-In-Time Defect Localization"
+  image: 
+  description: 
+  authors: F Qiu, Z Gao, X Xia, D Lo, J Grundy, X Wang
+  publisher: IEEE Transactions on Software Engineering
+  type: Journal
+  pdf: tse216.pdf 	
+  doi: 
+  code: 
+  highlight: 
+  news2:
+  year: 2021
+- title: "Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing"
+  image: 
+  description: 
+  authors: C Gao, J Zeng, Z Wen, D Lo, X Xia, I King, M Lyu
+  publisher: IEEE Transactions on Software Engineering
+  type: Journal
+  pdf: tse213.pdf 	
+  doi: 
+  code: 
+  highlight: 
+  news2:
+  year: 2021
+- title: "Broken External Links on Stack Overflow"
+  image: 
+  description: 
+  authors: J Liu, X Xia, D Lo, H Zhang, Y Zou, AE Hassan, S Li
+  publisher: IEEE Transactions on Software Engineering
+  type: Journal
+  pdf: tse214.pdf 	
+  doi: 
+  code: 
+  highlight: 
+  news2:
+  year: 2021
 - title: "Data Quality Matters: A Case Study on Data Label Correctness for Security Bug Report Prediction"
   image:
   description:
