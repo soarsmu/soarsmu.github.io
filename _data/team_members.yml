@@ -12,14 +12,14 @@ current:
     email: bowenxu@smu.edu.sg
     education:
       - PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a>
-      - M.Eng., Zhejiang University, supervised by <a href="https://person.zju.edu.cn/en/0087125">Prof Shanping Li</a> and <a href="https://xin-xia.github.io">Prof. Xin Xia </a>
+      - M.Eng., Zhejiang University, supervised by <a href="https://person.zju.edu.cn/en/0087125">Prof Shanping LI</a> and <a href="https://xin-xia.github.io">Prof. Xin XIA </a>
       - B.Eng., Hunan City University
-  - name: <a href="https://jiakun-liu.github.io>"Jiakun Liu</a>
+  - name: <a href="https://jiakun-liu.github.io>"Jiakun LIU</a>
     photo: jiakun.jpg
     info: Research Scientist, started Sep 2022
     email: jkliu@smu.edu.sg
     education:
-      - PhD, Zhejiang University, supervised by <a href="https://person.zju.edu.cn/en/0087125">Prof Shanping Li</a> and <a href="https://xin-xia.github.io">Prof. Xin Xia </a>
+      - PhD, Zhejiang University, supervised by <a href="https://person.zju.edu.cn/en/0087125">Prof Shanping LI</a> and <a href="https://xin-xia.github.io">Prof. Xin XIA </a>
       - B.Eng., National University of Defense Technology
   - name: <a href="https://yangzhou6666.github.io">Zhou YANG</a>
     photo: yangzhou.jpg
@@ -150,7 +150,7 @@ alumni:
       thesis: "Ranking-Based Approaches for Localizing Faults"
       employment: "Software Engineer, Schroder Investment Management, Luxembourg"
   postdocs:
-    - name: Kisub Kim
+    - name: Kisub KIM
       homepage: https://falconlk.github.io/react-gh-pages/
       duration: Dec 2021 - Apr 2023
       employment: Research Scientist, SMU, Singapore
