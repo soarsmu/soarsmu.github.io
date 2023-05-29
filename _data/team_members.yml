@@ -14,7 +14,7 @@ current:
       - PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a>
       - M.Eng., Zhejiang University, supervised by <a href="https://person.zju.edu.cn/en/0087125">Prof Shanping LI</a> and <a href="https://xin-xia.github.io">Prof. Xin XIA </a>
       - B.Eng., Hunan City University
-  - name: <a href="https://jiakun-liu.github.io>"Jiakun LIU</a>
+  - name: <a href="https://jiakun-liu.github.io">Jiakun LIU</a>
     photo: jiakun.jpg
     info: Research Scientist, started Sep 2022
     email: jkliu@smu.edu.sg
@@ -79,6 +79,13 @@ current:
     email: zpzhao@smu.edu.sg
     education:
       - B.Eng., Beijing Insititute of Technology
+  - name: Ivana Clairine Irsan
+    photo: ivana.jpg
+    info: Research Engineer, started Nov 2021
+    email: ivanairsan@smu.edu.sg
+    education:
+      - M.Eng., Institut Teknologi Bandung
+      - B.Eng., Bandung Institute of Technology
   - name: <a href="https://yunbolyu.github.io">Yunbo LYU</a>
     photo: yunbo.jpg
     info: Research Engineer, started Aug 2022
