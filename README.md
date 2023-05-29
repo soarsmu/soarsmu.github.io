@@ -7,7 +7,7 @@ If you haven't installed `jekyll`, do with
 
 Then go to the directory of this repo, and deploy by
 
-```bundle exec jekyll serve```
+```bundle exec jekyll build```
 
 More detailed instructions can be found <a href='https://jekyllrb.com'>here</a>.
 

@@ -1,3 +1,39 @@
+- title: "Curiosity-Driven and Victim-Aware Adversarial Policies"
+  image: 
+  description: 
+  authors: Chen Gong, Zhou Yang, Yunpeng Bai, Jieke Shi, Arunesh Sinha, Bowen Xu, David Lo, Xinwen Hou, and Guoliang Fan
+  publisher: ACSAC 2022
+  type: Conference
+  pdf: ACSAC_Curiosity.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+  year: 2022
+- title: "Compressing Pre-trained Models of Code into 3 MB"
+  image: 
+  description: 
+  authors: Jieke Shi, Zhou Yang, Bowen Xu, Hong Jin Kang, and David Lo
+  publisher: ASE 2022
+  type: Conference
+  pdf: ASE_Compressing.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+  year: 2022
+- title: "Natural Attack for Pre-trained Models of Code"
+  image: 
+  description: 
+  authors: Zhou Yang, Jieke Shi, Junda He, and David Lo
+  publisher: ICSE 2022
+  type: Conference
+  pdf: ICSE_Natural_Attack.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+  year: 2022
 - title: "On the Influence of Biases in Bug Localization: Evaluation and Benchmark"
   image: 
   description: 
@@ -9,7 +45,19 @@
   code: 
   highlight: 
   news2: 
-  year: 2021
+  year: 2022
+- title: "Revisiting Neuron Coverage Metrics and Quality of Deep Neural Networks"
+  image: 
+  description: 
+  authors: Zhou Yang, Jieke Shi, Muhammad Hilmi Asyrofi, and David Lo
+  publisher: SANER 2022
+  type: Conference
+  pdf: SANER_revisting.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+  year: 2022
 - title: "Can Identifier Splitting Improve Open-Vocabulary Language Model of Code?"
   image: 
   description: 
@@ -21,7 +69,7 @@
   code: 
   highlight: 
   news2: 
-  year: 2021
+  year: 2022
 - title: "Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum"
   image: 
   description: 

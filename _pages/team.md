@@ -89,12 +89,12 @@ permalink: /team/
 
 <div class="row">
 
-<div class="col-sm-6 clearfix">
+<!-- <div class="col-sm-6 clearfix">
 <h4>Undergraduates Students</h4>
 {% for member in site.data.bsc %}
 - {{ member.name }}
 {% endfor %}
-</div>
+</div> -->
 
 <!-- <div class="col-sm-6 clearfix">
 <h4>Master students</h4>

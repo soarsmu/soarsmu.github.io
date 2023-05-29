@@ -35,7 +35,7 @@ permalink: /publications/
 <p>
 **{{ item.title }}** <br/>
 <em>{{ item.authors }} </em><br/>
-{{ item.publisher }} ( {% if item.pdf %} <a href="/papers/2021/{{ item.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if item.pdf and item.doi %} | {% endif %} {% if item.doi %} <a href="{{ item.doi }}" target="_blank">DOI</a> {% endif %} {% if item.pdf and item.code %} | {% endif %} {% if item.code %} <a href="{{ item.code }}" target="_blank">Code</a> {% endif %} )
+{{ item.publisher }} ( {% if item.pdf %} <a href="/papers/{{ year.name }}/{{ item.pdf }}" target="_blank">Paper PDF</a> {% endif %} {% if item.pdf and item.doi %} | {% endif %} {% if item.doi %} <a href="{{ item.doi }}" target="_blank">DOI</a> {% endif %} {% if item.pdf and item.code %} | {% endif %} {% if item.code %} <a href="{{ item.code }}" target="_blank">Code</a> {% endif %} )
 </p>
 </div>
 {% endfor %}
