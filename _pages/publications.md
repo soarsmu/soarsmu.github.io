@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-<h1 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">Publications</h1>
+<h1 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">Selected Publications</h1>
 
 (For a full list, please go to [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lo_0001:David) or [Google Scholar](http://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en))
 

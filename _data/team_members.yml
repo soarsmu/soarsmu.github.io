@@ -73,12 +73,6 @@ current:
     email: imamy.2020@phdcs.smu.edu.sg
     education:
       - B.Eng., Bandung Institute of Technology
-  - name: <a href="https://oran-ac.github.io">Zhipeng ZHAO</a>
-    photo: zhipeng.png
-    info: Research Engineer, started Aug 2022
-    email: zpzhao@smu.edu.sg
-    education:
-      - B.Eng., Beijing Insititute of Technology
   - name: Ivana Clairine Irsan
     photo: ivana.jpg
     info: Research Engineer, started Nov 2021
@@ -86,6 +80,18 @@ current:
     education:
       - M.Eng., Institut Teknologi Bandung
       - B.Eng., Bandung Institute of Technology
+  - name: <a href="https://oran-ac.github.io">Zhipeng ZHAO</a>
+    photo: zhipeng.png
+    info: Research Engineer, started Aug 2022
+    email: zpzhao@smu.edu.sg
+    education:
+      - B.Eng., Beijing Insititute of Technology
+  - name: Pattarakrit Rattanukul
+    photo: pat.jpg
+    info: Research Engineer, started Aug 2022
+    email: pattarakritr@smu.edu.sg
+    education:
+      - B.Eng., Mahidol University
   - name: <a href="https://yunbolyu.github.io">Yunbo LYU</a>
     photo: yunbo.jpg
     info: Research Engineer, started Aug 2022
