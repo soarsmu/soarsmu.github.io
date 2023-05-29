@@ -8,7 +8,7 @@ permalink: /publications/
 
 <h1 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">Selected Publications</h1>
 
-(For a full list, please go to [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lo_0001:David) or [Google Scholar](http://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en))
+(This is only a partial list of our publications. For a fairly complete list, please go to [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lo_0001:David) or [Google Scholar](http://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en))
 
 {% assign publications_by_year = site.data.publist | group_by: "year" | sort: "name" | reverse %}
 {% for year in publications_by_year %}
