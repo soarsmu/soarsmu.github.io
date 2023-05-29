@@ -139,7 +139,14 @@ permalink: /team/
 - {% if item.homepage %}<a href="{{ item.homepage }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}, from {{item.from }} ({{item.year}})
   {% endfor %}
 
-## Former Students
+### Former Research Engineers/Assistants:
+
+{% for item in site.data.team_members.alumni.research_engineers %}
+
+- {% if item.homepage %}<a href="{{ item.homepage }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %} {% if item.duration %} ({{item.duration}}) {% endif %}
+  {% endfor %}
+
+## Former Student (incomplete list)
 
 <div class="row">
 
