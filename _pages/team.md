@@ -144,6 +144,7 @@ permalink: /team/
 {% for item in site.data.team_members.alumni.research_engineers %}
 
 - {% if item.homepage %}<a href="{{ item.homepage }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %} {% if item.duration %} ({{item.duration}}) {% endif %}
+  {% if item.employment %} <br/>Current: {{item.employment}} {% endif %}
   {% endfor %}
 
 ## Former Student (incomplete list)

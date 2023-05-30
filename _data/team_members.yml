@@ -229,10 +229,6 @@ alumni:
       - name: Martin Francois C. WEYSSOW
         from: University of Montréal, Canada
         year: 2022
-      - name:  Le-Cong Thanh
-        homepage: https://thanhlecongg.github.io/
-        from: Hanoi University of Science and Technology, Vietnam
-        year: 2022
       - name: NIU Changan
         from: Nanjing University, China
         year: 2022
@@ -253,8 +249,13 @@ alumni:
         year: 2023
   research_engineers:
     - name: Truong Giang Nguyen
+    - name:  Le-Cong Thanh
+      homepage: https://thanhlecongg.github.io/
+      employment: PhD student, University of Melbourne, Australia
+      duration: Jan 2022 - Dec 2022
     - name: Kien Luong
     - name: Muhammad Hilmi ASYROFI
+      duration: Nov 2019 - May 2022
     - name: Divya Prabha CHANDRASEKARAN
       duration: Nov 2019 - May 2022
       employment: Machine Learning Engineer, PropertyGuru, Singapore
