@@ -1,3 +1,47 @@
+- title: 'VulCurator: A Vulnerability-Fixing Commit Detector'
+  authors: Truong Giang Nguyen, Thanh Le-Cong, Hong Jin Kang, and Bach Le and David Lo
+  publisher: ESEC/FSE 2022
+  year: 2022
+  type: Conference
+  doi: https://doi.org/10.1145/3540250.3558936
+  code: https://github.com/ntgiang71096/VFDetector
+  pdf: VulCurator.pdf
+- title: 'AutoPruner: Transformer-Based Call Graph Pruning'
+  authors: Thanh Le-Cong, Hong Jin Kang, Truong Giang Nguyen, Stefanus Agus Haryono, David Lo, Bach Le and Thang Huynh Quyet
+  publisher: ESEC/FSE 2022
+  type: Conference
+  year: 2022
+  doi: https://doi.org/10.1145/3540250.3549175
+  code: https://github.com/soarsmu/AutoPruner
+  pdf: FSE_AutoPruner.pdf
+- title: 'Chronos: Time-Aware Zero-Shot Identification of Libraries from Vulnerability Reports'
+  authors: Yunbo Lyu, Thanh Le-Cong, Hong Jin Kang, Ratnadira Widyasari, Zhao Zhipeng, Bach Le, Ming Li and David Lo 
+  publisher: ICSE 2023
+  type: Conference
+  year: 2023
+  code: https://github.com/soarsmu/Chronos
+  pdf: ICSE_Chronos.pdf
+- title:  'Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning'
+  authors: Thanh Le-Cong, Duc-Minh Luong, Bach Le, David Lo, Nhat Hoa Tran, Quang Huy Bui and Quyet Thang Huynh
+  publisher: IEEE Transactions on Software Engineering
+  year: 2023
+  type: Journal
+  code: https://github.com/thanhlecongg/Invalidator
+  pdf: TSE_Invalidator.pdf
+- title: 'MiDas: Multi-Granularity Detector for Vulnerability Fixes'
+  authors: Truong Giang Nguyen, Thanh Le-Cong, Hong Jin Kang, Ratnadira Widyasari, Chengran Yang, Zhipeng Zhao, Bowen Xu, Jiayuan Zhou, Xin Xia, Ahmed E. Hassan, Bach Le, and David Lo
+  publisher: IEEE Transactions on Software Engineering
+  year: 2023
+  type: Journal
+  code: https://github.com/soarsmu/midas
+  pdf: TSE_MiDas.pdf
+- title: 'FFL: Fine grained Fault Localization for Student Programs via Syntactic and Semantic Reasoning'
+  authors: Thanh-Dat Nguyen, Thanh Le-Cong, Duc-Minh Luong, and Van-Hai Duong, Bach Le, David Lo and Quyet-Thang Huynh
+  publisher: ICSME 2022
+  type: Conference
+  year: 2022
+  code: https://github.com/FFL2022/FFL
+  pdf: ICSME_FFL.pdf
 - title: "Curiosity-Driven and Victim-Aware Adversarial Policies"
   image: 
   description: 
@@ -5,8 +49,8 @@
   publisher: ACSAC 2022
   type: Conference
   pdf: ACSAC_Curiosity.pdf
-  doi: 
-  code: 
+  doi: https://doi.org/10.1145/3564625.3564636
+  code: https://github.com/soarsmu/Curiosity_in_Adversarial_Policy
   highlight: 
   news2: 
   year: 2022
@@ -17,8 +61,8 @@
   publisher: ASE 2022
   type: Conference
   pdf: ASE_Compressing.pdf
-  doi: 
-  code: 
+  doi: https://doi.org/10.1145/3551349.3556964
+  code: https://github.com/soarsmu/Compressor
   highlight: 
   news2: 
   year: 2022
@@ -29,8 +73,8 @@
   publisher: ICSE 2022
   type: Conference
   pdf: ICSE_Natural_Attack.pdf
-  doi: 
-  code: 
+  doi: https://doi.org/10.1145/3510003.3510146
+  code: https://github.com/soarsmu/attack-pretrain-models-of-code
   highlight: 
   news2: 
   year: 2022
@@ -41,8 +85,8 @@
   publisher: SANER 2022
   type: Conference
   pdf: saner_bias.pdf
-  doi: 
-  code: 
+  doi: https://doi.org/10.1109/SANER53432.2022.00027
+  code: https://github.com/soarsmu/Python-Bug-Report-Dataset
   highlight: 
   news2: 
   year: 2022
@@ -53,8 +97,8 @@
   publisher: SANER 2022
   type: Conference
   pdf: SANER_revisting.pdf
-  doi: 
-  code: 
+  doi: https://doi.org/10.1109/SANER53432.2022.00056
+  code: https://github.com/soarsmu/Revisiting_Neuron_Coverage
   highlight: 
   news2: 
   year: 2022
@@ -65,8 +109,8 @@
   publisher: SANER 2022
   type: Conference
   pdf: saner_identifier.pdf
-  doi: 
-  code: 
+  doi: https://doi.org/10.1109/SANER53432.2022.00130
+  code: https://github.com/soarsmu/CodeNLM
   highlight: 
   news2: 
   year: 2022
