@@ -6,14 +6,6 @@ current:
     education:
       - PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a>
       - B.Eng., Bandung Institute of Technology
-  - name: <a href="http://www.bowenxu.me">Bowen XU</a>
-    photo: bowen.jpg
-    info: Research Scientist, started Nov 2021
-    email: bowenxu@smu.edu.sg
-    education:
-      - PhD, SMU, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a>
-      - M.Eng., Zhejiang University, supervised by <a href="https://person.zju.edu.cn/en/0087125">Prof Shanping LI</a> and <a href="https://xin-xia.github.io">Prof. Xin XIA </a>
-      - B.Eng., Hunan City University
   - name: <a href="https://jiakun-liu.github.io">Jiakun LIU</a>
     photo: jiakun.jpg
     info: Research Scientist, started Sep 2022
@@ -116,7 +108,7 @@ alumni:
     - name: Bowen Xu
       homepage: https://www.bowenxu.me/
       thesis: "Learning to Interpret Knowledge from Software Question and Answer Sites"
-      employment: Research Scientist, SMU, Singapore
+      employment: Assistant Professor, North Carolina State University, USA
     - name: Gede Artha Azriadi Prana
       homepage: https://sites.google.com/view/gprana/
       thesis: "Can We Make it Better? Assessing and Improving Quality of GitHub Repositories"
