@@ -1,0 +1,243 @@
+- title: "Opportunities and Challenges in Code Search Tools"
+  image: 
+  description: 
+  authors: C Liu, X Xia, D Lo, C Gao, X Yang, J Grundy
+  publisher: ACM Computing Surveys
+  type: Journal
+  pdf: csur211.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Deep Just-In-Time Defect Localization"
+  image: 
+  description: 
+  authors: F Qiu, Z Gao, X Xia, D Lo, J Grundy, X Wang
+  publisher: IEEE Transactions on Software Engineering
+  type: Journal
+  pdf: tse216.pdf 	
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing"
+  image: 
+  description: 
+  authors: C Gao, J Zeng, Z Wen, D Lo, X Xia, I King, M Lyu
+  publisher: IEEE Transactions on Software Engineering
+  type: Journal
+  pdf: tse213.pdf 	
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Broken External Links on Stack Overflow"
+  image: 
+  description: 
+  authors: J Liu, X Xia, D Lo, H Zhang, Y Zou, AE Hassan, S Li
+  publisher: IEEE Transactions on Software Engineering
+  type: Journal
+  pdf: tse214.pdf 	
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Data Quality Matters: A Case Study on Data Label Correctness for Security Bug Report Prediction"
+  image: 
+  description: 
+  authors: X Wu, W Zheng, X Xia, D Lo
+  publisher: IEEE Transactions on Software Engineering, 1-1
+  type: Journal
+  pdf: tse212.pdf 	
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode"
+  image: 
+  description: 
+  authors: J Chen, X Xia, D Lo, J Grundy, X Luo, T Chen
+  publisher: IEEE Transactions on Software Engineering
+  type: Journal
+  pdf: DEFECTCHECKER.pdf 	
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "An Empirical Study of Release Note Production and Usage in Practice"
+  image: 
+  description: 
+  authors: T Bi, X Xia, D Lo, J Grundy, T Zimmermann
+  publisher: IEEE Transactions on Software Engineering
+  type: Journal
+  pdf: Release Note Production and.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Adversarial Specification Mining"
+  image: 
+  description: 
+  authors: HJ Kang, D Lo
+  publisher: ACM Transactions on Software Engineering and Methodology (TOSEM) 30 (2), 1-40
+  type: Journal
+  pdf: Adversarial Specification Mining.pdf 	
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Technical Q8A Site Answer Recommendation via Question Boosting"
+  image: 
+  description: 
+  authors: Z Gao, X Xia, D Lo, J Grundy
+  publisher: ACM Transactions on Software Engineering and Methodology (TOSEM) 30 (1), 1-34
+  type: Journal
+  pdf: Technical Q&A Site Answer Recommendation via Question.pdf 
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Why my code summarization model does not work: Code comment improvement with category prediction"
+  image: 
+  description: 
+  authors: Q Chen, X Xia, H Hu, D Lo, S Li
+  publisher: ACM Transactions on Software Engineering and Methodology (TOSEM) 30 (2), 1-29
+  type: Journal
+  pdf: Code.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "An exploratory study on the introduction and removal of different types of technical debt in deep learning frameworks"
+  image: 
+  description: 
+  authors: J Liu, Q Huang, X Xia, E Shihab, D Lo, S Li
+  publisher: Empirical Software Engineering 26 (2), 1-36
+  type: Journal
+  pdf: An Exploratory Study on the Introduction and.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "What makes a popular academic AI repository?"
+  image: 
+  description: 
+  authors: Y Fan, X Xia, D Lo, AE Hassan, S Li
+  publisher: Empirical Software Engineering 26 (1), 1-35
+  type: Journal
+  pdf: What makes a popular academic AI repository.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Scalable online vetting of Android apps for measuring declared SDK versions and their consistency with API calls"
+  image: 
+  description: 
+  authors: D Wu, D Gao, D Lo
+  publisher: Empirical Software Engineering 26 (1), 1-32
+  type: Journal
+  pdf: Scalable Online Vetting of Android Apps for.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+
+- title: "Deep-Learning-Based App Sensitive Behavior Surveillance for Android Powered Cyber-Physical Systems"
+  image: 
+  description: 
+  authors: H Ma, J Tian, K Qiu, D Lo, D Gao, D Wu, C Jia, T Baker
+  publisher: IEEE Transactions on Industrial Informatics	
+  type: Journal
+  pdf: tii20.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Do users care about ad’s performance costs? Exploring the effects of the performance costs of in-app ads on user experience"
+  image: 
+  description: 
+  authors: C Gao, J Zeng, F Sarro, D Lo, I King, MR Lyu
+  publisher: Information and Software Technology 132, 106471		
+  type: Journal
+  pdf: Exploring the Effects of.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+
+- title: "An Empirical Study of the Landscape of Open Source Projects in Baidu, Alibaba, and Tencent"
+  image: 
+  description: 
+  authors: J Han, S Deng, D Lo, C Zhi, J Yin, X Xia
+  publisher: ICSE 2021 SEIP
+  type: Conference
+  pdf: An Empirical Study of the Landscape of Open Source Projects in Baidu, Alibaba, and Tencent.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "A Differential Testing Approach for Evaluating Abstract Syntax Tree Mapping Algorithms"
+  image: 
+  description: 
+  authors: Y Fan, X Xia, D Lo, AE Hassan, Y Wang, S Li
+  publisher: ICSE 2021
+  type: Conference
+  pdf: A Differential Testing Approach for Evaluating Abstract Syntax Tree Mapping Algorithms.pdf		
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Smart Contract Security: a Practitioners' Perspective"
+  image: 
+  description: 
+  authors: Z Wan, X Xia, D Lo, J Chen, X Luo, X Yang
+  publisher: ICSE 2021
+  type: Conference
+  pdf: a Practitioners' Perspective.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "TOUR: Dynamic Topic and Sentiment Analysis of User Reviews for Assisting App Release"
+  image: 
+  description: 
+  authors: T Yang, C Gao, J Zang, D Lo, MR Lyu
+  publisher: WWW ’21 Companion
+  type: Conference
+  pdf: Dynamic Topic and Sentiment Analysis of User Reviews.pdf 
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+- title: "Characterization and Prediction of Questions without Accepted Answers on Stack Overflow"
+  image: 
+  description: 
+  authors: M Yazdaninia, D Lo, A Sami
+  publisher: ICPC 2021
+  type: Conference
+  pdf: Characterization and Prediction of Questions.pdf
+  doi: 
+  code: 
+  highlight: 
+  news2: 
+
+

@@ -1,0 +1,152 @@
+- date: March 2023
+  headline: 'Congratulations Martin WEYSSOW, ZHOU Xin, and Kisub KIM for getting their ESEC/FSE 2023 paper accepted titled "<b>On the Usage of Continual Learning for Out-of-Distribution Generalization in Pre-trained Language Models of Code</b>"!'
+- date: March 2023
+  headline: 'Congratulations to ZHANG Ting for successfully defending her Thesis Proposal!'
+- date: March 2023
+  headline: 'Congratulations to YANG Zhou, WANG Chenyu, SHI Jieke, Hoang James (Data61, Eveleigh), Pavneet Kochhar (Guest), Ivana Clairine IRSAN, ZHANG Ting, Ferdian THUNG, Kisub KIM, Ratnadira WIDYASARI, SIM Sheng Qin, Fiona WEE Hui Yu, Camellia LOK Shu Fen, Jack PHAN Da Jie, Constance TAN Hui Yan, and TAY Qijin for the acceptance of their MSR 2023 papers "<b>What Do Users Ask in Open-Source AI Repositories? An Empirical Study of GitHub Issues</b>", "<b>PICASO: Enhancing API Recommendations with Relevant Stack Overflow Posts</b>", "<b>NICHE: A Curated Dataset of Engineered Machine Learning Projects in Python</b>"!'
+- date: March 2023
+  headline: 'Congratulations to LE CONG Thanh and Bach Le (Guest) for the acceptance of their TSE paper "<b>Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning</b>"!'
+- date: February 2023
+  headline: 'Congratulations to XU Bowen for securing an Assistant Professor position at the North Carolina State University (NCSU)!'
+- date: February 2023
+  headline: 'Congratulations to ZHOU Xin, Kisub KIM, XU Bowen, HAN DongGyun (Guest), and HE Junda for the acceptance of their ICPC 2023 paper titled "<b>Generation-based Code Review Automation: How Far are We?</b>"!'
+- date: February 2023
+  headline: 'Congratulations to Ferdian THUNG for getting two of his papers "<b>Automated Library Recommendation</b>" and "<b>Network Structure of Social Coding</b>" nominated for Most Influential Paper award for SANER 2023!'
+- date: February 2023
+  headline: 'Congratulations to YANG Chengran, XU Bowen, and LIU Jiakun for the acceptance of their ICSE 2023 tool demo paper "<b>TECHSUMBOT: A Stack Overflow Answer Summarization Tool for Technical Query</b>"!'
+- date: January 2023
+  headline: 'Congratulations to Dr. KANG Hong Jin for completing his PhD!'
+- date: December 2022
+  headline: 'Congratulations to KANG Hong Jin for the acceptance of his paper titled "<b>How to Find Actionable Static Analysis Warnings: A Case Study with FindBugs</b>" by IEEE Transactions on Software Engineering!'
+- date: December 2022
+  headline: "Our IEEE Transactions on Software Engineering paper <b>How does Machine Learning Changes Software Development Practices?</b> just won the <a href='https://www.computer.org/publications/best-paper-award-winners'>Best Paper Runner-Up</a>!"
+- date: December 2022
+  headline: 'Congratulations to Ratnadira WIDYASARI, ZHAO Zhipeng, LE CONG Thanh, and KANG Hong Jin for the acceptance of their SANER 2023 paper "<b>Topic Recommendation for GitHub Repositories: How Far Can Extreme Multi-Label Learning Go?</b>"! Congratulations to Ivana Clairine IRSAN, ZHANG Ting, Ferdian THUNG, and Kisub KIM for the acceptance of their SANER 2023 paper "<b>Multi-Source API Recommendation</b>"! Congratulations to YANG Zhou for the acceptance of his SANER 2023 paper "<b>Exploring and Repairing Fairness Violations in Sentiment Analysis Model through Adversarial Patches</b>"!'
+- date: December 2022
+  headline: 'Congratulations to GONG Chen, YANG Zhou, SHI Jieke, and XU Bowen for winning the <b>Honorable Mention Award</b> at ACSAC 2022 for their paper titled "<b>Curiosity-Driven and Victim-Aware Adversarial Policies</b>"! Congratulations for LYU Yunbo, LE CONG Thanh, Ratnadira WIDYASARI, ZHAO Zhipeng, and Bach Le (Guest) for the acceptance of their paper titled "<b>Chronos: Time-Aware Zero-Shot Identification of Libraries from Vulnerability Reports</b>" at ICSE 2023!'
+- date: November 2022
+  headline: 'Congratulations to ZHANG Ting, Dong Gyun HAN (Guest), Ivana Clairine IRSAN, XU Bowen, and Ferdian THUNG for the acceptance of their ACM Transactions on Software Engineering and Methodology paper titled "<b>Duplicate Bug Report Detection: How Far Are We?</b>"!'
+- date: November 2022
+  headline: "Congratulations to YANG Zhou and YANG Chengran for passing the PhD Qualifying Exam!"
+- date: November 2022
+  headline: "Our project proposal <b>TrustedSEERs: Trusted Intelligent Work Bots for Engineering Better Software Faster</b> has been awarded the <a href='https://www.nrf.gov.sg/grants/nrfi/'>NRF Investigatorship</a>! It is the 2nd of such award at SMU and the there were only 3 awards given to CS projects in Singapore before!"
+- date: October 2022
+  headline: 'Congratulations to Ferdian THUNG and Shaowei Wang (Guest) for winning the <b>Test-of-Time Award</b> for the ISSRE 2012 paper "An Empirical Study of Bugs in Machine Learning Systems"!'
+- date: September 2022
+  headline: 'Congratulations to SHI Jieke, YANG Zhou, XU Bowen, KANG Hong Jin for getting their paper "Compressing Pre-trained Models of Code into 3 MB" nominated for the <b>ACM SIGSOFT Distinguished Paper Awards</b> for ASE 2022!'
+- date: August 2022
+  headline: 'Congratulations to ZHANG Ting, Imam Nur Bani YUSUF, Truong Giang NGUYEN, Ivana Clairine IRSAN, LE CONG Thanh, KANG Hong Jin, Ferdian THUNG, Han, Dong Gyun (Guest), Bach Le (Guest) for the acceptance of their FSE 2022 tool demo paper titled "<b>CodeMatcher: A Tool for Large-Scale Code Search Based on Query Semantics Matching</b>", "<b>RecipeGen++: An Automated Trigger Action Programs Generator</b>", "<b>iTiger: An Automatic Issue Title Generation Tool</b>", and "<b>VulCurator: A Vulnerability-Fixing Commit Detector</b>"!'
+- date: July 2022
+  headline: 'Congratulations to SHI Jieke, YANG Zhou, XU Bowen, and KANG Hong Jin for the acceptance of their ASE 2022 paper titled "<b>Compressing Pre-trained Models of Code into 3 MB</b>"! Congratulations to YANG Chengran, XU Bowen, Ferdian THUNG, SHI Yucen, ZHANG Ting, YANG Zhou, ZHOU Xin, SHI Jieke, HE Junda, and Han, Dong Gyun (Guest) for the conditional acceptance of their ASE 2022 paper titled "<b>Answer Summarization for Technical Queries: Benchmark and New Approach</b>"!'
+- date: July 2022
+  headline: 'Congratulations to Ivana Clairine IRSAN, ZHANG Ting, and Ferdian THUNG for the acceptance of their ICSME tool demo paper titled "<b>AutoPRTitle: A Tool for Automatic Pull Request Title Generation</b>"!'
+- date: July 2022
+  headline: Congratulations to KANG Hong Jin for receiving the <b>Dean's List</b> for 2022!
+- date: July 2022
+  headline: 'Congratulations to KANG Hong Jin, Ratnadira WIDYASARI and YANG Zhou for winning the <b>SMU Presidential Doctoral Fellowship</b> in Academic Year 2022/2023!'
+- date: June 2022
+  headline: 'Congratulations to ZHANG Ting, Ivana Clairine IRSAN, Ferdian THUNG, and DongGyun Han for the acceptance of their ICSME 2022 paper titled "<b>Automatic Pull Request Title Generation</b>"! Congratulations to Thanh Dat NGUYEN, LE CONG Thanh, Bach Le (Guest) for the acceptance of their ICSME 2022 paper titled "<b>FFL: Fine grained Fault Localization for Student Programs via Syntactic and Semantic Reasoning</b>"!'
+- date: June 2022
+  headline: 'Congratulations to LE CONG Thanh, KANG Hong Jin, Truong Giang NGUYEN, Stefanus AGUS HARYONO, and Bach Le (Guest) for their accepted ESEC/FSE 2022 paper "<b>AutoPruner: Tranformer-based Call Graph Pruning</b>". Congratulations to SHI Yucen and XU Bowen for their accepted ESEC/FSE 2022 paper "<b>How to Better Utilize Code Graphs in Semantic Code Search?</b>"!'
+- date: June 2022
+  headline: 'Congratulations to Ratnadira WIDYASARI, Gede Artha Azriadi PRANA, Stefanus AGUS HARYONO, and Shaowei Wang (Guest) for the acceptance of their Empirical Software Engineering (EMSE) journal paper titled "<b>Real World Projects, Real Faults: Evaluating Spectrum Based Fault Localization Techniques on Python Projects</b>"!'
+- date: May 2022
+  headline: 'Congratulations to KANG Hong Jin, and AW Khai Loong for the nomination of their ICSE 2022 paper titled "<b>Detecting False Alarms from Automatic Static Analysis Tools: How Far are We?</b>" for the <b>Distinguished Paper Award</b>!'
+- date: May 2022
+  headline: 'Congratulations to Yuan Tian (Guest) for winning the <b>Best ERA Paper Award</b> at ICPC 2022. Congratulations to Shaowei Wang (Guest) for winning the <b>Distinguished PC Member Award</b> at MSR 2022!'
+- date: April 2022
+  headline: 'Congratulations to KANG Hong Jin, Truong Giang NGUYEN, Bach Le for the acceptance of their ISSTA 2022 full research paper titled "<b>Test Mimicry to Assess the Exploitability of Library Vulnerabilities</b>"!'
+- date: March 2022
+  headline: 'Congratulations to all the authors of the 10 ICPC 2022 full papers (including Ferdian THUNG, ZHANG Ting, Imam Nur Bani YUSUF, Kien Gia LUONG, Mohammad HADI, Stefanus AGUS HARYONO, KANG Hong Jin, Abhishek SHARMA, HE Junda, XU Bowen, YANG Zhou, HAN DongGyun, YANG Chengran, Ratnadira WIDYASARI, Gede Artha Azriadi PRANA, Yuan Tian, Hafil Noer ZACHIARY, ZHOU Xin, Divya Prabha CHANDRASEKARAN)!'
+- date: February 2022
+  headline: 'Congratulations to HAN DongGyun for securing a Lecturer (equivalent to tenure-track Assistant Professor) position at Royal Holloway, University of London!'
+- date: January 2022
+  headline: 'Congratulations to Kien Gia Luong and Ferdian THUNG for getting their tool demo paper "<b>ARSearch: Searching for API Related Resources from Stack Overflow and GitHub</b>" accepted by ICSE 2022!'
+- date: December 2021
+  headline: 'Congratulations to SHI Jieke, YANG Zhou, HE Junda, and XU Bowen for the acceptance of their paper "<b>Can Identifier Splitting Improve Open-Vocabulary Language Model of Code?</b>" to the NIER track of SANER 2022!'
+- date: December 2021
+  headline: 'Congratulations to YANG Chengran and Ferdian THUNG for the acceptance of their paper "<b>Efficient Search of Live-Coding Screencasts from Online Videos</b>" to the NIER track of SANER 2022!'
+- date: December 2021
+  headline: 'Congratulations to Ratnadira WIDYASARI, Stefanus AGUS HARYONO, Ferdian THUNG, SHI Jieke, Constance TAN Hui Yan, Fiona WEE Hui Yu, and Jack PHAN Da Jie for their paper "<b>On the Influence of Potential Biases in Bug Localization: A Replication Study</b>" to the RENE track of SANER 2022!'
+- date: December 2021
+  headline: 'Congratulations to YANG Zhou, SHI Jieke, and Muhammad Hilmi ASYROFI for their paper "<b>Revisiting Neuron Coverage Metrics and Quality of Deep Neural Networks</b>" to the RENE track of SANER 2022!'
+- date: December 2021
+  headline: 'Congratulations to Abhishek SHARMA and Gede Artha Azriadi PRANA for the acceptance of their paper "<b>Analyzing Offline Social Engagements: An Empirical Study of Meetup Events Related to Software Development</b>" to SANER 2022!'
+- date: December 2021
+  headline: 'Congratulations to Truong Giang NGUYEN, KANG Hong Jin, Abhishek SHARMA for the acceptance of their paper "<b>HERMES: Using Commit-Issue Linking to Detect Vulnerability-Fixing Commits</b>" to SANER 2022!'
+- date: December 2021
+  headline: 'Congratulations to YANG Chengran, XU Bowen, HAN DongGyun, YANG Zhou for the acceptance of their paper "<b>Aspect-Based API Review Classification: How Far Can Pre-Trained Transformer Model Go?</b>" to SANER 2022!'
+- date: December 2021
+  headline: 'Congratulations to Muhammad Hilmi ASYROFI, YANG Zhou, Imam Nur Bani YUSUF, KANG Hong Jin, and Ferdian THUNG for getting their IEEE Transactions on Software Engineering paper (titled "<b>BiasFinder: Metamorphic Test Generation to Uncover Bias for Sentiment Analysis Systems</b>") accepted!'
+- date: December 2021
+  headline: 'Congratulations to YANG Zhou, SHI Jieke, and HE Junda for the acceptance of their ICSE 2022 submission titled "<b>Natural Attack for Pre-trained Models of Code</b>"!'
+- date: December 2021
+  headline: 'Congratulations to KANG Hong Jin and AW Khai Loong for the acceptance of their ICSE 2022 submission titled "<b>Detecting False Alarms from Automatic Static Analysis Tools: How Far are We?</b>"!'
+- date: November 2021
+  headline: Congratulations to David Lo for being appinted as a <b>Fellow of Institute of Electrical and Electronics Engineering (IEEE Fellow)</b>, <b>Fellows of Automated Software Engineering (ASE Fellow)</b>, and <b>Vice Chair of ASE steering committee</b>!
+- date: November 2021
+  headline: 'Congratulations to Stefanus AGUS HARYONO, Ferdian THUNG, and KANG Hong Jin for their accepted paper to Empirical Software Engineering journal titled "<b>AndroEvolve: Automated Android API Update with Data Flow Analysis and Variable Denormalization</b>"!'
+- date: November 2021
+  headline: Congratulations to KANG Hong Jin for passing his PhD proposal!
+- date: November 2021
+  headline: Congratulations to Shaowei Wang (Guest) and Yuan Tian (Guest) for winning the <b>Best New Ideas and Emerging Results Award at ICSME 2021</b> for their paper "Is Reputation on Stack Overflow Always a Good Indicator for Users' Expertise? No!"!
+- date: November 2021
+  headline: Congratulations to Gede Artha Azriadi PRANA for passing his PhD defense!
+- date: November 2021
+  headline: Congratulations to Yuan Tian and Ferdian THUNG for getting their CSMR 2012 ("<b>Improved Duplicate Bug Report Identification</b>") and WCRE 2012 ("<b>Information Retrieval Based Nearest Neighbor Classification for Fine-Grained Bug Severity Prediction</b>", "<b>Automatic Defect Categorization</b>") papers included among the shortlist of nominees for the Most Influential Paper awards!
+- date: August 2021
+  headline: Congratulations to Dr. XU Bowen for completing his PhD!
+- date: August 2021
+  headline: Congratulations to Bach Le (Guest) for being awarded <b>ARC DECRA</b>!
+- date: August 2021
+  headline: Congratulations to XU Bowen and KANG Hong Jin for winning the <b>AY2020-21 SCIS Dean's List</b>!
+- date: August 2021
+  headline: 'Congratulations to YANG Zhou, Muhammad Hilmi ASYROFI, Kien Gia Luong, Ferdian THUNG, SHI Jieke, Harshit JAIN, CHU Wei Quan for the acceptance of their NIER papers at ICSME "<b>Can Differential Testing Improve Automatic Speech Recognition Systems?</b>", "<b>Disambiguating Mentions of API Methods in Stack Overflow via Type Scoping</b>", "<b>BiasHeal: On-the-Fly Black-Box Healing of Bias in Sentiment Analysis Systems</b>"!'
+- date: July 2021
+  headline: 'Congratulations to YANG Zhou, SHI Jieke, and Shaowei Wang for the acceptance of their ASE tool demo paper "<b>IncBL: Incremental Bug Localization</b>"!'
+- date: July 2021
+  headline: 'Congratulations to Stefanus AGUS HARYONO and Ferdian THUNG for the acceptance of their ICSME tool demo paper "<b>MLCatchUp: Automated Update of Deprecated Machine-Learning APIs in Python</b>"!'
+- date: July 2021
+  headline: "Congratulations to Gede Artha Azriadi PRANA and KANG Hong Jin for being awarded <b>AY2021 Presidential Doctoral Fellowship</b>!"
+- date: June 2021
+  headline: 'Congratulations to Zhou YANG and Muhammad Hilmi ASYROFI for the acceptance of two ESEC/FSE tool demo papers "<b>CrossASR++: A Modular Differential Testing Framework for Automatic Speech Recognition</b>" and "<b>BiasRV: Uncovering Biased Sentiment Predictions at Runtime</b>"!'
+- date: June 2021
+  headline: 'Congratulations to Gede Artha Azriadi PRANA for the acceptance of his TSE paper titled "<b>Including Everyone, Everywhere: Understanding Opportunities and Challenges of Geographic Gender-Inclusion in OSS</b>"!'
+- date: June 2021
+  headline: 'Congratulations to XU Bowen, HOANG Van Duc Thong, Abhishek SHARMA, and YANG Chengran for the acceptance of their TSE paper titled "<b>Post2Vec: Learning Distributed Representations of Stack Overflow Posts</b>"!'
+- date: June 2021
+  headline: 'Congratulations to Stefanus AGUS HARYONO, ZHOU Xin, Ferdian THUNG, and HAN DongGyun for the acceptance of their ICSME papers "<b>Assessing Generalizability of CodeBERT</b>" and "<b>Characterization and Automatic Updates of Deprecated Machine-Learning API Usages</b>"!'
+- date: May 2021
+  headline: "Congratualations to Dr. David Lo for being nominated for <b>2021 SMU Undergraduate Excellent Teacher Award</b>!"
+- date: April 2021
+  headline: "Congratualations to Dr. David Lo for being awarded the <b>2021 IEEE Technical Council on Software Engineering (TCSE) Distinguished Service Award</b>!"
+- date: March 2021
+  headline: 'Congratulations to Ferdian THUNG and KANG Hong Jin for the acceptance of two TSE papers "<b>Legion: Massively Composing Rankers for Improved Bug Localization at Adobe</b>" and "<b>Active Learning of Discriminative Subgraph Patterns for API Misuse Detection</b>"!'
+- date: March 2021
+  headline: 'Two large multi-university projects SOAR participated in have been approved: "<b>The Science of Certified AI</b>" and "<b>Trust to Train and Train to Trust: Agent Training Programs for Safety-Critical Environments</b>"!'
+- date: March 2021
+  headline: 'Congratulations to Gede Artha Azriadi PRANA and Abhishek SHARMA for the acceptance of their EMSE paper "<b>Out of Sight, Out of Mind? How Vulnerable Dependencies Affect Open-Source Projects</b>"!'
+- date: January 2021
+  headline: 'Congratulations to Stefanus AGUS HARYONO, Ferdian THUNG and KANG Hong Jin for getting their paper on "<b>AndroEvolve: Automated Update for Android Deprecated-API Usages</b>" accepted by the tool demo track of ICSE 2021!'
+- date: January 2021
+  headline: "Congratualations to Dr. David Lo for being promoted to be a <b>Full Professor</b> at SMU!"
+- date: November 2020
+  headline: "Congratulations to Dr. David LO for being <b>ranked among the top-2% scientists worldwide</b> (in the field of software engineering), according to a <a href='https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000918'>study</a> by Stanford Universty!"
+- date: September 2020
+  headline: "Congratulations to KANG Hong Jin for <b>the acceptance of his TOSEM paper</b> entitled Adversarial Specification Mining!"
+- date: August 2020
+  headline: "Congratulations to HOANG Van Duc Thong and XU Bowen for being in <b>the Dean's List</b> (only 6 out of the 60+ (max 10%) students are selected)!"
+- date: August 2020
+  headline: "Our research proposal on <b>Making Big Code Active: From Billions of Code Tokens to Automation</b> has been approved for funding by <a href='https://sdsc.sg/'>Singapore Data Science Consortium (SDSC)</a>!"
+- date: August 2020
+  headline: "Our research proposal on <b>Uncovering Vulnerabilities in Machine Learning Frameworks via Software Composition Analysis and Directed Grammar Based Fuzzing</b> has been funded by <a href='https://www.nrf.gov.sg/'>National Research Foundation</a>!"
+- date: August 2020
+  headline: "Congratulations to Ratnadira WIDYASARI, SIM Sheng Qin, Camellia LOK Shu Fen, QI Haodi, Jack PHAN Da Jie, TAY Qijin, Constance TAN Hui Yan, Fiona WEE Hui Yu, Jodie Ethelda TAN Si Yin, YIEH Yuheng, Brian GOH Jun Wei, Ferdian THUNG, KANG Hong Jin, and HOANG Van Duc Thong for their paper acceptance to <a href='https://2020.esec-fse.org/'>ESEC-FSE 2020</a>!"
+- date: August 2020
+  headline: "Congratulations to ZHANG Ting, Muhammad Hilmi ASYROFI, XU Bowen, Stefanus AGUS HARYONO, Ferdian THUNG for their paper acceptances to <a href='https://icsme2020.github.io/'>ICSME 2020</a>!"
+- date: August 2020
+  headline: "Congratulations to Dr. HOANG Van Duc Thong for passing his PhD defense! Congratulations to XU Bowen for passing his Thesis Proposal!"
+- date: July 2020
+  headline: "Congratulations to XU Bowen and KANG Hong Jin for receiving <b>the AY2020 Presidential Doctoral Fellowship</b>!"
+# - date: 25. July 2019
+#   headline: "<b>The inhomogeneous superfluid paper is published in <a href='https://www.nature.com/articles/s41586-019-1408-8'>Nature</a>!</b><img src='/images/newspic/SFnews.png' class='img-responsive' style='max-width: 192px' />"
